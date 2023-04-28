@@ -1,0 +1,105 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "924548434587967538",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "forth",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "924548451063189526",
+      "type": "Default",
+      "timestamp": "2021-12-26T06:25:28.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=0PclgBd6_Zs",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\"Programming a 144-computer chip to minimize power\" - Chuck Moore (...",
+          "url": "https://www.youtube.com/watch?v=0PclgBd6_Zs",
+          "timestamp": null,
+          "description": "GreenArrays is shipping its 144-core asynchronous chip that needs little energy (7 pJ/inst). Idle cores use no power (100 nW). Active ones (4 mW) run fast (666 Mips), then wait for communication (idle).\n\nTight coding to minimize instructions executed will minimize power. The programmer can also reduce instruction fetches, transistor switching an...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Strange Loop Conference",
+            "url": "https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hy7FVb2TWPg9TE-Cfiss63xQpoWnoGFtSEuT7ti_ZQY/https/i.ytimg.com/vi/0PclgBd6_Zs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924672696393015347",
+      "type": "Default",
+      "timestamp": "2021-12-26T14:39:10.408+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.forth.com/starting-forth/1-forth-stacks-dictionary",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "1. Fundamental Forth",
+          "url": "https://www.forth.com/starting-forth/1-forth-stacks-dictionary",
+          "timestamp": null,
+          "description": "In this chapter we'll acquaint you with some of the unique properties of the Forth language. After a few introductory pages we'll have you sitting at a",
+          "author": {
+            "name": "Marlin Ouverson",
+            "url": "https://www.forth.com/author/marlin-ouverson/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NG2yKB_TvouQBWd8J4DUWj66PkKybhVVrXXBQZK8wE4/https/www.forth.com/wp-content/uploads/2015/03/ch1-washer.gif",
+            "width": 200,
+            "height": 52
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

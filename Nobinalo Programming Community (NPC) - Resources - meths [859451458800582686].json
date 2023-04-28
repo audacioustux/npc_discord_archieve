@@ -1,0 +1,176 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "859451458800582686",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "meths",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "859451516109062184",
+      "type": "Default",
+      "timestamp": "2021-06-29T15:13:29.277+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Numerical Methods for Engineers",
+          "url": "https://youtube.com/playlist?list=PLkZjai-2Jcxn35XnijUtqqEg0Wi5Sn8ab",
+          "timestamp": null,
+          "description": "These are the videos for my Coursera course, Numerical Methods for Engineers.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Uz6McIdboZPjv4ez4v_FzogLNS7wEUX4moJi9__FErk/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLC_caPUpYn6UC9hx5Fq1jd2Kxyo8A%26days_since_epoch%3D18807/https/i.ytimg.com/vi/qFJGMBDfFMY/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "859452758838607892",
+      "type": "Default",
+      "timestamp": "2021-06-29T15:18:25.567+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/playlist?list=PLi5WqFHu_OJNN-2rHmEOy7NZRNQ43qOuq",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Applied Math",
+          "url": "https://youtube.com/playlist?list=PLi5WqFHu_OJNN-2rHmEOy7NZRNQ43qOuq",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/dRV_8ckIZ-JuBnC7j11Pt0Zb80iptdmDRnOb_qzYcV8/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLCmUFlLwrx7deOlx_lK_Jlum5WXWg%26days_since_epoch%3D18807/https/i.ytimg.com/vi/4csuTO7UTMo/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "859453042251530240",
+      "type": "Default",
+      "timestamp": "2021-06-29T15:19:33.138+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/c/3blue1brown",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "3Blue1Brown",
+          "url": "https://youtube.com/c/3blue1brown",
+          "timestamp": null,
+          "description": "3Blue1Brown, by Grant Sanderson, is some combination of math and entertainment, depending on your disposition. The goal is for explanations to be driven by animations and for difficult problems to be made simple with changes in perspective.\n\nFor more information, other projects, FAQs, and inquiries see the website: https://www.3blue1brown.com",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WK-qyPFv5k9p6-lJG6AFnsH0I94g8P1obYAzhhyzahQ/https/yt3.ggpht.com/ytc/AKedOLRhzluRkOdLTBICxl1mTqE2CQDUAZdhwmEOTIsCmw%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "859454988458524673",
+      "type": "Default",
+      "timestamp": "2021-06-29T15:27:17.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.amazon.com/mathematics-programming-computer-graphics-edition/dp/1435458869",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Mathematics for 3D Game Programming and Computer Graphics, Third Ed...",
+          "url": "https://www.amazon.com/mathematics-programming-computer-graphics-edition/dp/1435458869",
+          "timestamp": null,
+          "description": "Mathematics for 3D Game Programming and Computer Graphics, Third Edition [Eric Lengyel] on Amazon.com. *FREE* shipping on qualifying offers. Mathematics for 3D Game Programming and Computer Graphics, Third Edition",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

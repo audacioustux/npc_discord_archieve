@@ -1,0 +1,414 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "796763473659822141",
+    "type": "GuildTextChat",
+    "categoryId": "728241686647406647",
+    "category": "Text Channels",
+    "name": "ideas",
+    "topic": "random project ideas.. search with #ideas to filter out the ideas without the discussions around it"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "796763899168948224",
+      "type": "Default",
+      "timestamp": "2021-01-07T15:35:16.719+00:00",
+      "timestampEdited": "2021-01-07T15:53:44.03+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what if... you had a terminal app.. that looks and feels like vim... but for practicing vim keyboard shortcut... in typeracer manner.. + multiplayer\ndetail: give a text to type, randomly color words or sentence to replace (optionally give hints e.g. the key-sequence to do that)\nreqs: rust (:wink:), how terminal works (back/front buffers) #ideas",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE2E",
+            "code": "open_mouth",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f62e.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "796768229292900392",
+      "type": "Default",
+      "timestamp": "2021-01-07T15:52:29.101+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "intelliVim",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796768632217534475",
+      "type": "Default",
+      "timestamp": "2021-01-07T15:54:05.166+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nyah.. ওটাতো এক্সটেনশন... টাইপরেসারের মতো কিছুতো না",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796769069058752544",
+      "type": "Default",
+      "timestamp": "2021-01-07T15:55:49.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "play.typeracer.com",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797174866167595039",
+      "type": "Default",
+      "timestamp": "2021-01-08T18:48:18.887+00:00",
+      "timestampEdited": "2021-01-08T18:48:48.834+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "human review system #ideas",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "797174857514876928",
+          "url": "https://cdn.discordapp.com/attachments/796763473659822141/797174857514876928/Screenshot_2021-01-09_1_Facebook1.png",
+          "fileName": "Screenshot_2021-01-09_1_Facebook1.png",
+          "fileSizeBytes": 247499
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797469675998019616",
+      "type": "Default",
+      "timestamp": "2021-01-09T14:19:47.028+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello @audacioustux",
+      "author": {
+        "id": "533697598750457876",
+        "name": "S I R | SPARTA\uD83D\uDC51",
+        "discriminator": "8444",
+        "nickname": "NAYEĒM",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/533697598750457876/dff65e4cc43f3216613fb8ead11f8bf0.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "797472356343480330",
+      "type": "Default",
+      "timestamp": "2021-01-09T14:30:26.072+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802651406183039046",
+      "type": "Default",
+      "timestamp": "2021-01-23T21:30:07.776+00:00",
+      "timestampEdited": "2021-01-23T21:32:02.324+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "file sharing platform with https://www.ipfs.io \n#ideas",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "IPFS Powers the Distributed Web",
+          "url": "https://www.ipfs.io/",
+          "timestamp": null,
+          "description": "The InterPlanetary File System is a peer-to-peer hypermedia protocol designed to make the web faster, safer, and more open.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802836678808567839",
+      "type": "Default",
+      "timestamp": "2021-01-24T09:46:20.212+00:00",
+      "timestampEdited": "2021-01-24T09:46:39.792+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "meme calender #ideas #beginners",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "802836675856302080",
+          "url": "https://cdn.discordapp.com/attachments/796763473659822141/802836675856302080/FB_IMG_1611481528203.jpg",
+          "fileName": "FB_IMG_1611481528203.jpg",
+          "fileSizeBytes": 41793
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806093518194999317",
+      "type": "Default",
+      "timestamp": "2021-02-02T09:27:51.231+00:00",
+      "timestampEdited": "2021-02-02T09:30:47.684+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dynamic (programmatically) image generator/server like: https://github.com/anuraghazra/github-readme-stats #ideas",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "anuraghazra/github-readme-stats",
+          "url": "https://github.com/anuraghazra/github-readme-stats",
+          "timestamp": null,
+          "description": ":zap: Dynamically generated stats for your github readmes - anuraghazra/github-readme-stats",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/98ulcXfoKyjcDw70_ETfb090Gw7tT8iJMqv4XmY_DlI/%3Fs%3D400%26v%3D4/https/avatars.githubusercontent.com/u/35374649",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806093954805792789",
+      "type": "Default",
+      "timestamp": "2021-02-02T09:29:35.327+00:00",
+      "timestampEdited": "2021-02-02T09:29:51.352+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Dynamic (on-demand) Font generator like: https://github.com/lovell/sharp #ideas",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "lovell/sharp",
+          "url": "https://github.com/lovell/sharp",
+          "timestamp": null,
+          "description": "High performance Node.js image processing, the fastest module to resize JPEG, PNG, WebP, AVIF and TIFF images. Uses the libvips library. - lovell/sharp",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/jF0l4WrbXsEF6ExyIwvRwwF4e8AIkBs5xRXT1beLFEs/https/repository-images.githubusercontent.com/12226786/cf816100-9a08-11ea-8fc1-7af9d4bcbf9e",
+            "width": 1280,
+            "height": 640
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "839062940123922442",
+      "type": "Default",
+      "timestamp": "2021-05-04T08:56:33.961+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#ideas...\nimagine you have a gaming pc... your friend needs to compile some shits.. তোমার পিসির কম্পিউট পাওয়ার তাকে ধার দিবা... কিন্তু তোমার পিসিতো বন্ধও থাকতে পারে... আবার সেও তো বসে থাকতে চাইবেনা কখন তুমি পিসি অন করো... আবার তোমার পিসিযদি শাটডাউন করো যেকোনো সময়, ঐ কম্পাইলেশন বা যেকোনো প্রসেসের স্টেট সামহাউ ব্যকাপ রাখা লাগবে... পরে আবার রিজিউম করা যাবে... \nএবার ধরো ফ্রেন্ড না.. কম্পিউট ভাড়া দিলা... নট সাম ক্রিপ্টোকারেন্সি শিট...ইউ গেট সাম রিয়েল মানি... \n* for processing\n* for storing (ipfs)\n* as cdn\n* as server\n* as vpn/proxy",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "847048734654070814",
+      "type": "Default",
+      "timestamp": "2021-05-26T09:49:15.746+00:00",
+      "timestampEdited": "2021-05-26T09:50:07.547+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#ideas \nhttps://www.youtube.com/watch?v=HeQX2HjkcNo @9:00 minute... makes something like that.. can be treated as personal diary index (calender)",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "There's a Hole at the Bottom of Math",
+          "url": "https://www.youtube.com/watch?v=HeQX2HjkcNo",
+          "timestamp": null,
+          "description": "Not everything that is true can be proven. This discovery transformed infinity, changed the course of a world war and led to the modern computer. This video is sponsored by Brilliant. The first 200 people to sign up via https://brilliant.org/veritasium get 20% off a yearly subscription. \n\nSpecial thanks to Prof. Asaf Karagila for consultation on...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Veritasium",
+            "url": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Q2mscJw0mu3IE49BDz-bGrpp-ywhDb-bWSn_IPnMNAc/https/i.ytimg.com/vi/HeQX2HjkcNo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 13
+}

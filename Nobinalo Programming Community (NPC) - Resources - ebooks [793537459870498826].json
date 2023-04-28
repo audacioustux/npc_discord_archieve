@@ -1,0 +1,363 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "793537459870498826",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "ebooks",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "793538057475063841",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:56:56.126+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "computer system - a programmer's perspective (3rd edition)(global edition): https://cloudflare-ipfs.com/ipfs/bafykbzaceblpqcy5wdhugn2wnqx2j5ogkz5gurrotdgzqeafre5nttmdmz3mw?filename=Randal%20E.%20Bryant_%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems_%20A%20Programmer%E2%80%99s%20Perspective-Pearson%20%282015%29.pdf",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "793538057436397598",
+          "url": "https://cdn.discordapp.com/attachments/793537459870498826/793538057436397598/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 119081
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "793780157613735946",
+      "type": "Default",
+      "timestamp": "2020-12-30T09:58:57.297+00:00",
+      "timestampEdited": "2020-12-30T09:59:05.01+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pragmatic programmer:\nhttp://library.lol/main/1C801C55271D37131A8C5E1B4191D15D",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "793780153779617843",
+          "url": "https://cdn.discordapp.com/attachments/793537459870498826/793780153779617843/1c801c55271d37131a8c5e1b4191d15d-g.jpg",
+          "fileName": "1c801c55271d37131a8c5e1b4191d15d-g.jpg",
+          "fileSizeBytes": 68476
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "797077018247561256",
+      "type": "Default",
+      "timestamp": "2021-01-08T12:19:30.125+00:00",
+      "timestampEdited": "2021-01-08T12:19:41.428+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sapiens: A Brief History of Humankind: https://cloudflare-ipfs.com/ipfs/bafykbzacedoygwr62nahvkxm6s66tq2lej6wd75syw3zfdmk6ir26y3tw3ee6?filename=Yuval%20Noah%20Harari%20-%20Sapiens_%20A%20Brief%20History%20of%20Humankind-Vintage%20Books%20%282011%20%5B2014%5D%29.pdf",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "797077017963135046",
+          "url": "https://cdn.discordapp.com/attachments/793537459870498826/797077017963135046/8c4744c193607c8b548402145c0dfb96-g.jpg",
+          "fileName": "8c4744c193607c8b548402145c0dfb96-g.jpg",
+          "fileSizeBytes": 32500
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "895157374699048960",
+      "type": "Default",
+      "timestamp": "2021-10-06T03:55:49.348+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the 7 habits of highly effective people https://youtu.be/UY7dRxK5siQ",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The 7 Habits of Highly Effective People Audiobook - HD Audio",
+          "url": "https://www.youtube.com/watch?v=UY7dRxK5siQ",
+          "timestamp": null,
+          "description": "Stephen R Covey - The 7 Habits of Highly Effective People Audiobook",
+          "color": "#FF0000",
+          "author": {
+            "name": "Business Minds",
+            "url": "https://www.youtube.com/channel/UCkeYioPqLPBq3LeolH7x2wQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/jy-gYSgjJzk0hYekkFxQ3i_dGjJZTsdywdSs7wdWVUk/https/i.ytimg.com/vi/UY7dRxK5siQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "895157587341873183",
+      "type": "Default",
+      "timestamp": "2021-10-06T03:56:40.046+00:00",
+      "timestampEdited": "2021-10-06T03:56:52.725+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ikigai https://www.youtube.com/watch?v=uSDHIWHjxws",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "IKIGAI- Self-Help Book | Amazon Audible Free Audio Books | Best Aud...",
+          "url": "https://www.youtube.com/watch?v=uSDHIWHjxws",
+          "timestamp": null,
+          "description": "Ikigai: The Japanese secret to a long and happy life\nAuthor-  Héctor García,  Francesc Miralles\n[Support the Channel by Buying the Books here]\nGet your Ikigai Book/Audiobook- Amazon.in- https://amzn.to/3xX2IdW\nGet your Ikigai Book/Audiobook- Amazon.com- https://amzn.to/3dgiqt0\n\nIkigai (ee-key-guy) is a Japanese concept that combines the terms ik...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Grey-ish Matter",
+            "url": "https://www.youtube.com/channel/UCvM3aDNNGgzeETqX1IN6cyA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/37s0UuKqz1jVKUq8vlbClg9k3jMAwSgzAm7HKeayqVU/https/i.ytimg.com/vi/uSDHIWHjxws/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "897898460374769716",
+      "type": "Default",
+      "timestamp": "2021-10-13T17:27:55.1+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://drive.google.com/file/d/1EeiDidEcvXbUvdJzXLKYtBgqAw4Tj3cq/view?usp=sharing by @emonshr\npass: সি এইচ ও নাইন ইউ ই এস(শেষেরটা বড়)",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "stuff.7z",
+          "url": "https://drive.google.com/file/d/1EeiDidEcvXbUvdJzXLKYtBgqAw4Tj3cq/view?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "608315225137086474",
+          "name": "emonshr",
+          "discriminator": "1235",
+          "nickname": "emonshr",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ]
+    },
+    {
+      "id": "901766991487053824",
+      "type": "Default",
+      "timestamp": "2021-10-24T09:40:04.791+00:00",
+      "timestampEdited": "2021-10-24T09:40:30.087+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.torrents-csv.ml/#/search/torrent/Kahneman%20Daniel%20-%20Thinking,%20Fast%20and%20Slow(Egan%20Patrick)%20-%202011(80bps)/1\n```\nmagnet:?xt=urn:btih:c1cac79c8e7a95090cc4a699e3213aa379764e65&dn=Kahneman%20Daniel%20-%20Thinking,%20Fast%20and%20Slow%28Egan%20Patrick%29%20-%202011%2880bps%29&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.open-internet.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=http%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fipv4.tracker.harry.lu%3A80%2Fannounce&tr=udp%3A%2F%2Fdenis.stalker.upeer.me%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker4.itzmx.com%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fretracker.netbynet.ru%3A2710%2Fannounce\n```\nthinking fast and slow",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "901766988425211924",
+          "url": "https://cdn.discordapp.com/attachments/793537459870498826/901766988425211924/Cover.jpeg",
+          "fileName": "Cover.jpeg",
+          "fileSizeBytes": 36255
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060554790846877776",
+      "type": "Default",
+      "timestamp": "2023-01-05T13:46:06.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=Hu0xDtK3g3Q",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "My Summary of The Meditations of Marcus Aurelius | (22 Stoic Princi...",
+          "url": "https://www.youtube.com/watch?v=Hu0xDtK3g3Q",
+          "timestamp": null,
+          "description": "This summary on Amazon: https://geni.us/MeditationsSummary (Affiliate link)\nThis is my own summary of Meditations by Marcus Aurelius. I’ve taken nearly every point he made, reordered and then summarised them. If you're new to the book this provides a good idea of what he says in a much shorter, easier to understand form. I've done my best not to...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Vox Stoica",
+            "url": "https://www.youtube.com/channel/UCNeW5eWhG4Y7hlBdb5Fk0Ug"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/927_A76ScPWUvaQ0IwUcBMLYlDden2FtPGrlu7CIQhU/https/i.ytimg.com/vi/Hu0xDtK3g3Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}

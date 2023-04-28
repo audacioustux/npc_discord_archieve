@@ -1,0 +1,3020 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "792915281545920514",
+    "type": "GuildTextChat",
+    "categoryId": "728241686647406647",
+    "category": "Text Channels",
+    "name": "readers",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "792953079610736650",
+      "type": "Default",
+      "timestamp": "2020-12-28T03:12:26.535+00:00",
+      "timestampEdited": "2020-12-28T03:18:11.267+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "my to-read list",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "792953072343187476",
+          "url": "https://cdn.discordapp.com/attachments/792915281545920514/792953072343187476/Screenshot_2020-12-28-09-10-59.png",
+          "fileName": "Screenshot_2020-12-28-09-10-59.png",
+          "fileSizeBytes": 1885955
+        },
+        {
+          "id": "792953072816750632",
+          "url": "https://cdn.discordapp.com/attachments/792915281545920514/792953072816750632/Screenshot_2020-12-28-09-11-08.png",
+          "fileName": "Screenshot_2020-12-28-09-11-08.png",
+          "fileSizeBytes": 1647548
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "792954246277365812",
+      "type": "Default",
+      "timestamp": "2020-12-28T03:17:04.69+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "top 3 priority for me \n1. computer system ~ a programmer's perspective\n2. clojure for the brave and true\n3. domain driven design\n\nsay yours ヘ(￣ω￣ヘ)",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792955163697741824",
+      "type": "Default",
+      "timestamp": "2020-12-28T03:20:43.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. computer system ~ a programmer's perspective\n2. Computer architecture \n3. The art of computer programming",
+      "author": {
+        "id": "380738180292411392",
+        "name": "shoccho",
+        "discriminator": "0041",
+        "nickname": "shoccho",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380738180292411392/adfe07bb1fe24f4e891aebdfc398e2ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "792956052387004426",
+      "type": "Default",
+      "timestamp": "2020-12-28T03:24:15.3+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "রাতে আরো কয়েকজন বললে পর একটা পড়া শুরু করবোনে সবাই \uD83D\uDE0C",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "792995209574481931",
+      "type": "Default",
+      "timestamp": "2020-12-28T05:59:51.101+00:00",
+      "timestampEdited": "2020-12-28T06:02:24.548+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "1. জ্যামিতির যত কৌশল ( currently reading, need to finish) 2. Red Hat Certification Practice book ( need to finish some chapters ) 3. Practical Vim",
+      "author": {
+        "id": "331982116453744641",
+        "name": "nazmulwanted",
+        "discriminator": "0862",
+        "nickname": "Md. Nazmul Hossain",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/331982116453744641/ddc1ab981622fdbf0e11beaeed119835.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "793529417699426324",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:22:36.243+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আচ্ছা তো চলেন  computer system ~ a programmer's perspective এটা শুরু করি",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793529455733112862",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:22:45.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "কে কে জয়েন করবেন/করবা",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793529558480715819",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:23:09.808+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's a dense & huge book btw",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793529769748070422",
+      "type": "Reply",
+      "timestamp": "2020-12-29T17:24:00.178+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "download kore rakhbo. interesting mone hole porshu theke shuru korbo :",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "793529455733112862",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "793529782938894396",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:24:03.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":3",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793529801318203443",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:24:07.705+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oka",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793529849234587699",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:24:19.129+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's interesting af",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "793531325600628747",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:30:11.122+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "which edition",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793531345786896444",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:30:15.935+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "3rd?",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793531656975810560",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:31:30.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "humm",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793531916183142430",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:32:31.928+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "review তো ভালো না দেখতেছি এই এডিশনের। সেকেন্ড এডিশন টা দেখছিলাম আমি। ওটায় তো তেমন সমস্যা দেখলাম না",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793532958245781545",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:36:40.375+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "edition 2 holo 1000 page. edition 3 2000 page :/",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793533130333356052",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:37:21.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "u know wat? fak it... lets start https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_rhf_dp_s_pd_crcd_1_4/145-5262265-0230931?_encoding=UTF8&pd_rd_i=0262510871&pd_rd_r=1fea8b55-7dde-48ab-b148-d8ffa57ba5e0&pd_rd_w=ALUaR&pd_rd_wg=ETQCd&pf_rd_p=8019ba47-0a12-4976-b76b-5c932d60db6f&pf_rd_r=R7NAMGMW18334QS50CB3&psc=1&refRID=R7NAMGMW18334QS50CB3 dis",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Structure and Interpretation of Computer Programs - 2nd Edition (MI...",
+          "url": "https://www.amazon.com/Structure-Interpretation-Computer-Programs-Engineering/dp/0262510871/ref=pd_rhf_dp_s_pd_crcd_1_4/145-5262265-0230931?_encoding=UTF8&pd_rd_i=0262510871&pd_rd_r=1fea8b55-7dde-48ab-b148-d8ffa57ba5e0&pd_rd_w=ALUaR&pd_rd_wg=ETQCd&pf_rd_p=8019ba47-0a12-4976-b76b-5c932d60db6f&pf_rd_r=R7NAMGMW18334QS50CB3&psc=1&refRID=R7NAMGMW18334QS50CB3",
+          "timestamp": null,
+          "description": "Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science) [Abelson, Harold, Sussman, Gerald Jay, Sussman, Julie] on Amazon.com. *FREE* shipping on qualifying offers. Structure and Interpretation of Computer Programs - 2nd Edition (MIT Electrical Engineering and Computer Science)",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "code": "joy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "793533241575342100",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:37:47.926+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "starting এটা দিয়ে করি আপাতত",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793533310567579649",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:38:04.375+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok \uD83D\uDE05",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534503809187870",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:42:48.866+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "22 এর আগে আমার Structure and Interpretation of Computer Programs, Computer Systems: A Programmer’s Perspective, clojure for the brave and true এই তিনখান শেষ করা লাগবে",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534559643107368",
+      "type": "Reply",
+      "timestamp": "2020-12-29T17:43:02.178+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2022?",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "793534503809187870",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "793534571894407168",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:43:05.099+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "guess for what",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534578978455562",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:43:06.788+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yape",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534648919654440",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:43:23.463+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "nobinOS",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534672394518539",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:43:29.06+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE04",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534677901770753",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:43:30.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "actually... yes",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534704544382986",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:43:36.725+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "what",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534719786221568",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:43:40.359+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fq",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534720352321546",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:43:40.494+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "kindof",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793534740551696436",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:43:45.31+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cool",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD1E",
+            "code": "fingers_crossed",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f91e.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "793535032610127873",
+      "type": "Reply",
+      "timestamp": "2020-12-29T17:44:54.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "2000 কই পাইলা?",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "575934996863516672",
+          "name": "MAC",
+          "discriminator": "4333",
+          "nickname": "MAC",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "793532958245781545",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "793535642054295562",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:47:20.245+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://gen.lib.rus.ec/book/index.php?md5=FF45D46C686A996AD3ED70DC2FE8B761",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Library Genesis: Bryant, Randal E;O'Hallaron, David R - Computer Sy...",
+          "url": "http://gen.lib.rus.ec/book/index.php?md5=FF45D46C686A996AD3ED70DC2FE8B761",
+          "timestamp": null,
+          "description": "Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793535687579271169",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:47:31.099+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jodio onnogulay 1000 page dewa",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536053410529290",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:48:58.32+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "793536051058442270",
+          "url": "https://cdn.discordapp.com/attachments/792915281545920514/793536051058442270/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 37495
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536107139956756",
+      "type": "Reply",
+      "timestamp": "2020-12-29T17:49:11.13+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "এটার অবস্থা দেখছো ফন্টের?",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "575934996863516672",
+          "name": "MAC",
+          "discriminator": "4333",
+          "nickname": "MAC",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "793535642054295562",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "793536145954177024",
+      "type": "Reply",
+      "timestamp": "2020-12-29T17:49:20.384+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ami ekhon ekta download korlam 1173 page ig",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "793536053410529290",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "793536191991250995",
+      "type": "Reply",
+      "timestamp": "2020-12-29T17:49:31.36+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh accha hote pare. download kori nai",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "793536107139956756",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "793536194364833862",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:49:31.926+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cloudflare-ipfs.com/ipfs/bafykbzacedpe3oaxnkq5x2vrdrnrhsak4me6ypbdlzlywkghglijy34imlv34?filename=Randal%20E.%20Bryant%2C%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems.%20A%20Programmer%E2%80%99s%20Perspective%20%5B3rd%20ed.%5D-Pearson%20%282016%29.pdf",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536258919366656",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:49:47.317+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "যেটা ডাউনলোড করছো ওটার অবস্থা এটার চেয়ে ভালো?",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536305538662441",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:49:58.432+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hae",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536380785131520",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:50:16.372+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "apni jeta disen ekhon onekta etar motoi",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536430257209375",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:50:28.167+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "হুমমম",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536442671693854",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:50:31.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ওকা",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536469653389312",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:50:37.56+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536554919526410",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:50:57.889+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pdf টা সেকেন্ড এডিশনের পিডিএফ টা সুন্দর লেয়াউট ছিলো",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536578424668191",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:51:03.493+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "একেবারে অরিজিনাল কপির মতো",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536631889723412",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:51:16.24+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "এটা কেমন কেমন যেনো লাগে",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536691264552990",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:51:30.396+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE26",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536739611246642",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:51:41.923+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "porte to hobe",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536764727132180",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:51:47.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "layout jerokom e hok",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793536782942994472",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:51:52.254+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hum \uD83D\uDE26",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793537135000158239",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:53:16.191+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cloudflare-ipfs.com/ipfs/bafykbzaceblpqcy5wdhugn2wnqx2j5ogkz5gurrotdgzqeafre5nttmdmz3mw?filename=Randal%20E.%20Bryant_%20David%20R.%20O%E2%80%99Hallaron%20-%20Computer%20Systems_%20A%20Programmer%E2%80%99s%20Perspective-Pearson%20%282015%29.pdf",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "793537152935526440",
+      "type": "Default",
+      "timestamp": "2020-12-29T17:53:20.467+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looks perfect",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "793539828330397728",
+      "type": "Default",
+      "timestamp": "2020-12-29T18:03:58.331+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ok",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794606678171582485",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:43:15.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@al_amin হাই ভাই",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "544799092593655809",
+          "name": "al_amin",
+          "discriminator": "6506",
+          "nickname": "al_amin",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/544799092593655809/f32907156367966ba6c11819b5de65d4.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "794606723897098271",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:43:26.056+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hello!",
+      "author": {
+        "id": "544799092593655809",
+        "name": "al_amin",
+        "discriminator": "6506",
+        "nickname": "al_amin",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/544799092593655809/f32907156367966ba6c11819b5de65d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794606850884501554",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:43:56.332+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "তো.. উমম.. সেশন টাইম কখন রাখা যায়?",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794607027413712897",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:44:38.42+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "My preference is Friday/Saturday night 10 PM",
+      "author": {
+        "id": "544799092593655809",
+        "name": "al_amin",
+        "discriminator": "6506",
+        "nickname": "al_amin",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/544799092593655809/f32907156367966ba6c11819b5de65d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794607164852535317",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:45:11.188+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "হুমম.. আচ্ছা.. শনিবার তাইলে?",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794607286357327923",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:45:40.157+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "তাইলে কালকে একবার মিটাপ করা যাইতো",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794607366507200512",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:45:59.266+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "যাস্ট ব্যপারখানা কিভাবে হবে তা নিয়া আলাপ",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794607390937972818",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:46:05.091+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Humm",
+      "author": {
+        "id": "544799092593655809",
+        "name": "al_amin",
+        "discriminator": "6506",
+        "nickname": "al_amin",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/544799092593655809/f32907156367966ba6c11819b5de65d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794607449721012264",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:46:19.106+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "I'm okay with it.",
+      "author": {
+        "id": "544799092593655809",
+        "name": "al_amin",
+        "discriminator": "6506",
+        "nickname": "al_amin",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/544799092593655809/f32907156367966ba6c11819b5de65d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "794608484330504223",
+      "type": "Default",
+      "timestamp": "2021-01-01T16:50:25.776+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আচ্ছা তাইলে কালকে ১০ টায়",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794612569419153408",
+      "type": "Default",
+      "timestamp": "2021-01-01T17:06:39.737+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@al_amin পরিচিত কেউ থাকলে এড করতে পারেন যাদের একই চিন্তাভাবনা আছে",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "544799092593655809",
+          "name": "al_amin",
+          "discriminator": "6506",
+          "nickname": "al_amin",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/544799092593655809/f32907156367966ba6c11819b5de65d4.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "794612764962062406",
+      "type": "Default",
+      "timestamp": "2021-01-01T17:07:26.358+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@here কালকে রাত ১০ টায় একটা সেশন/মিটাপ আছে.. সময় থাকলে জয়েন",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794614753086930984",
+      "type": "Reply",
+      "timestamp": "2021-01-01T17:15:20.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "পেম করা শিকানো হবে?",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "794612764962062406",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "794615096122933288",
+      "type": "Default",
+      "timestamp": "2021-01-01T17:16:42.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yass.. আপনারে দিয়াতো হচ্ছেনা... হইলেতো সুখবর শুনতে পাত্তাম \uD83D\uDE2A",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794960574579867688",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:09:30.633+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Hi",
+      "author": {
+        "id": "544799092593655809",
+        "name": "al_amin",
+        "discriminator": "6506",
+        "nickname": "al_amin",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/544799092593655809/f32907156367966ba6c11819b5de65d4.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794966484689747999",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:32:59.713+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi \uD83D\uDE42",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794966609848303646",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:33:29.553+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "meetup sesh \uD83D\uDE10",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794966648594366525",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:33:38.791+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Fahim",
+      "author": {
+        "id": "575967420137865216",
+        "name": "Kemono_koda",
+        "discriminator": "5917",
+        "nickname": "Kemono_koda",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794966666412687380",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:33:43.039+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Koi chila",
+      "author": {
+        "id": "575967420137865216",
+        "name": "Kemono_koda",
+        "discriminator": "5917",
+        "nickname": "Kemono_koda",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794966731449434124",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:33:58.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sorry vai...baire chilam,bashai ashte late hoise",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794966793688842250",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:34:13.384+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Every week e 1 bar hobe...",
+      "author": {
+        "id": "783345848720556064",
+        "name": "Shaswata",
+        "discriminator": "2285",
+        "nickname": "Shaswata",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794966845010477086",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:34:25.62+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "phone thakle agei join kortam...phone dead \uD83D\uDE42",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794967042553806858",
+      "type": "Default",
+      "timestamp": "2021-01-02T16:35:12.718+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": true,
+      "content": "sooo... in case anyone missed the meetup (2 jan @10pm).. \nthe plan is to read 'pragmatic programmers' (check #ebooks channel).. the first 3 chapter (total 120 page)... \nnext meetup will be at the same time next week",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE29",
+            "code": "weary",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f629.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "794967223223320577",
+      "type": "ChannelPinnedMessage",
+      "timestamp": "2021-01-02T16:35:55.793+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Pinned a message.",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "794967042553806858",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "797500750380793917",
+      "type": "Default",
+      "timestamp": "2021-01-09T16:23:15.738+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "সবাই ঘুমে?",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797505445413257266",
+      "type": "Default",
+      "timestamp": "2021-01-09T16:41:55.121+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "কেউ শেষ করে নাই মেবি \uD83D\uDE04",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797506035068698714",
+      "type": "Default",
+      "timestamp": "2021-01-09T16:44:15.706+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "এহহে",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797506074096697354",
+      "type": "Default",
+      "timestamp": "2021-01-09T16:44:25.011+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ভুলে গেছিলাম একচুয়ালি",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797506125141901323",
+      "type": "Default",
+      "timestamp": "2021-01-09T16:44:37.181+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "কালকে তাইলে",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797506197854224425",
+      "type": "Default",
+      "timestamp": "2021-01-09T16:44:54.517+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আমি বেশী পড়ি নাই এজন্য কথা বলি নাই। এখন দেখি কেউ ই নাই। মানে কেউ ই পড়ে নাই বেশী",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "797508170674208809",
+      "type": "Default",
+      "timestamp": "2021-01-09T16:52:44.874+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "উমমম ডুন্নো.. মনে নাও থাকতে পারে... আমি খেলতেছিলাম সুইচে :3",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE06",
+            "code": "laughing",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f606.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "797872041712812082",
+      "type": "Default",
+      "timestamp": "2021-01-10T16:58:38.49+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আজকেও ঘুমে?",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798218356758937620",
+      "type": "Default",
+      "timestamp": "2021-01-11T15:54:46.431+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আমি গতকাল Who Moved My Cheese কিনছি। আজকে পড়া শেষ করলাম \uD83D\uDE01",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798218631607484416",
+      "type": "Default",
+      "timestamp": "2021-01-11T15:55:51.96+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "798218627945594880",
+          "url": "https://cdn.discordapp.com/attachments/792915281545920514/798218627945594880/9780091816971.jpg",
+          "fileName": "9780091816971.jpg",
+          "fileSizeBytes": 742873
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798219119513698394",
+      "type": "Default",
+      "timestamp": "2021-01-11T15:57:48.286+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE42",
+      "author": {
+        "id": "575232208692838411",
+        "name": "pollob1563",
+        "discriminator": "5958",
+        "nickname": "pollob1563",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575232208692838411/0e2e7efd41ba61119d27beb232769a5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "798219151956115507",
+      "type": "Default",
+      "timestamp": "2021-01-11T15:57:56.021+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "jhankhar vai er bou poro",
+      "author": {
+        "id": "575232208692838411",
+        "name": "pollob1563",
+        "discriminator": "5958",
+        "nickname": "pollob1563",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575232208692838411/0e2e7efd41ba61119d27beb232769a5b.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "795231323550908456",
+            "name": "turacode",
+            "code": "turacode",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/795231323550908456.png"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD23",
+            "code": "rofl",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f923.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE06",
+            "code": "laughing",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f606.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799283905290174515",
+      "type": "Default",
+      "timestamp": "2021-01-14T14:28:52.998+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "pragmatic programmer পড়ার সময় কেউ নোটডাউন করতেছেন?",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800031112109228032",
+      "type": "Default",
+      "timestamp": "2021-01-16T15:58:00.986+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@everyone",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800031155830652969",
+      "type": "Default",
+      "timestamp": "2021-01-16T15:58:11.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hi",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800031180158140426",
+      "type": "Reply",
+      "timestamp": "2021-01-16T15:58:17.21+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ".",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "794967042553806858",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "800031205122244608",
+      "type": "Default",
+      "timestamp": "2021-01-16T15:58:23.162+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#hangout",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800035830861135894",
+      "type": "Default",
+      "timestamp": "2021-01-16T16:16:46.024+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Speed Reading Book by Tony Buzan  এইটা অনেক ফেমাস, কিন্তু পড়ি নাই, পড়বো :3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800039136437469214",
+      "type": "Default",
+      "timestamp": "2021-01-16T16:29:54.135+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আমার পিসিতে আজ সমস্যা করতেছে",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800039172135845908",
+      "type": "Default",
+      "timestamp": "2021-01-16T16:30:02.646+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "নেটেও",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800465246816174130",
+      "type": "Default",
+      "timestamp": "2021-01-17T20:43:06.766+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "সামনের দুইমাষ(প্রোবাবলি) শুধু বই, রিসার্চপেপার, অডিওবুক, ডকুমেন্টেশন, আর্টিকেলের উপর থাকবো.. কারন কোডিং ফিল্স ফ্রাস্ট্রেটিং",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800465602187624449",
+      "type": "Default",
+      "timestamp": "2021-01-17T20:44:31.493+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "800465599246893056",
+          "url": "https://cdn.discordapp.com/attachments/792915281545920514/800465599246893056/Screenshot_2021-01-18-02-44-19.png",
+          "fileName": "Screenshot_2021-01-18-02-44-19.png",
+          "fileSizeBytes": 2098054
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800465776904634398",
+      "type": "Default",
+      "timestamp": "2021-01-17T20:45:13.149+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "বর্তমানে এইটা শুনতেছি... কারো কাছে ভালো অডিওবুক প্লেয়ারের সাজেশন আছে প্লেব্যাক স্পিড চেন্জ করা যায় এমন?",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800872010502635541",
+      "type": "Default",
+      "timestamp": "2021-01-18T23:39:26.786+00:00",
+      "timestampEdited": "2021-01-18T23:39:57.669+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "good enough",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "800872007993917480",
+          "url": "https://cdn.discordapp.com/attachments/792915281545920514/800872007993917480/Screenshot_2021-01-19-05-39-06.png",
+          "fileName": "Screenshot_2021-01-19-05-39-06.png",
+          "fileSizeBytes": 327441
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801111154264375379",
+      "type": "Reply",
+      "timestamp": "2021-01-19T15:29:43.102+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Doesn't support android 4.4 \uD83D\uDE10",
+      "author": {
+        "id": "759712505576161301",
+        "name": "ek second",
+        "discriminator": "5380",
+        "nickname": "ek second",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "760068506745831424",
+            "name": "thinkcpp",
+            "code": "thinkcpp",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/760068506745831424.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "795231323550908456",
+            "name": "turacode",
+            "code": "turacode",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/795231323550908456.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "800872010502635541",
+        "channelId": "792915281545920514",
+        "guildId": null
+      }
+    },
+    {
+      "id": "802567306117906472",
+      "type": "Default",
+      "timestamp": "2021-01-23T15:55:56.758+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "sooo... 10 #hangout",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802570965182971904",
+      "type": "Default",
+      "timestamp": "2021-01-23T16:10:29.147+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@WolfEye19",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "270922801425154049",
+          "name": "WolfEye19",
+          "discriminator": "4033",
+          "nickname": "Fahim Haider",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "897897642699411526",
+      "type": "Default",
+      "timestamp": "2021-10-13T17:24:40.151+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Collection of compiler stuff https://drive.google.com/file/d/1EeiDidEcvXbUvdJzXLKYtBgqAw4Tj3cq/view?usp=sharing",
+      "author": {
+        "id": "608315225137086474",
+        "name": "emonshr",
+        "discriminator": "1235",
+        "nickname": "emonshr",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "stuff.7z",
+          "url": "https://drive.google.com/file/d/1EeiDidEcvXbUvdJzXLKYtBgqAw4Tj3cq/view?usp=sharing",
+          "timestamp": null,
+          "description": "",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "897897822131728444",
+      "type": "Default",
+      "timestamp": "2021-10-13T17:25:22.931+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "সি এইচ ও নাইন ইউ ই এস(শেষেরটা বড়)",
+      "author": {
+        "id": "608315225137086474",
+        "name": "emonshr",
+        "discriminator": "1235",
+        "nickname": "emonshr",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "898524926171021312",
+      "type": "Reply",
+      "timestamp": "2021-10-15T10:57:16.185+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "thanks \uD83D\uDE04",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0E",
+            "code": "sunglasses",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60e.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "608315225137086474",
+          "name": "emonshr",
+          "discriminator": "1235",
+          "nickname": "emonshr",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ],
+      "reference": {
+        "messageId": "897897642699411526",
+        "channelId": "792915281545920514",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "940655430466674759",
+      "type": "Default",
+      "timestamp": "2022-02-08T17:08:51.156+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@audacioustux",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ]
+    }
+  ],
+  "messageCount": 110
+}

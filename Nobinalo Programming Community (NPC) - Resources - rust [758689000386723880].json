@@ -1,0 +1,1295 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "758689000386723880",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "rust",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "760072975503327252",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:38:38.833+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://doc.rust-lang.org/stable/book/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Rust Programming Language - The Rust Programming Language",
+          "url": "https://doc.rust-lang.org/stable/book/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760073138998083594",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:39:17.813+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://rust-lang-nursery.github.io/rust-cookbook/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Table of Contents - Rust Cookbook",
+          "url": "https://rust-lang-nursery.github.io/rust-cookbook/",
+          "timestamp": null,
+          "description": "Collection of useful Rust code examples",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760073393910579222",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:40:18.589+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://fasterthanli.me/tags/rust",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "fasterthanli.me",
+          "url": "https://fasterthanli.me/tags/rust",
+          "timestamp": null,
+          "description": "amos loves to tinker",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/F93MYf80Gu71mRXC9E2iqMSOg63AeVzrvTJe3Hcchrw/https/fasterthanli.me/img/logo-square.png",
+            "width": 256,
+            "height": 256
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760073609422307359",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:41:09.971+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=rAl-9HwD858&list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Crust of Rust: Lifetime Annotations",
+          "url": "https://www.youtube.com/watch?v=rAl-9HwD858",
+          "timestamp": null,
+          "description": "In the 2019 Rust Survey, a lot of people were asking for video content covering intermediate Rust content. So in this first video (possibly of many), we're going to investigate a case where you need multiple explicit lifetime annotations. We explore why they are needed, and wh...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Jon Gjengset",
+            "url": "https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/m4qqLmSHXpSUzSJ2N5Dpo58ekTj82VZT0Jd6YL9EDCk/https/i.ytimg.com/vi/rAl-9HwD858/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760073777886920704",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:41:50.136+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://doc.rust-lang.org/nightly/reference/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction - The Rust Reference",
+          "url": "https://doc.rust-lang.org/nightly/reference/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760080974938898432",
+      "type": "Default",
+      "timestamp": "2020-09-28T10:10:26.047+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.reddit.com/r/rust/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "r/rust",
+          "url": "https://www.reddit.com/r/rust/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/x9AnQ3qD2PwhGDpDt8xiUW-jhVmNQ8mRxYfJJRJpauY/%3Fwidth%3D256%26s%3D8ddf3d30e6324ae3935b750d5ff46406977f62f6/https/styles.redditmedia.com/t5_2s7lj/styles/communityIcon_sxcqnw4pxti11.png",
+            "width": 256,
+            "height": 256
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774154971922169856",
+      "type": "Default",
+      "timestamp": "2020-11-06T06:15:28.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/mre/idiomatic-rust",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "mre/idiomatic-rust",
+          "url": "https://github.com/mre/idiomatic-rust",
+          "timestamp": null,
+          "description": "A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust. - mre/idiomatic-rust",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/LZ8-LV1GcBLG-K9PCR-sOJ5F0tNHSjQIIX2Rhu33x6Q/%3Fs%3D400%26v%3D4/https/avatars2.githubusercontent.com/u/175809",
+            "width": 331,
+            "height": 331
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "774155417227624489",
+      "type": "Default",
+      "timestamp": "2020-11-06T06:17:14.579+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/rust-unofficial/awesome-rust",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "rust-unofficial/awesome-rust",
+          "url": "https://github.com/rust-unofficial/awesome-rust",
+          "timestamp": null,
+          "description": "A curated list of Rust code and resources. Contribute to rust-unofficial/awesome-rust development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Lz3oNx5OLwAASbrgiXsfhgISDeA6Y-3NbWGbAjF7AtA/%3Fs%3D400%26v%3D4/https/avatars3.githubusercontent.com/u/20820960",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "775465217936982076",
+      "type": "Default",
+      "timestamp": "2020-11-09T21:01:55.403+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/c/timClicks",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "timClicks",
+          "url": "https://www.youtube.com/c/timClicks",
+          "timestamp": null,
+          "description": "Hi, I'm Tim McNamara. This channel discusses technology, coding and a few topics I'm interested in such as devops, procedural generation and technology polic...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ulepjtr7NQbgmt_AZi3aF5IEyk0GHmI17wtNNh5VRm8/https/yt3.ggpht.com/a/AATXAJxRTeifS_U4_PENLcsAEhjWJI077mmf1cqxbtw2%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "778249292308676629",
+      "type": "Default",
+      "timestamp": "2020-11-17T13:24:50.459+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "the rust performance book https://github.com/nnethercote/perf-book",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "nnethercote/perf-book",
+          "url": "https://github.com/nnethercote/perf-book",
+          "timestamp": null,
+          "description": "The Rust Performance Book. Contribute to nnethercote/perf-book development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZaijbMiiQotALLX0L60onsPkq_cXdgsbQSfE7SVFcPs/%3Fs%3D400%26v%3D4/https/avatars1.githubusercontent.com/u/1940286",
+            "width": 264,
+            "height": 264
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785098925841448960",
+      "type": "Default",
+      "timestamp": "2020-12-06T11:02:50.353+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=DnT-LUQgc7s",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Considering Rust",
+          "url": "https://www.youtube.com/watch?v=DnT-LUQgc7s",
+          "timestamp": null,
+          "description": "The Rust programming language has become a serious contender in the space of \"systems\" programming languages, and has recently been adopted by many of the tech giants for \"serious\" projects. In response to this, more companies are now considering whether they too should add Rust to their tech stack. This talk hopes to help you make that decision...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Jon Gjengset",
+            "url": "https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/aukO7wPJz2u-rJWg_2uRayOSrANP2SW2UnY2Jaj7aps/https/i.ytimg.com/vi/DnT-LUQgc7s/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789539415214653460",
+      "type": "Default",
+      "timestamp": "2020-12-18T17:07:45.52+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A half-hour to learn Rust - fasterthanli.me",
+          "url": "https://fasterthanli.me/articles/a-half-hour-to-learn-rust",
+          "timestamp": null,
+          "description": "In order to increase fluency in a programming language, one has to read a lot of it.\nBut how can you read a lot of it if you don't know what it means? In this article, instead o...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/F93MYf80Gu71mRXC9E2iqMSOg63AeVzrvTJe3Hcchrw/https/fasterthanli.me/img/logo-square.png",
+            "width": 256,
+            "height": 256
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDE7",
+            "code": "regional_indicator_b",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1e7.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDEA",
+            "code": "regional_indicator_e",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1ea.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF8",
+            "code": "regional_indicator_s",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f8.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDDF9",
+            "code": "regional_indicator_t",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f1f9.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC96",
+            "code": "sparkling_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f496.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "799360170782097491",
+      "type": "Default",
+      "timestamp": "2021-01-14T19:31:56.108+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cfsamson.github.io/books-futures-explained/2_a_mental_model_for_futures.html",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A mental model of how Futures work - Futures Explained in 200 Lines...",
+          "url": "https://cfsamson.github.io/books-futures-explained/2_a_mental_model_for_futures.html",
+          "timestamp": null,
+          "description": "This book aims to explain Futures in Rust using an example driven approach.",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800055760376561665",
+      "type": "Default",
+      "timestamp": "2021-01-16T17:35:57.591+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=lKTo7aDf0bE",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rust in 2018 - A Fast Tour",
+          "url": "https://www.youtube.com/watch?v=lKTo7aDf0bE",
+          "timestamp": null,
+          "description": "A lightning fast tour of Rust: why rust, installation, tooling, macros, and your first application.\n\nif \uD83D\uDC4D && is_subbed() {\n    println!(\"You rock!\");\n}\n\n\nRust home page: www.rust-lang.org\n\n\nThank you llogiq: https://www.reddit.com/r/rust/comments/4l44z3/why_should_i_use_rust/d3k7ayi/\n\n\n\nReferences:\n\nhttps://medium.com/mozilla-tech/why-rust-is-th...",
+          "color": "#FF0000",
+          "author": {
+            "name": "YouCodeThings",
+            "url": "https://www.youtube.com/channel/UC0yCXVwW6FdDQGYA-3OWXxw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/X4fe06W25QCKa_7s4R7uoygDPRmgT9Fx7FuzQ7xExJM/https/i.ytimg.com/vi/lKTo7aDf0bE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800371977696313384",
+      "type": "Default",
+      "timestamp": "2021-01-17T14:32:29.675+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://learning-rust.github.io submitted by @shoccho",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learning Rust",
+          "url": "https://learning-rust.github.io/",
+          "timestamp": null,
+          "description": "Rust Programming Language Tutorials",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC96",
+            "code": "sparkling_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f496.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "380738180292411392",
+          "name": "shoccho",
+          "discriminator": "0041",
+          "nickname": "shoccho",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/380738180292411392/adfe07bb1fe24f4e891aebdfc398e2ec.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "801787646455840839",
+      "type": "Default",
+      "timestamp": "2021-01-21T12:17:51.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://lborb.github.io/book/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction - The Little Book of Rust Books",
+          "url": "https://lborb.github.io/book/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "802910368380747796",
+      "type": "Default",
+      "timestamp": "2021-01-24T14:39:09.175+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://player.fm/subscribe?id=https://rustacean-station.org/podcast.rss",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rustacean Station podcast",
+          "url": "https://player.fm/subscribe?id=https://rustacean-station.org/podcast.rss",
+          "timestamp": null,
+          "description": "Listen to Rustacean Station with thirty-five episodes, free! No signup or install needed. What's New in Rust 1.48 and 1.49. What's New in Rust 1.46 and 1.47.",
+          "color": "#D81422",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0B",
+            "code": "yum",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60b.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "804378176532643840",
+      "type": "Default",
+      "timestamp": "2021-01-28T15:51:41.909+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.possiblerust.com/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Possible Rust",
+          "url": "https://www.possiblerust.com/",
+          "timestamp": null,
+          "description": "Learning what’s possible in Rust.",
+          "color": "#E4EDF6",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9D",
+            "code": "gift_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "813483120509583380",
+      "type": "Default",
+      "timestamp": "2021-02-22T18:51:29.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Easy Rust - learn to program in Rust with simple English",
+          "url": "https://youtube.com/playlist?list=PLfllocyHVgsRwLkTAhG0E-2QxCf-ozBkk",
+          "timestamp": null,
+          "description": "Learn to program in Rust, from the book here: https://dhghomon.github.io/easy_rust/Chapter_1.html The book itself is written in simple English, while I usual...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/3qk5Od29bFlN_8i35pt7vNyuO3QaksiERB7OcL5er_0/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLBRa3zwRBDhBojBtBPPZxhTk-S0cw%26days_since_epoch%3D18680/https/i.ytimg.com/vi/-lYeJeQ11OI/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD29",
+            "code": "star_struck",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f929.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "828368352883245087",
+      "type": "Default",
+      "timestamp": "2021-04-04T20:40:05.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "by @SHANTO \nhttps://youtu.be/grU-4u0Okto",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Traits and You: A Deep Dive —\u00A0Nell Shamrell-Harrington",
+          "url": "https://www.youtube.com/watch?v=grU-4u0Okto",
+          "timestamp": null,
+          "description": "Traits are one of the most powerful, but also most difficult parts of Rust to master. Come to this talk for a visual exploration of how traits work - from the most basic to the advanced. It is only through deep understanding of a concept like traits that you can fully harness their power in your every day code. You will walk away with a deep und...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Rust Belt Rust Conference",
+            "url": "https://www.youtube.com/channel/UCptxtVyJkQAJZcFwBbIDZcg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/6K2Nodch746mWjW-c3Gaci5A9ffWPETvBZzgJOMxmkE/https/i.ytimg.com/vi/grU-4u0Okto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "760055294759534613",
+            "name": "rust",
+            "code": "rust",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/760055294759534613.png"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE42",
+            "code": "slight_smile",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f642.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "723940136420638860",
+          "name": "SHANTO",
+          "discriminator": "6483",
+          "nickname": "SHANTO",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "829061218341093397",
+      "type": "Default",
+      "timestamp": "2021-04-06T18:33:17.665+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Let's Get Rusty",
+          "url": "https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w",
+          "timestamp": null,
+          "description": "A web developer attempts to learn Rust and discovers the meaning of life.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/RsWRV7rguN4-K0-6y11bhFYUPd-jkuKivuWRpLrG-hk/https/yt3.ggpht.com/ytc/AAUvwniU3zIML0KuSpr7YtTsRuqpyGqsKSxLnbEUAE2G%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "833397234066391040",
+      "type": "Default",
+      "timestamp": "2021-04-18T17:43:04.373+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/channel/UCmDTNzMpvH6fTnLIv9jJ_8g",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "danlogs",
+          "url": "https://www.youtube.com/channel/UCmDTNzMpvH6fTnLIv9jJ_8g",
+          "timestamp": null,
+          "description": "- danlogs git repository: https://github.com/danbugs/danlogs/\n- danlogs discord server: https://discord.gg/fSWE49H\n\n- Follow me on Twitter: https://twitter.com/danologue/\n- Follow me on GitHub: https://github.com/danbugs/\n\n- For business inquiries, contact me on LinkedIn: https://www.linkedin.com/in/danbiz",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/8ssvuXCyTpY4KCQ93pp0lVX_PrPfR7-j0J_SyLaV8Yw/https/yt3.ggpht.com/ytc/AAUvwnjLwSEjnBHPMmrS8QB85UqvrwXSsflEX7zCK_n6%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "833467538347393055",
+      "type": "Default",
+      "timestamp": "2021-04-18T22:22:26.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "by @shoccho bhaia https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps/",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Take your first steps with Rust - Learn",
+          "url": "https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps/",
+          "timestamp": null,
+          "description": "Interested in learning a new programming language that's growing in use and popularity? Start here! Lay the foundation of knowledge you need to build fast and effective programs in Rust.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "380738180292411392",
+          "name": "shoccho",
+          "discriminator": "0041",
+          "nickname": "shoccho",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/380738180292411392/adfe07bb1fe24f4e891aebdfc398e2ec.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "852758185172795392",
+      "type": "Default",
+      "timestamp": "2021-06-11T03:56:34.826+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "by @mdgaziur001 https://os.phil-opp.com/",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Writing an OS in Rust",
+          "url": "https://os.phil-opp.com/",
+          "timestamp": null,
+          "description": "This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384355764975960064",
+          "name": "mdgaziur001",
+          "discriminator": "8758",
+          "nickname": "mdgaziur001",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "870298868577869836",
+      "type": "Default",
+      "timestamp": "2021-07-29T13:36:59.64+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Understanding Rust futures by going way too deep - fasterthanli.me",
+          "url": "https://fasterthanli.me/articles/understanding-rust-futures-by-going-way-too-deep",
+          "timestamp": null,
+          "description": "So! Rust futures! Easy peasy lemon squeezy. Until it's not. So let's do the easy\nthing, and then instead of waiting for the hard thing to  sneak up on us , we'll\ngo for it inten...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/F93MYf80Gu71mRXC9E2iqMSOg63AeVzrvTJe3Hcchrw/https/fasterthanli.me/img/logo-square.png",
+            "width": 256,
+            "height": 256
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "870595933946142780",
+      "type": "Default",
+      "timestamp": "2021-07-30T09:17:25.543+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.facebook.com/groups/talk.rs/\nhttps://www.facebook.com/rustbd.rs",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Log In or Sign Up to View",
+          "url": "https://www.facebook.com/groups/talk.rs/",
+          "timestamp": null,
+          "description": "See posts, photos and more on Facebook.",
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Log In or Sign Up to View",
+          "url": "https://www.facebook.com/rustbd.rs",
+          "timestamp": null,
+          "description": "See posts, photos and more on Facebook.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "872847740172922962",
+      "type": "Default",
+      "timestamp": "2021-08-05T14:25:17.984+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=IPmRDS0OSxM",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A Firehose of Rust, for busy people who know some C++",
+          "url": "https://www.youtube.com/watch?v=IPmRDS0OSxM",
+          "timestamp": null,
+          "description": "Slides: https://jacko.io/firehose_of_rust\nThe slower version of this talk (2h32m): https://youtu.be/FSyfZVuD32Y\n\nContents:\n0:00:00 introduction\n0:04:03 references and mutable aliasing\n0:06:54 reference lifetime examples\n0:22:12 mutable aliasing examples\n0:50:16 move semantics\n1:10:50 Arc Mutex String\n\nLinks from screenshots in slides:\nhttps://go...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Jack O'Connor",
+            "url": "https://www.youtube.com/channel/UClzhxOfYEoDW4G7NzsoV4TA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/-YnSefXlPK_v-8c7d5krA08iYOTxchug4FbnB4iqdWw/https/i.ytimg.com/vi/IPmRDS0OSxM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "877989190858600468",
+      "type": "Default",
+      "timestamp": "2021-08-19T18:55:35.351+00:00",
+      "timestampEdited": "2021-08-19T18:57:17.135+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "a noice article about performance optimization. it's language, architecture, platform agnostic, not just about rust http://sled.rs/perf.html",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "sled theoretical performance guide",
+          "url": "http://sled.rs/perf.html",
+          "timestamp": null,
+          "description": "",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "801341356621430794",
+            "name": "ferris_smile",
+            "code": "ferris_smile",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/801341356621430794.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "879788035561095249",
+      "type": "Default",
+      "timestamp": "2021-08-24T18:03:33.349+00:00",
+      "timestampEdited": "2021-08-24T18:04:39.001+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tourofrust.com",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Tour of Rust - Let's go on an adventure!",
+          "url": "https://tourofrust.com/",
+          "timestamp": null,
+          "description": "Welcome to the Tour of Rust. This is meant to be a step by step guide through the features of the Rust programming language",
+          "color": "#FF6801",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "930712365077495818",
+      "type": "Default",
+      "timestamp": "2022-01-12T06:38:39.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/m902hm3fK7Q",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Messing With The Recipe",
+          "url": "https://www.youtube.com/watch?v=m902hm3fK7Q",
+          "timestamp": null,
+          "description": "What if we learned just enough to be a little dangerous?\n\nFollow me on twitter: https://twitter.com/fasterthanlime\nSupport me on Patreon: https://patreon.com/fasterthanlime\n\nContents\n00:00 Intro\n01:15 Computers programs crash course\n03:54 Time for some practice\n07:18 Danger zone\n10:44 Getting unstuck\n13:28 Playing on hard mode\n18:24 When the deb...",
+          "color": "#FF0000",
+          "author": {
+            "name": "fasterthanlime",
+            "url": "https://www.youtube.com/channel/UCs4fQRyl1TJvoeOdekW6lYA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/0DaZjHUr1i9chrVsTr0j2oT9lOiO_vXwNIOPzDOhgd4/https/i.ytimg.com/vi/m902hm3fK7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 30
+}

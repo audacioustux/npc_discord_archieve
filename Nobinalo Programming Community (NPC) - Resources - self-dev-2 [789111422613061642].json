@@ -1,0 +1,1015 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "789111422613061642",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "self-dev-2",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "789111542238674976",
+      "type": "Default",
+      "timestamp": "2020-12-17T12:47:32.653+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "789111540044922880",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111540044922880/IMG_4740-1.JPG",
+          "fileName": "IMG_4740-1.JPG",
+          "fileSizeBytes": 172078
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789111612212117536",
+      "type": "Default",
+      "timestamp": "2020-12-17T12:47:49.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "789111587478831154",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111587478831154/FB_IMG_1608208514825.jpg",
+          "fileName": "FB_IMG_1608208514825.jpg",
+          "fileSizeBytes": 11694
+        },
+        {
+          "id": "789111589043044392",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111589043044392/FB_IMG_1608208517070.jpg",
+          "fileName": "FB_IMG_1608208517070.jpg",
+          "fileSizeBytes": 12623
+        },
+        {
+          "id": "789111589562613760",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111589562613760/FB_IMG_1608208519377.jpg",
+          "fileName": "FB_IMG_1608208519377.jpg",
+          "fileSizeBytes": 13273
+        },
+        {
+          "id": "789111589957140510",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111589957140510/FB_IMG_1608208522158.jpg",
+          "fileName": "FB_IMG_1608208522158.jpg",
+          "fileSizeBytes": 19283
+        },
+        {
+          "id": "789111590279577671",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111590279577671/FB_IMG_1608208524243.jpg",
+          "fileName": "FB_IMG_1608208524243.jpg",
+          "fileSizeBytes": 5692
+        },
+        {
+          "id": "789111590523502592",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111590523502592/FB_IMG_1608208526903.jpg",
+          "fileName": "FB_IMG_1608208526903.jpg",
+          "fileSizeBytes": 9446
+        },
+        {
+          "id": "789111590750388225",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111590750388225/FB_IMG_1608208529059.jpg",
+          "fileName": "FB_IMG_1608208529059.jpg",
+          "fileSizeBytes": 14980
+        },
+        {
+          "id": "789111591143473162",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111591143473162/FB_IMG_1608208531123.jpg",
+          "fileName": "FB_IMG_1608208531123.jpg",
+          "fileSizeBytes": 16172
+        },
+        {
+          "id": "789111591428816896",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/789111591428816896/FB_IMG_1608208533170.jpg",
+          "fileName": "FB_IMG_1608208533170.jpg",
+          "fileSizeBytes": 9332
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792808018856247347",
+      "type": "Default",
+      "timestamp": "2020-12-27T17:36:01.356+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "792808016440590346",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/792808016440590346/IMG_5047.PNG",
+          "fileName": "IMG_5047.PNG",
+          "fileSizeBytes": 369768
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "793561399967088641",
+      "type": "Default",
+      "timestamp": "2020-12-29T19:29:41.41+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "793561397811609690",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/793561397811609690/FB_IMG_16092701536248455.jpg",
+          "fileName": "FB_IMG_16092701536248455.jpg",
+          "fileSizeBytes": 451205
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802153410886631455",
+      "type": "Default",
+      "timestamp": "2021-01-22T12:31:16.445+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "802153407926108190",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/802153407926108190/image_2021_01_22T09_10_51_428Z-1_0.png",
+          "fileName": "image_2021_01_22T09_10_51_428Z-1_0.png",
+          "fileSizeBytes": 2655138
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811275625712058440",
+      "type": "Default",
+      "timestamp": "2021-02-16T16:39:41.942+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "811275623951106079",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/811275623951106079/IMG_6463-1.PNG",
+          "fileName": "IMG_6463-1.PNG",
+          "fileSizeBytes": 49087
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "757512377611583628",
+            "name": "5937_heart",
+            "code": "5937_heart",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/757512377611583628.gif"
+          },
+          "count": 5
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "812580369735090187",
+      "type": "Default",
+      "timestamp": "2021-02-20T07:04:17.158+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "812580367986327552",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/812580367986327552/Screenshot_2021-02-19-16-17-12-01.jpeg",
+          "fileName": "Screenshot_2021-02-19-16-17-12-01.jpeg",
+          "fileSizeBytes": 128094
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "825228986846150716",
+      "type": "Default",
+      "timestamp": "2021-03-27T04:45:22.477+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "825228983330537492",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/825228983330537492/IMG_8513-1.JPG",
+          "fileName": "IMG_8513-1.JPG",
+          "fileSizeBytes": 86863
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "826547735481155684",
+      "type": "Default",
+      "timestamp": "2021-03-30T20:05:36.653+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "826547730603966514",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/826547730603966514/IMG_8642.WEBP",
+          "fileName": "IMG_8642.WEBP",
+          "fileSizeBytes": 23580
+        },
+        {
+          "id": "826547730914607164",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/826547730914607164/FB_IMG_1617083584092.jpg",
+          "fileName": "FB_IMG_1617083584092.jpg",
+          "fileSizeBytes": 68870
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9F",
+            "code": "heart_decoration",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49f.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "830479687503052850",
+      "type": "Default",
+      "timestamp": "2021-04-10T16:29:47.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "830479685455446066",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/830479685455446066/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 239480
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "830482323140247634",
+      "type": "Default",
+      "timestamp": "2021-04-10T16:40:15.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "830482320199778354",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/830482320199778354/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 450621
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "844987741343449178",
+      "type": "Default",
+      "timestamp": "2021-05-20T17:19:36.649+00:00",
+      "timestampEdited": "2021-05-20T17:24:59.855+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.quora.com/What-does-the-term-if-you-think-you-can-or-you-think-you-cant-youre-right-mean\n> To put it succinctly, Ford is saying that your own expectations of your performance play a large part in determining the outcome you will obtain. You are more likely to succeed if you believe that you will succeed, than if you believe that you won’t succeed. You are more likely to fail if you anticipate and prepare for failure, than if you convince yourself that “failure is not an option.”",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "844987739161231382",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/844987739161231382/USER_SCOPED_TEMP_DATA_orca-image--521912517.jpeg",
+          "fileName": "USER_SCOPED_TEMP_DATA_orca-image--521912517.jpeg",
+          "fileSizeBytes": 26946
+        }
+      ],
+      "embeds": [
+        {
+          "title": "What does the term 'if you think you can or you think you can't, yo...",
+          "url": "https://www.quora.com/What-does-the-term-if-you-think-you-can-or-you-think-you-cant-youre-right-mean",
+          "timestamp": null,
+          "description": "It’s because predictive statements can become self-fulfilling, if you believe them. Committed belief can be a powerful thing! It’s certainly a difference-maker. For example, if I’m certain I can punch through the board, I’m probably going to punch...",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858940816813457438",
+      "type": "Default",
+      "timestamp": "2021-06-28T05:24:09.077+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "858940814364901396",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/858940814364901396/FB_IMG_16248578080291691.jpg",
+          "fileName": "FB_IMG_16248578080291691.jpg",
+          "fileSizeBytes": 291243
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861591042608201778",
+      "type": "Default",
+      "timestamp": "2021-07-05T12:55:12.145+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "861591039299026974",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/861591039299026974/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 863270
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9D",
+            "code": "gift_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49d.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "861591097267585074",
+      "type": "Default",
+      "timestamp": "2021-07-05T12:55:25.177+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "861591093078654996",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/861591093078654996/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 523594
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "861591128054038528",
+      "type": "Default",
+      "timestamp": "2021-07-05T12:55:32.517+00:00",
+      "timestampEdited": "2021-07-05T12:56:19.498+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "There was an important job to be done and Everybody was sure that Somebody would do it.\nAnybody could have done it, but Nobody did it.\nSomebody got angry about that because it was Everybody’s job.\nEverybody thought that Anybody could do it, but Nobody realized that Everybody wouldn’t do it.\nIt ended up that Everybody blamed Somebody when Nobody did what Anybody could have done.\n\n- Charles R. Swindoll",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "861591124392935454",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/861591124392935454/unknown.png",
+          "fileName": "unknown.png",
+          "fileSizeBytes": 325502
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "868858642634522624",
+      "type": "Default",
+      "timestamp": "2021-07-25T14:14:03.017+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "868858640155680799",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/868858640155680799/received_1185919068550149.jpeg",
+          "fileName": "received_1185919068550149.jpeg",
+          "fileSizeBytes": 56970
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "892405299959435304",
+      "type": "Default",
+      "timestamp": "2021-09-28T13:40:03.599+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "892405297426100244",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/892405297426100244/FB_IMG_1632836232542.jpg",
+          "fileName": "FB_IMG_1632836232542.jpg",
+          "fileSizeBytes": 82400
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894426831472717904",
+      "type": "Default",
+      "timestamp": "2021-10-04T03:32:54.27+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "894426827219664896",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/894426827219664896/IMG_4296-1.PNG",
+          "fileName": "IMG_4296-1.PNG",
+          "fileSizeBytes": 456884
+        },
+        {
+          "id": "894426827500691506",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/894426827500691506/FB_IMG_1633285856015.jpg",
+          "fileName": "FB_IMG_1633285856015.jpg",
+          "fileSizeBytes": 62783
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "894972185842679809",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:39:56.884+00:00",
+      "timestampEdited": "2021-10-05T15:40:08.345+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "by @SHANTO",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "894972183128985691",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/894972183128985691/the_productive_cycle.png",
+          "fileName": "the_productive_cycle.png",
+          "fileSizeBytes": 34270
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "723940136420638860",
+          "name": "SHANTO",
+          "discriminator": "6483",
+          "nickname": "SHANTO",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "904617996281065502",
+      "type": "Default",
+      "timestamp": "2021-11-01T06:28:57.303+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "904617994095845386",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/904617994095845386/248419025_3053734334942066_7172560660389132982_n.png",
+          "fileName": "248419025_3053734334942066_7172560660389132982_n.png",
+          "fileSizeBytes": 887255
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927243836445556748",
+      "type": "ThreadCreated",
+      "timestamp": "2022-01-02T16:55:57.966+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Started a thread.",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": null,
+        "channelId": "904617996281065502",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "952430152040710184",
+      "type": "Default",
+      "timestamp": "2022-03-13T04:57:23.543+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "952430150962794506",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/952430150962794506/gg.PNG",
+          "fileName": "gg.PNG",
+          "fileSizeBytes": 54246
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "953723835344097300",
+      "type": "Default",
+      "timestamp": "2022-03-16T18:38:01.678+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "953723834614308894",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/953723834614308894/Screenshot_2022-03-17_at_12.37.50_AM.png",
+          "fileName": "Screenshot_2022-03-17_at_12.37.50_AM.png",
+          "fileSizeBytes": 57444
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE80",
+            "code": "rocket",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f680.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "966773194310692934",
+      "type": "Default",
+      "timestamp": "2022-04-21T18:51:31.301+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "966773187784376400",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/966773187784376400/278595989_10225100499275478_2386849731427961758_n.jpeg",
+          "fileName": "278595989_10225100499275478_2386849731427961758_n.jpeg",
+          "fileSizeBytes": 79702
+        },
+        {
+          "id": "966773188036001902",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/966773188036001902/278664805_10225100499115474_5910196175147476398_n.jpeg",
+          "fileName": "278664805_10225100499115474_5910196175147476398_n.jpeg",
+          "fileSizeBytes": 93232
+        },
+        {
+          "id": "966773188254130276",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/966773188254130276/278645633_10225100498995471_7697382710966379893_n.jpeg",
+          "fileName": "278645633_10225100498995471_7697382710966379893_n.jpeg",
+          "fileSizeBytes": 81417
+        },
+        {
+          "id": "966773188463841300",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/966773188463841300/278612055_10225100498915469_1988882769935707810_n.jpeg",
+          "fileName": "278612055_10225100498915469_1988882769935707810_n.jpeg",
+          "fileSizeBytes": 66723
+        },
+        {
+          "id": "966773188782616607",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/966773188782616607/278647188_10225100499995496_2383886908598488853_n.jpeg",
+          "fileName": "278647188_10225100499995496_2383886908598488853_n.jpeg",
+          "fileSizeBytes": 101460
+        },
+        {
+          "id": "966773189000704080",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/966773189000704080/278705853_10225100499875493_543741666759006877_n.jpeg",
+          "fileName": "278705853_10225100499875493_543741666759006877_n.jpeg",
+          "fileSizeBytes": 73592
+        },
+        {
+          "id": "966773189235572776",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/966773189235572776/278638003_10225100499715489_8427871666909443807_n.jpeg",
+          "fileName": "278638003_10225100499715489_8427871666909443807_n.jpeg",
+          "fileSizeBytes": 91371
+        },
+        {
+          "id": "966773189424341022",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/966773189424341022/278667503_10225100499595486_7600262892961064035_n.jpeg",
+          "fileName": "278667503_10225100499595486_7600262892961064035_n.jpeg",
+          "fileSizeBytes": 73756
+        },
+        {
+          "id": "966773189659226122",
+          "url": "https://cdn.discordapp.com/attachments/789111422613061642/966773189659226122/278704589_10225100499475483_7693845497143783225_n.jpeg",
+          "fileName": "278704589_10225100499475483_7693845497143783225_n.jpeg",
+          "fileSizeBytes": 82587
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 25
+}

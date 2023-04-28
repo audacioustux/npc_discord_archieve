@@ -1,0 +1,385 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "758688956040085516",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "c_cpp",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "759038017293516850",
+      "type": "Default",
+      "timestamp": "2020-09-25T13:06:05.567+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=_zQqN5OYCCM",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to REALLY learn C++",
+          "url": "https://www.youtube.com/watch?v=_zQqN5OYCCM",
+          "timestamp": null,
+          "description": "Download PVS-Studio ► https://www.viva64.com/pvs-download-chernikov\nEnter promo code #chernikov in the message field to get a 30 day free trial instead of 7\n\nAn Easy Way to Make Money on Bug Bounty (article) ► https://www.viva64.com/en/b/0660/?promo=chernikov\n\nPatreon ► https:...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Cherno",
+            "url": "https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/W0wUS1H8LDA5NR6-DP1KrAk3CUEJK8Z4T1ehudg5gOw/https/i.ytimg.com/vi/_zQqN5OYCCM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759631453599432745",
+      "type": "Default",
+      "timestamp": "2020-09-27T04:24:11.808+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for noobs: https://www.youtube.com/playlist?list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt\nfor premium noobs: https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C++ Tutorial for Beginners",
+          "url": "https://www.youtube.com/playlist?list=PLmpc3xvYSk4wDCP5zjt2QQXe8-JGHa4Kt",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/DfZur3J7qWamyMATRutLD9JMChKOsALqzqajxts93W8/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLDgmFIxYyb2ybea43ypSKc_RyGPMg%26days_since_epoch%3D18532/https/i.ytimg.com/vi/1MKhigIml3E/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "C++",
+          "url": "https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/FhMwzTHDmxbiTUErRmhg-aSAQRvfFwBNT1nW7lLyFUY/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLDWuglXyEKtbL7bQi2y0CRGbLv2ug%26days_since_epoch%3D18532/https/i.ytimg.com/vi/18c3MTX0PK0/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC96",
+            "code": "sparkling_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f496.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0B",
+            "code": "yum",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60b.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "760537024280395786",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:22:36.683+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&index=1\nby @WolfEye19 - \"ekdom details e,beginner der jonno\"",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C Programming – Features & The First C Program",
+          "url": "https://www.youtube.com/watch?v=rLf3jnHxSmU",
+          "timestamp": null,
+          "description": "Programming & Data Structures: C Programming – Features & The First C Program\nTopics discussed:\n1. Features of C programming.\n2. High-level language Vs Low-level language.\n3. Explanation of a basic C code.\n4. Header files.\n5. Syntex of a function.\n\nHow to install Code::Blocks-...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Neso Academy",
+            "url": "https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/0GdmDfwQPn5BGXSw8cSm2tTcKiLFnG7a34l5K1xbYMY/https/i.ytimg.com/vi/rLf3jnHxSmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 5
+        }
+      ],
+      "mentions": [
+        {
+          "id": "270922801425154049",
+          "name": "WolfEye19",
+          "discriminator": "4033",
+          "nickname": "Fahim Haider",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "795979350465839134",
+      "type": "Default",
+      "timestamp": "2021-01-05T11:37:45.732+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines submitted by @MAC",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C++ Core Guidelines",
+          "url": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+          "timestamp": null,
+          "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "575934996863516672",
+          "name": "MAC",
+          "discriminator": "4333",
+          "nickname": "MAC",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "902062589687775284",
+      "type": "Default",
+      "timestamp": "2021-10-25T05:14:40.894+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/rX0ItVEVjHc",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CppCon 2014: Mike Acton \"Data-Oriented Design and C++\"",
+          "url": "https://www.youtube.com/watch?v=rX0ItVEVjHc",
+          "timestamp": null,
+          "description": "http://www.cppcon.org\n--\nPresentation Slides, PDFs, Source Code and other presenter materials are available at: https://github.com/CppCon/CppCon2014\n--\nThe transformation of data is the only purpose of any program. Common approaches in C++ which are antithetical to this goal will be presented in the context of a performance-critical domain (cons...",
+          "color": "#FF0000",
+          "author": {
+            "name": "CppCon",
+            "url": "https://www.youtube.com/channel/UCMlGfpWw-RUdWX_JbLCukXg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/E0NfhReXFbYJ-q0xnU1l1c9sidHYAG5iO1-h9ZyEl3E/https/i.ytimg.com/vi/rX0ItVEVjHc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "950682407881830430",
+      "type": "Default",
+      "timestamp": "2022-03-08T09:12:28.864+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C++ Programming Course - Beginner to Advanced",
+          "url": "https://www.youtube.com/watch?v=8jLOx1hD3_o",
+          "timestamp": null,
+          "description": "Learn modern C++ 20 programming in this comprehensive course.\n\n\uD83D\uDCBB Source code: https://github.com/rutura/The-C-20-Masterclass-Source-Code\n\n✏️ Course developed by Daniel Gakwaya. Check out his YouTube channel: https://www.youtube.com/channel/UCUYUFiuJ5XZ3JYtbq5dXRKQ\n\uD83D\uDC26 Twitter: https://twitter.com/learnqtguide\n\uD83D\uDD17 Want more from Daniel? https://www.l...",
+          "color": "#FF0000",
+          "author": {
+            "name": "freeCodeCamp.org",
+            "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zHzOQOsDxUn2fn1Afth2e5IF_Wa0cKAX3U_NmAxiRvU/https/i.ytimg.com/vi/8jLOx1hD3_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE31",
+            "code": "scream",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f631.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "956550726883115018",
+      "type": "Default",
+      "timestamp": "2022-03-24T13:51:05.142+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "For kids https://www.youtube.com/playlist?list=PLlg1yfozyO_1XEko1KxU32s5qHf8MnLBY",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "c++ 4 kids | basics",
+          "url": "https://www.youtube.com/playlist?list=PLlg1yfozyO_1XEko1KxU32s5qHf8MnLBY",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ZS6yWCr8aT6zenchtVIk5T3bECmsSrvjrTa76WAPIrU/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLAtfi80TJDy8NoxHiRztV-u8nmVNg%26days_since_epoch%3D19075/https/i.ytimg.com/vi/BLNxvQGe1Ig/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 7
+}

@@ -1,0 +1,948 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "758691001757597736",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "actor",
+    "topic": "erlang, elixir, phoenix, actor model"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "760074402267660328",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:44:19+00:00",
+      "timestampEdited": "2020-12-06T19:23:16.888+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=0if71HOyVjY",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen",
+          "url": "https://www.youtube.com/watch?v=0if71HOyVjY",
+          "timestamp": null,
+          "description": "This presentation was recorded at GOTO Berlin 2018. #gotocon #gotober\nhttp://gotober.com\n\nRuss Olsen - Author of Getting Clojure and Eloquent Ruby, VP at Cognitect\n\nABSTRACT\nFunctional programming has finally escaped from academia. These days developers are building real systems in functional programming languages like Clojure, Scala, Elixir and...",
+          "color": "#FF0000",
+          "author": {
+            "name": "GOTO Conferences",
+            "url": "https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/oGQn0NDAq4_oroTD4M0D14dPylrRdBALQGPmIcPmlAw/https/i.ytimg.com/vi/0if71HOyVjY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "760074468583800843",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:44:34.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=lxYFOM3UJzo&t=16s",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Elixir: The Documentary",
+          "url": "https://www.youtube.com/watch?v=lxYFOM3UJzo&start=16s",
+          "timestamp": null,
+          "description": "Get ready to explore the origins of the #Elixir programming language, the manner in which it handles concurrency and the speed with which it has grown since its creation back in 2011.\n\nFeaturing José Valim, creator of Elixir, and several other big names from the Elixir communi...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Honeypot",
+            "url": "https://www.youtube.com/channel/UCsUalyRg43M8D60mtHe6YcA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/_0K92VCZbf0SqUrH3VfeS86Bp9KVjcIvbWsawsxtMmc/https/i.ytimg.com/vi/lxYFOM3UJzo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "785516125844275280",
+      "type": "Default",
+      "timestamp": "2020-12-07T14:40:38.585+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/JvBT4XBdoUE",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GOTO 2019 • The Soul of Erlang and Elixir • Saša Jurić",
+          "url": "https://www.youtube.com/watch?v=JvBT4XBdoUE",
+          "timestamp": null,
+          "description": "This presentation was recorded at GOTO Chicago 2019. #gotocon #gotochgo\nhttp://gotochgo.com\n\nSaša Jurić - Author of \"Elixir in Action”\n\nABSTRACT\nWhether you're developing a small web site or a large-scale distributed system, Erlang and Elixir are great tools for building server-side systems. Both languages can help you start quickly and deal wit...",
+          "color": "#FF0000",
+          "author": {
+            "name": "GOTO Conferences",
+            "url": "https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/YodHs27wB-CijnL4kq5KYavW63bxV351E7h9-SMkJo8/https/i.ytimg.com/vi/JvBT4XBdoUE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "785987289183944757",
+      "type": "Default",
+      "timestamp": "2020-12-08T21:52:52.679+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://elixirschool.com/en/",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Elixir School",
+          "url": "https://elixirschool.com/en/",
+          "timestamp": null,
+          "description": "The premier destination for learning and mastering Elixir",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/zBVOduJtaxO-keCL1biJ1bcInazk2KiBDX-WW3nvbeE/https/elixirschool.com/assets/og_image-fad975b316dea5dc361d199bdfaa076006da49a0a3296f799aa7217b4c8b0cbe.jpg",
+            "width": 600,
+            "height": 315
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "788680208613376000",
+      "type": "Default",
+      "timestamp": "2020-12-16T08:13:34.703+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=37wFVVVZlVU&feature=youtu.be",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Let's #TalkConcurrency Panel Discussion with Sir Tony Hoare, Joe Ar...",
+          "url": "https://www.youtube.com/watch?v=37wFVVVZlVU",
+          "timestamp": null,
+          "description": "Let's #TalkConcurrency Panel Discussion with Sir Tony Hoare, Joe Armstrong, and Carl Hewitt with host Francesco Cesarini. \n\nWhen considering the panel to discuss concurrency, you’d be pushed to find a higher calibre than Sir Tony Hoare, Joe Armstrong, and Carl Hewitt. All greats within the industry and beyond, they give an amazing insight into t...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Erlang Solutions",
+            "url": "https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/CDwX6hsRvKgpAY9tJO8ZfVwThIAI1ltnffs0zJKbiOA/https/i.ytimg.com/vi/37wFVVVZlVU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789425623931027486",
+      "type": "Default",
+      "timestamp": "2020-12-18T09:35:35.564+00:00",
+      "timestampEdited": "2020-12-18T09:36:05.612+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "actor model: https://youtu.be/ELwEdb_pD0k\nhttps://youtu.be/7erJ1DV_Tlo\nhttps://youtu.be/LSjm9vkbFDg",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Actor Model Explained",
+          "url": "https://www.youtube.com/watch?v=ELwEdb_pD0k",
+          "timestamp": null,
+          "description": "In this video, we are talking about the Actor Model. I hope you'll find it useful. \n\nAlso, please check the related blog post\nhttp://finematics.com/actor-model-explained/\n\nSeven Concurrency Models in Seven Weeks ► https://amzn.to/37nDkBj (great book on different concurrency models including the Actor Model - affiliate link)\n\nIf you have more tim...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Finematics",
+            "url": "https://www.youtube.com/channel/UCh1ob28ceGdqohUnR7vBACA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/godhcCa9f6m0KTeMa1HPmSKcRQQV48chKhUptjgiZOI/https/i.ytimg.com/vi/ELwEdb_pD0k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Hewitt, Meijer and Szyperski: The Actor Model (everything you wante...",
+          "url": "https://www.youtube.com/watch?v=7erJ1DV_Tlo",
+          "timestamp": null,
+          "description": "Cross posted from http://channel9.msdn.com/Shows/Going+Deep/Hewitt-Meijer-and-Szyperski-The-Actor-Model-everything-you-wanted-to-know-but-were-afraid-to-ask.\n\nAt Lang.NEXT 2012, several conversations happened in the \"social room\", which was right next to the room where sessions took place. Our dear friend, Erik Meijer, led many interesting conve...",
+          "color": "#FF0000",
+          "author": {
+            "name": "jasonofthel33t",
+            "url": "https://www.youtube.com/channel/UCB31oh4SvSvz5LCM84Pov9w"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wYr068OLiuLycsopgQeD7HLjLQg6daGM6_ktqUBzit4/https/i.ytimg.com/vi/7erJ1DV_Tlo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Halmstad Colloquium: Gul Agha on The Actor Model: Foundations, Lang...",
+          "url": "https://www.youtube.com/watch?v=LSjm9vkbFDg",
+          "timestamp": null,
+          "description": "Halmstad Colloquium at Halmstad University August 20, 2013. Speaker is Gul Agha, Professor of Computer Science at the University of Illinois at Urbana-Champaign.\nThe Halmstad Colloquium, at Halmstad University, is a distinguished speaker series. The speakers are invited from universities around the world to talk about topics in the areas of embe...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Högskolan i Halmstad",
+            "url": "https://www.youtube.com/channel/UCy1RJrbuPMXXsR_bKQgBvJQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/YIzjpTOsU3FPF8M61p8JLLaGPNoJxW2QqMyRTBZciUo/https/i.ytimg.com/vi/LSjm9vkbFDg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "792660919674077204",
+      "type": "Default",
+      "timestamp": "2020-12-27T07:51:30.178+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://arxiv.org/abs/1008.1459v38",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Actor Model of Computation: Scalable Robust Information Systems",
+          "url": "https://arxiv.org/abs/1008.1459v38",
+          "timestamp": null,
+          "description": "The Actor model is a mathematical theory that treats \"Actors\" as the\nuniversal primitives of concurrent digital computation. The model has been used\nboth as a framework for a theoretical...",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801215735103881287",
+      "type": "Default",
+      "timestamp": "2021-01-19T22:25:17.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus.html",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Which companies are using Erlang, and why? #MyTopdogStatus | Erlang...",
+          "url": "https://www.erlang-solutions.com/blog/which-companies-are-using-erlang-and-why-mytopdogstatus.html",
+          "timestamp": null,
+          "description": "Discover real success stories from large companies using Erlang, the BEAM VM and OTP to achieve outstanding scalability and reliability.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "834364999286652929",
+      "type": "Default",
+      "timestamp": "2021-04-21T09:48:37.582+00:00",
+      "timestampEdited": "2021-04-21T09:48:50.847+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "actorscript",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "834364998712819722",
+          "url": "https://cdn.discordapp.com/attachments/758691001757597736/834364998712819722/1008.2748.pdf",
+          "fileName": "1008.2748.pdf",
+          "fileSizeBytes": 2135155
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "836533319017037854",
+      "type": "Default",
+      "timestamp": "2021-04-27T09:24:45.291+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/e4ZubJeCiAU",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to Program the Many Cores For Inconsistency Robustness",
+          "url": "https://www.youtube.com/watch?v=e4ZubJeCiAU",
+          "timestamp": null,
+          "description": "(January 12, 2011) Carl Hewitt gives a presentation addressing the current state of Moore's Law and looks at how Alan Turing's Model of Computation relates to this. He shows how this law can be applied to small system as well as very small systems.\n\n\nStanford University:\nhttp://www.stanford.edu/\n\nSchool of Engineering:\nhttp://soe.stanford.edu/\n\n...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Stanford",
+            "url": "https://www.youtube.com/channel/UC-EnprmCZ3OXyAoG7vjVNCA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ywnQz58HdJKFo41YcKEVL5SCxvehnkzV3PuGrLG64ZA/https/i.ytimg.com/vi/e4ZubJeCiAU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "843544250725040159",
+      "type": "Default",
+      "timestamp": "2021-05-16T17:43:41.667+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/UAlkWtJO8AM",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Gig City Elixir 2019 Speaker Talks: Anna Neyzburg: Go vs. Elixir",
+          "url": "https://www.youtube.com/watch?v=UAlkWtJO8AM",
+          "timestamp": null,
+          "description": "Gig City Elixir 2019 Speaker Talks: Anna Neyzburg: Go vs. Elixir\n\nGig City Elixir is a different kind of programming conference in beautiful Chattanooga, Tennessee. We will focus on sessions that are different from what you're used to seeing, with a variety of talk lengths and formats that will open more learning channels than ever before.\n\nOne ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Groxio",
+            "url": "https://www.youtube.com/channel/UCE5KlC4hhy_QlXEYPgRKvVA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/JZHSDBvLoNReJWQpKXqAo5XY0FeFuAHgKtkdwKA5iZQ/https/i.ytimg.com/vi/UAlkWtJO8AM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "844704926827544616",
+      "type": "Default",
+      "timestamp": "2021-05-19T22:35:48.414+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Elixir v1.12 released",
+          "url": "https://elixir-lang.org/blog/2021/05/19/elixir-v1-12-0-released/",
+          "timestamp": null,
+          "description": "Elixir v1.12 is out with improvements to scripting, tighter Erlang/OTP 24 integration, stepped ranges, and dozen of new functions across the standard library",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "869839283475873802",
+      "type": "Default",
+      "timestamp": "2021-07-28T07:10:46.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=qr9GTTST_Dk",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Type-safe & high-perf distributed actor systems with Rust",
+          "url": "https://www.youtube.com/watch?v=qr9GTTST_Dk",
+          "timestamp": null,
+          "description": "My technical talk about Citybound's engine at RustFest Zurich 2017.\n\nBlog post: http://cityboundsim.com/devblog/my-full-rustfest-talk-with-networking-live-demo\n\nDiscussion on Reddit: https://www.reddit.com/r/Citybound/comments/77dc7m/my_full_rustfest_talk_with_networking_live_demo/\n\nRecording courtesy of ETH Zurich, Copyright Anselm Eickhoff (CC...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Anselm Eickhoff",
+            "url": "https://www.youtube.com/channel/UCMXHiBigfRbunsGLOm0Cpsw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/BPSId6WNJiOkXoPWf0n-IucSWCOlsx3Gb-evrD_h4ns/https/i.ytimg.com/vi/qr9GTTST_Dk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDCAF",
+            "code": "100",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f4af.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "880874547929288744",
+      "type": "Default",
+      "timestamp": "2021-08-27T18:00:58.084+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=dPRt5pOIFHk",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "BEHIND THE CODE: The one who created Elixir",
+          "url": "https://www.youtube.com/watch?v=dPRt5pOIFHk",
+          "timestamp": null,
+          "description": "Creator of the functional programming language Elixir and cofounder of Plataformatec, a software consultancy specializing in Elixir and Ruby, José Valim discusses how it all started with programming,  the lessons he learned from creating Elixir, and his involvement in its future.",
+          "color": "#FF0000",
+          "author": {
+            "name": "Welcome to the Jungle Studio",
+            "url": "https://www.youtube.com/channel/UCpJfUQ72fmt4qAbkDvz0iNQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/123EU2Zz2wfJKX6CkigPIip0VWE7ftBKAtWN_vSevPE/https/i.ytimg.com/vi/dPRt5pOIFHk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD20",
+            "code": "cowboy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f920.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "883403242204192778",
+      "type": "Default",
+      "timestamp": "2021-09-03T17:29:05.78+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/playlist?list=PLdOYTlKwc71ljrfUqrKYoULxRjqI0p8it",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Erlang Tutorial",
+          "url": "https://www.youtube.com/playlist?list=PLdOYTlKwc71ljrfUqrKYoULxRjqI0p8it",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/uyqFX092OGMtfpgTc3_BEfbc8LbgWI7y5WWY-LB9Nnk/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLBRygJ03SHemV9UDnYJPNxtmWybGQ%26days_since_epoch%3D18873/https/i.ytimg.com/vi/HRrfc9CiR_s/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "883927540987752458",
+      "type": "Default",
+      "timestamp": "2021-09-05T04:12:28.351+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "by @audacioustux bai https://learnyousomeerlang.com/contents",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Table of Contents | Learn You Some Erlang for Great Good!",
+          "url": "https://learnyousomeerlang.com/contents",
+          "timestamp": null,
+          "description": "Follow the links and be prepared to have your mind moderately blown.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "890812766770843648",
+      "type": "Default",
+      "timestamp": "2021-09-24T04:11:54.099+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/lexmag/elixir-style-guide\nhttps://github.com/christopheradams/elixir_style_guide",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - lexmag/elixir-style-guide: An opinionated Elixir style guide",
+          "url": "https://github.com/lexmag/elixir-style-guide",
+          "timestamp": null,
+          "description": "An opinionated Elixir style guide. Contribute to lexmag/elixir-style-guide development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/-rMlQeOAdkgXQ2TjxSYvabWWA5M950kxzhdnSQy7WlA/https/opengraph.githubassets.com/36f0c443262b9a74d0047e1c4a4bfe32196392e7b0a993daebde71cb11d33f06/lexmag/elixir-style-guide",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "GitHub - christopheradams/elixir_style_guide: A community driven st...",
+          "url": "https://github.com/christopheradams/elixir_style_guide",
+          "timestamp": null,
+          "description": "A community driven style guide for Elixir. Contribute to christopheradams/elixir_style_guide development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/17kBbrUpeSJgkIdkIJ1KUf-ebtNuFJyxJAAlrEQPBgs/https/opengraph.githubassets.com/ca8277f29c8902625705496f5049b211ccbaccc459473bd53b3bd64f736b6074/christopheradams/elixir_style_guide",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "908864740133048341",
+      "type": "Default",
+      "timestamp": "2021-11-12T23:43:59.938+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/2yiKUIDFc2I",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Comparing Erlang and Go Concurrency",
+          "url": "https://www.youtube.com/watch?v=2yiKUIDFc2I",
+          "timestamp": null,
+          "description": "Go has a concurrency system inspired by the Communicating Sequential Processes paper by CAR Hoare. Erlang's concurrency system has more in common with Carl Hewitt's Actor model. We are going to briefly explore the academic papers which form a basis for these two languages, and then compare and contrast the concurrency primitives between Erlang a...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Bryan Ray",
+            "url": "https://www.youtube.com/channel/UC5t637zMP7rYFHSATdFQT4w"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/WMTuZagJEWdSAEna0A1z9lF7jGOkL8Bs0WS0mBSjLj8/https/i.ytimg.com/vi/2yiKUIDFc2I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926088143252369448",
+      "type": "Default",
+      "timestamp": "2021-12-30T12:23:39.237+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://dist-prog-book.com/chapter/3/message-passing.html",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Message Passing and the Actor Model",
+          "url": "http://dist-prog-book.com/chapter/3/message-passing.html",
+          "timestamp": null,
+          "description": "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1047521617061875752",
+      "type": "Default",
+      "timestamp": "2022-11-30T14:36:55.518+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.erlang.org/faq/academic.html",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 20
+}

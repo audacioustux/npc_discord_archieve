@@ -1,0 +1,106 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "1057915236625162312",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "physics",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1058304743505657987",
+      "type": "Default",
+      "timestamp": "2022-12-30T08:45:13.203+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/zNVQfWC_evg",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Quantum Fields: The Real Building Blocks of the Universe - with Dav...",
+          "url": "https://www.youtube.com/watch?v=zNVQfWC_evg",
+          "timestamp": null,
+          "description": "According to our best theories of physics, the fundamental building blocks of matter are not particles, but continuous fluid-like substances known as 'quantum fields'. David Tong explains what we know about these fields, and how they fit into our understanding of the Universe.\nWatch the Q&A here: https://youtu.be/QUMeKDlgKmk\nSubscribe for regula...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Royal Institution",
+            "url": "https://www.youtube.com/channel/UCYeF244yNGuFefuFKqxIAXw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/E9vXilxqzD7hYn0Y84h-s0W93YjQVeB8aE13co-SSqw/https/i.ytimg.com/vi/zNVQfWC_evg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060560691926409336",
+      "type": "Default",
+      "timestamp": "2023-01-05T14:09:33.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=tM4sLmt1Ui8",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Universe in 90 minutes: Time, free will, God, & more | Sean Car...",
+          "url": "https://www.youtube.com/watch?v=tM4sLmt1Ui8",
+          "timestamp": null,
+          "description": "Everything you ever wanted to know about parallel universes, time, entropy, free will and more, explained by physicist Sean Carroll.\n\nSubscribe to Big Think on YouTube ► https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg?sub_confirmation=1\nUp next, Michio Kaku: The Universe in a nutshell (Full Presentation) ► https://youtu.be/0NbBjNiw4tk\n\n...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Big Think",
+            "url": "https://www.youtube.com/channel/UCvQECJukTDE2i6aCoMnS-Vg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/OZd_7Few1DDdICRk3Jw0JUpAXzPrOXs1MHWYviKdvDY/https/i.ytimg.com/vi/tM4sLmt1Ui8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

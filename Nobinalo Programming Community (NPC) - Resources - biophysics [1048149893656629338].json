@@ -1,0 +1,101 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "1048149893656629338",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "biophysics",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1048149915404083231",
+      "type": "Default",
+      "timestamp": "2022-12-02T08:13:33.516+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=ImKFUHJdcLE",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Biophysics of a Brainless Animal",
+          "url": "https://www.youtube.com/watch?v=ImKFUHJdcLE",
+          "timestamp": null,
+          "description": "Trichoplax adhaerens is a species of placozoa, the simplest animals at the base of the tree of life. It doesn't have a nervous system, yet it exhibits complex behaviors. How is this possible? The answer could illuminate the origins of the nervous system—and the future of robotics. “It’s a tour de force of biophysics,” said Orit Peleg of the Univ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Quanta Magazine",
+            "url": "https://www.youtube.com/channel/UCTpmmkp1E4nmZqWPS-dl5bg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/yx-vH2xFIpMo-mpg35_gSrvZx8aNhk_EAqOuLI5Gstk/https/i.ytimg.com/vi/ImKFUHJdcLE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1050654976189403188",
+      "type": "Default",
+      "timestamp": "2022-12-09T06:07:46.549+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://open.lib.umn.edu/pharmacology/chapter/receptor-regulation/?fbclid=IwAR37Y3Z0qU6-HzEysbpryQ9BFUoZnCGQTsdMGGXNcqkRFoXlradxPuvB6ak",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "16. Receptor Regulation",
+          "url": "https://open.lib.umn.edu/pharmacology/chapter/receptor-regulation/?fbclid=IwAR37Y3Z0qU6-HzEysbpryQ9BFUoZnCGQTsdMGGXNcqkRFoXlradxPuvB6ak",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "author": {
+            "name": "wigha001",
+            "url": "https://open.lib.umn.edu/pharmacology/author/wigha001/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

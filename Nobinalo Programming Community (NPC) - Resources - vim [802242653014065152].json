@@ -1,0 +1,300 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "802242653014065152",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "vim",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "802243000281464904",
+      "type": "Default",
+      "timestamp": "2021-01-22T18:27:16.221+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=E-ZbrtoSuzw",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Vim: Tutorial on Editing, Navigation, and File Management (2018)",
+          "url": "https://www.youtube.com/watch?v=E-ZbrtoSuzw",
+          "timestamp": null,
+          "description": "How to efficiently edit, navigate, and manage files in Vim! This talk will provide a basic overview on how you can begin to start using Vim like a pro \uD83D\uDE0E without any plugins involved!\n\nThis is a talk I gave on using Vim effectively designed for users of all experience levels. Unlike most talks on the same topic, this talk has been made to be as i...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Leeren",
+            "url": "https://www.youtube.com/channel/UC6fXiuFCWAnVPwRhBMztLlQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ilePB5D-s-dxJOPngXzwCPFBFu-lAimePKLXf3U6JP0/https/i.ytimg.com/vi/E-ZbrtoSuzw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802245465437241354",
+      "type": "Default",
+      "timestamp": "2021-01-22T18:37:03.96+00:00",
+      "timestampEdited": "2021-01-22T18:43:53.914+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/c/ThePrimeagen/playlists https://www.youtube.com/watch?v=H3o4l4GVLW0&list=PLm323Lc7iSW_wuxqmKx_xxNtJC_hJbQ7R https://www.youtube.com/watch?v=DogKdiRx7ls&list=PLm323Lc7iSW9CtibHhhQErDh167XfL4EU",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ThePrimeagen",
+          "url": "https://www.youtube.com/c/ThePrimeagen/playlists",
+          "timestamp": null,
+          "description": "Vim and Weeb Music!!!!  Its the only way to do it.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/1flHWO0z67pYHILSxBbXE45JMV_xzEbF413wJu4UjcQ/https/yt3.ggpht.com/ytc/AAUvwniNivv0E11Ac6hzPzUXyMXuYUvfkgM1qDYZenUq%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Vim As Your Editor (1/6): The Basic Vim Movements",
+          "url": "https://www.youtube.com/watch?v=H3o4l4GVLW0",
+          "timestamp": null,
+          "description": "I recently made a giant troll video where I show how \"easy\" it is to switch to vim then inundate the video with ~50 commands to learn.  Several people reached out hoping I would just create a slow introduction into Vim.\n\nThis is my attempt at being a teacher.  I am not a teacher, but I am trying to help someone, who was in my position 8 years ag...",
+          "color": "#FF0000",
+          "author": {
+            "name": "ThePrimeagen",
+            "url": "https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/lywvK8F1zqZ_BpKwhoyRZDIvMBjCOeMGh08HUVOvOFU/https/i.ytimg.com/vi/H3o4l4GVLW0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Your First VimRC 2021 (Jan)",
+          "url": "https://www.youtube.com/watch?v=DogKdiRx7ls",
+          "timestamp": null,
+          "description": "Your first Vim RC!  I know.  It can be overwhelming doing an rc for the first time.  Hopefully this video will give you the understanding you need to be successful at getting started. \n\nWe go over the following\n\n0:00 - Title\n0:45 - What a VimRC can look like\n1:32 - Where to Install your VimRC?\n2:41 - Understanding Sets\n5:17 - My Sets that I use\n...",
+          "color": "#FF0000",
+          "author": {
+            "name": "ThePrimeagen",
+            "url": "https://www.youtube.com/channel/UC8ENHE5xdFSwx71u3fDH5Xw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QHKu_F6bGcIVATwxdbZC_3aexPClvuNPZH_3Y68nfVY/https/i.ytimg.com/vi/DogKdiRx7ls/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "829059310142226442",
+      "type": "Default",
+      "timestamp": "2021-04-06T18:25:42.715+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://subeen.com/vim-introduction/\nhttp://subeen.com/vim-common-editing/\nhttp://subeen.com/vim-customization/",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ভিম : পরিচিতি",
+          "url": "http://subeen.com/vim-introduction/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "Mosharraf Hosain",
+            "url": "http://subeen.com/author/mosharraf/"
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "ভিম : সাধারণ লেখালেখি",
+          "url": "http://subeen.com/vim-common-editing/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "Mosharraf Hosain",
+            "url": "http://subeen.com/author/mosharraf/"
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "ভিম : কাস্টমাইজেশন",
+          "url": "http://subeen.com/vim-customization/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "Mosharraf Hosain",
+            "url": "http://subeen.com/author/mosharraf/"
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "838817373674537040",
+      "type": "Default",
+      "timestamp": "2021-05-03T16:40:46.357+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://learnvimscriptthehardway.stevelosh.com/chapters/01.html",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Echoing Messages / Learn Vimscript the Hard Way",
+          "url": "https://learnvimscriptthehardway.stevelosh.com/chapters/01.html",
+          "timestamp": null,
+          "description": "",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "880410006078492713",
+      "type": "Default",
+      "timestamp": "2021-08-26T11:15:02.676+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/NvChad/NvChad",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - NvChad/NvChad: An attempt to make neovim cli as functional...",
+          "url": "https://github.com/NvChad/NvChad",
+          "timestamp": null,
+          "description": "An attempt to make neovim cli as functional as an IDE while being very beautiful , blazing fast. - GitHub - NvChad/NvChad: An attempt to make neovim cli as functional as an IDE while being very bea...",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Ua28kxxf3jB1-fi938fPWql1uA26N4K-QKh0fbDQFg4/https/repository-images.githubusercontent.com/345368765/648e8f00-cdae-11eb-87c9-cd2dbf074eda",
+            "width": 1920,
+            "height": 1080
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

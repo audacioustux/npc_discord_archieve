@@ -1,0 +1,108 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "1067023487908188160",
+    "type": "GuildTextChat",
+    "categoryId": "728241686647406647",
+    "category": "Text Channels",
+    "name": "show-case",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1067023955359170611",
+      "type": "Default",
+      "timestamp": "2023-01-23T10:12:15.304+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tenor.com/view/rickandmorty-showme-gif-7658980",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://tenor.com/view/rickandmorty-showme-gif-7658980",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ZkHVr_0V0GtdSMoK4Xi-j0AXSa2rIkSZT_gsr_aUQAg/https/media.tenor.com/0Oh8TbK8yroAAAAD/rickandmorty-showme.png",
+            "width": 640,
+            "height": 364
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1068120875280375828",
+      "type": "Default",
+      "timestamp": "2023-01-26T10:51:01.393+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GitHub: https://github.com/mzs21/advice-app-generator\nLive:https://mzs21.github.io/advice-app-generator/",
+      "author": {
+        "id": "699549920272580629",
+        "name": "Snigdho",
+        "discriminator": "8701",
+        "nickname": "Snigdho",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/699549920272580629/855a1c4ee229e8dcc9fa2cbcaf0b5d40.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - mzs21/advice-app-generator: A website for showing random a...",
+          "url": "https://github.com/mzs21/advice-app-generator",
+          "timestamp": null,
+          "description": "A website for showing random advices. Contribute to mzs21/advice-app-generator development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/sy-YztiW96bd4GvyNZr6VK8j8PdRMl3spVszpoxJOl0/https/opengraph.githubassets.com/d96748c8c2a1ea4dc11d924d0912d750e04b2889011618ab4b39842161ac6591/mzs21/advice-app-generator",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

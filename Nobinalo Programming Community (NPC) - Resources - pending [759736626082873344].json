@@ -1,0 +1,4977 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "759736626082873344",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "pending",
+    "topic": "drop learning resources here... will be evaluated and added in the respective channels accordingly by @mod"
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "760536627553894400",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:21:02.096+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&index=1",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C Programming – Features & The First C Program",
+          "url": "https://www.youtube.com/watch?v=rLf3jnHxSmU",
+          "timestamp": null,
+          "description": "Programming & Data Structures: C Programming – Features & The First C Program\nTopics discussed:\n1. Features of C programming.\n2. High-level language Vs Low-level language.\n3. Explanation of a basic C code.\n4. Header files.\n5. Syntex of a function.\n\nHow to install Code::Blocks-...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Neso Academy",
+            "url": "https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/0GdmDfwQPn5BGXSw8cSm2tTcKiLFnG7a34l5K1xbYMY/https/i.ytimg.com/vi/rLf3jnHxSmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760536628560396298",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:21:02.336+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@WolfEye19 has reached level **1**. GG!",
+      "author": {
+        "id": "437808476106784770",
+        "name": "Arcane",
+        "discriminator": "7800",
+        "nickname": "Arcane",
+        "color": null,
+        "isBot": true,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/437808476106784770/2bbd73be402b3b79cddafc997c0b172c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "270922801425154049",
+          "name": "WolfEye19",
+          "discriminator": "4033",
+          "nickname": "Fahim Haider",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "760536721409572937",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:21:24.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "> https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR&index=1\n@WolfEye19 ekdom details e,beginner der jonno",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C Programming – Features & The First C Program",
+          "url": "https://www.youtube.com/watch?v=rLf3jnHxSmU",
+          "timestamp": null,
+          "description": "Programming & Data Structures: C Programming – Features & The First C Program\nTopics discussed:\n1. Features of C programming.\n2. High-level language Vs Low-level language.\n3. Explanation of a basic C code.\n4. Header files.\n5. Syntex of a function.\n\nHow to install Code::Blocks-...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Neso Academy",
+            "url": "https://www.youtube.com/channel/UCQYMhOMi_Cdj1CEAU-fv80A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/0GdmDfwQPn5BGXSw8cSm2tTcKiLFnG7a34l5K1xbYMY/https/i.ytimg.com/vi/rLf3jnHxSmU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "270922801425154049",
+          "name": "WolfEye19",
+          "discriminator": "4033",
+          "nickname": "Fahim Haider",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "760536841882828881",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:21:53.196+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "hmmm... neso academy noiec",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760537382642253896",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:24:02.123+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "DSA=>https://www.codechef.com/certification/data-structures-and-algorithms/prepare#",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn Data Structures and Algorithms | CodeChef",
+          "url": "https://www.codechef.com/certification/data-structures-and-algorithms/prepare",
+          "timestamp": null,
+          "description": "Learn Data Structures and Algorithms | CodeChef",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QNxl_sdyh5JJUeV7ppvEjYMkmuGyWxDnxV6y8YxgZ0M/https/www.codechef.com/sites/all/themes/abessive/logo.png",
+            "width": 576,
+            "height": 234
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760538547387236362",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:28:39.82+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ummm...এটা কোন চ্যানেলে দেয়া উচিৎ",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760538582330638427",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:28:48.151+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@WolfEye19",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "270922801425154049",
+          "name": "WolfEye19",
+          "discriminator": "4033",
+          "nickname": "Fahim Haider",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "760538669999980545",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:29:09.053+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83E\uDD14",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760542110033117254",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:42:49.221+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dsa?",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760542130010980362",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:42:53.984+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "cp er koyekta dei..",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760542282893230111",
+      "type": "Default",
+      "timestamp": "2020-09-29T16:43:30.434+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "CP=>\nhttps://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?fbclid=IwAR0Z_3SXQC3A6ONS1ougC81FtpmBENb9h9glYLZ64xFeirQm3qeQ83T4394#gid=84654839\n\nhttps://cp-algorithms.com/\n\nhttps://www.topcoder.com/community/competitive-programming/tutorials/\n\nhttps://discuss.codechef.com/t/programming-contest-detailed-syllabus-along-with-example-problems/17791",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Community - Competitive Programming - Tutorials",
+          "url": "https://www.topcoder.com/community/competitive-programming/tutorials/",
+          "timestamp": null,
+          "description": "Community - Competitive Programming - Tutorials",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/IyKX-0iKz6GRY6sr5a0AnAqdjJKB0NpLppZxqbK49K8/http/www.topcoder.com/community-app-assets/images/ea451049daea868f371518a730c27b8e.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Programming Contest Detailed Syllabus Along with Example Problems",
+          "url": "https://discuss.codechef.com/t/programming-contest-detailed-syllabus-along-with-example-problems/17791",
+          "timestamp": null,
+          "description": "Competitive Programming Syllabus Note that in general, the syllabus for Competitive Programming is open-ended. For ACM ICPC, the syllabus is not mentioned anywhere, whereas IOI syllabus is specified before the start of the contest each year. The below syllabus is kind of detai...",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Junior Training Sheet V7.0 - <<>>",
+          "url": "https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?fbclid=IwAR0Z_3SXQC3A6ONS1ougC81FtpmBENb9h9glYLZ64xFeirQm3qeQ83T4394",
+          "timestamp": null,
+          "description": "Info\n\nProblem Solving Sheet,This google sheet is created by Dr Mostafa Saad Ibrahim. Overall ~950 problems for newcomers to problem solving.\nCurrenet Version V7.0,Latest Version\nThis is read-access only file. Read line 19 to create your OWN COPY.\nmostafa.saad.f...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wPF1fyyXaRErhFZzlmsmNkAbXlgSqZ0iRnfhm8yKKzM/https/lh4.googleusercontent.com/3FA28fQ6qX-Kl48cxWU7aS7O-uyF7bVn3YAEDFbr0hmoakcIsf-WgVYKYN9fT2yJ6tXw7XtJfA%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4C",
+            "code": "ok_hand",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44c.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784287936874676275",
+      "type": "Default",
+      "timestamp": "2020-12-04T05:20:15.516+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "JAVA \uD83D\uDE04",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784349881354551296",
+      "type": "Reply",
+      "timestamp": "2020-12-04T09:26:24.231+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "কি",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "575934996863516672",
+          "name": "MAC",
+          "discriminator": "4333",
+          "nickname": "MAC",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "784287936874676275",
+        "channelId": "759736626082873344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "784355887984148500",
+      "type": "Reply",
+      "timestamp": "2020-12-04T09:50:16.323+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "onek resource ase but Java python nai \uD83D\uDE04",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "784349881354551296",
+        "channelId": "759736626082873344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "784360892190949406",
+      "type": "Default",
+      "timestamp": "2020-12-04T10:10:09.419+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ow :( python এর এড করবোনে.. জাভা আমি নিজেই ঘুইড়া ফিইরা শিখছি.. তাও ভার্সিটির প্রোজেক্টের জন্যে",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "784416107733581865",
+      "type": "Default",
+      "timestamp": "2020-12-04T13:49:33.83+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "পাইথনের রিসোর্স দিয়াই কি হইব \uD83D\uDE1B",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD74",
+            "code": "woozy_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f974.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "784416145939628042",
+      "type": "Default",
+      "timestamp": "2020-12-04T13:49:42.939+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "যেকোন এক যায়গা থাইকা শিখলেই হইল",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "787400631652450304",
+      "type": "Default",
+      "timestamp": "2020-12-12T19:28:59.782+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "থাইল্যান্ড  সিএসএস ঃ \uD83E\uDD74 \nhttps://tailwindcss.com/course/",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Designing with Tailwind CSS: Setting up Tailwind and PostCSS",
+          "url": "https://tailwindcss.com/course/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "Adam Wathan",
+            "url": "https://www.youtube.com/c/AdamWathan"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/T2jP51iOKBFoLwLF06rTAMr4JqCQZHxZvlToHENAt1M/https/i.ytimg.com/vi/21HuwjmuS7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787401114076315708",
+      "type": "Default",
+      "timestamp": "2020-12-12T19:30:54.801+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "done",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787401142794846258",
+      "type": "Default",
+      "timestamp": "2020-12-12T19:31:01.648+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#web-dev",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787401959698595900",
+      "type": "Default",
+      "timestamp": "2020-12-12T19:34:16.413+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "কেন জানি এইটা দেখলেই থাইল্যান্ড পড়ি বারবার",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE02",
+            "code": "joy",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f602.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "793307223849435196",
+      "type": "Default",
+      "timestamp": "2020-12-29T02:39:41.101+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=cxaall-4621-cxall",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Beginner's Series to: JavaScript | Channel 9",
+          "url": "https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=cxaall-4621-cxall",
+          "timestamp": null,
+          "description": "Beginner's guide to JavaScript on Node.js Learning a new framework or development environment is made even more difficult when you don't know the programming language. Fortunately, we're here to help!",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "794191731322519613",
+      "type": "Default",
+      "timestamp": "2020-12-31T13:14:24.116+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/\nIs this a good thing",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learning JavaScript Design Patterns",
+          "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+          "timestamp": null,
+          "description": "An open-source book on JavaScript Design Patterns",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795978776189992991",
+      "type": "Default",
+      "timestamp": "2021-01-05T11:35:28.814+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#sf7-dont-write-using-namespace-at-global-scope-in-a-header-file",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "C++ Core Guidelines",
+          "url": "https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines",
+          "timestamp": null,
+          "description": "The C++ Core Guidelines are a set of tried-and-true guidelines, rules, and best practices about coding in C++",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796710419125370910",
+      "type": "Default",
+      "timestamp": "2021-01-07T12:02:46.083+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "If anyone interested\nhttps://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Developing Android Apps with Kotlin | Udacity Free Courses",
+          "url": "https://www.udacity.com/course/developing-android-apps-with-kotlin--ud9012",
+          "timestamp": null,
+          "description": "Learn the fundamentals of the Kotlin programming language from Kotlin experts at Google.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796754552795561996",
+      "type": "Default",
+      "timestamp": "2021-01-07T14:58:08.37+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "am so confused right now... with the future of mobile app dev",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796754681215844362",
+      "type": "Default",
+      "timestamp": "2021-01-07T14:58:38.988+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "flutter would be the safe bait for now",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796755023190294529",
+      "type": "Default",
+      "timestamp": "2021-01-07T15:00:00.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "flutter e code kra lage na?",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796755070964072484",
+      "type": "Default",
+      "timestamp": "2021-01-07T15:00:11.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "লাগেতো",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796755366997655613",
+      "type": "Default",
+      "timestamp": "2021-01-07T15:01:22.491+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "kon lang",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796755395166208010",
+      "type": "Default",
+      "timestamp": "2021-01-07T15:01:29.207+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "dart",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD74",
+            "code": "woozy_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f974.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "804569321253634069",
+      "type": "Default",
+      "timestamp": "2021-01-29T04:31:14.362+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/EbookFoundation/free-programming-books",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "timestamp": null,
+          "description": ":books: Freely available programming books. Contribute to EbookFoundation/free-programming-books development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/eUAT3SO7fhmqhf5TNlvU7FwNs9Dvg-I2fU1b7L56E4Y/%3Fs%3D400%26v%3D4/https/avatars.githubusercontent.com/u/14127308",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "758708568701534238",
+            "name": "nobinalo",
+            "code": "nobinalo",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/758708568701534238.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "804569342452826153",
+      "type": "Default",
+      "timestamp": "2021-01-29T04:31:19.416+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Bangla included",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "807990233681231904",
+      "type": "Default",
+      "timestamp": "2021-02-07T15:04:43.442+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://exercism.io/",
+      "author": {
+        "id": "380738180292411392",
+        "name": "shoccho",
+        "discriminator": "0041",
+        "nickname": "shoccho",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380738180292411392/adfe07bb1fe24f4e891aebdfc398e2ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Exercism",
+          "url": "https://exercism.io/",
+          "timestamp": null,
+          "description": "Code Practice and Mentorship for Everyone. Level up your programming skills with 1,879 exercises across 38 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/PAJz4pWkWQVtbUcYjw5frWKilm8OacZ94MuIvqs1Yb4/https/assets.exercism.io/social/general.png",
+            "width": 1000,
+            "height": 1000
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "819916674416771122",
+      "type": "Default",
+      "timestamp": "2021-03-12T12:56:08.496+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Cringe?",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "819916671267373066",
+          "url": "https://cdn.discordapp.com/attachments/759736626082873344/819916671267373066/36231833334_b3581aa9af_o.png",
+          "fileName": "36231833334_b3581aa9af_o.png",
+          "fileSizeBytes": 2647893
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "819951621240651806",
+      "type": "Default",
+      "timestamp": "2021-03-12T15:15:00.468+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821869036182044753",
+      "type": "Reply",
+      "timestamp": "2021-03-17T22:14:07.814+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "looks good :3",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "575934996863516672",
+          "name": "MAC",
+          "discriminator": "4333",
+          "nickname": "MAC",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "819916674416771122",
+        "channelId": "759736626082873344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "821869090947334165",
+      "type": "Default",
+      "timestamp": "2021-03-17T22:14:20.871+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ভিত্রে কি লিখা পইড়া দেখি নাই অবশ্য :3",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822085297381834792",
+      "type": "Reply",
+      "timestamp": "2021-03-18T12:33:28.502+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "খালি চেহারা দেইখা ক্রাশ খাইলে গেবন শ্যাষ",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "594240192731152388",
+          "name": "m4hi2",
+          "discriminator": "9610",
+          "nickname": "m4hi2",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "821869090947334165",
+        "channelId": "759736626082873344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822085356819578911",
+      "type": "Default",
+      "timestamp": "2021-03-18T12:33:42.673+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ভিত্রেও দেখতে হবে \uD83D\uDE0F",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822146025913188433",
+      "type": "Reply",
+      "timestamp": "2021-03-18T16:34:47.312+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "X-ray vision or খুলে দেখা?",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "822085356819578911",
+        "channelId": "759736626082873344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "822146460069003344",
+      "type": "Default",
+      "timestamp": "2021-03-18T16:36:30.823+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "both... later if you're lucky enough",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "827099420872146965",
+      "type": "Default",
+      "timestamp": "2021-04-01T08:37:48.7+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/5slH34qP2Tw",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Should YOU learn Rust Lang in 2021?!",
+          "url": "https://www.youtube.com/watch?v=5slH34qP2Tw",
+          "timestamp": null,
+          "description": "Should you invest the time to learn the Rust programming language in 2021? Find out my top 3 reasons for learning Rust!\n\n\n#letsgetrusty​ #rust​lang",
+          "color": "#FF0000",
+          "author": {
+            "name": "Let's Get Rusty",
+            "url": "https://www.youtube.com/channel/UCSp-OaMpsO8K0KkOqyBl7_w"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/cB_Hmq1EbHcmc6q99SQy-yEweMrtqjhRQh3liTtej6E/https/i.ytimg.com/vi/5slH34qP2Tw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "827100235871944706",
+      "type": "Default",
+      "timestamp": "2021-04-01T08:41:03.011+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@mdgaziur001 check this :3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384355764975960064",
+          "name": "mdgaziur001",
+          "discriminator": "8758",
+          "nickname": "mdgaziur001",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "827104892472262656",
+      "type": "Default",
+      "timestamp": "2021-04-01T08:59:33.231+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Who said it's too hard? :V",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "827105118628347914",
+      "type": "Reply",
+      "timestamp": "2021-04-01T09:00:27.151+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Don't judge a video by its thumbnail or title :3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384355764975960064",
+          "name": "mdgaziur001",
+          "discriminator": "8758",
+          "nickname": "mdgaziur001",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "827104892472262656",
+        "channelId": "759736626082873344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "827105345834713109",
+      "type": "Default",
+      "timestamp": "2021-04-01T09:01:21.321+00:00",
+      "timestampEdited": "2021-04-01T09:01:29.243+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "বেশীরভাগ youtuber-ই click-bait ভিডিও করার try করে :3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "827107045492523008",
+      "type": "Default",
+      "timestamp": "2021-04-01T09:08:06.551+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Yes",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "827107066392870912",
+      "type": "Default",
+      "timestamp": "2021-04-01T09:08:11.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "828325194502111232",
+      "type": "Default",
+      "timestamp": "2021-04-04T17:48:35.907+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@audacioustux  add this in rust channel \uD83D\uDE04 : https://youtu.be/grU-4u0Okto",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Traits and You: A Deep Dive —\u00A0Nell Shamrell-Harrington",
+          "url": "https://www.youtube.com/watch?v=grU-4u0Okto",
+          "timestamp": null,
+          "description": "Traits are one of the most powerful, but also most difficult parts of Rust to master. Come to this talk for a visual exploration of how traits work - from the most basic to the advanced. It is only through deep understanding of a concept like traits that you can fully harness their power in your every day code. You will walk away with a deep und...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Rust Belt Rust Conference",
+            "url": "https://www.youtube.com/channel/UCptxtVyJkQAJZcFwBbIDZcg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/6K2Nodch746mWjW-c3Gaci5A9ffWPETvBZzgJOMxmkE/https/i.ytimg.com/vi/grU-4u0Okto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "828368437294006332",
+      "type": "Default",
+      "timestamp": "2021-04-04T20:40:25.792+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "তোমার তো মেবি রাস্ট চ্যানেলের পার্মিশন থাকার কথা",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "828469102691614751",
+      "type": "Reply",
+      "timestamp": "2021-04-05T03:20:26.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "নাই তো ☹️",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "828368437294006332",
+        "channelId": "759736626082873344",
+        "guildId": null
+      }
+    },
+    {
+      "id": "828596662233726976",
+      "type": "Default",
+      "timestamp": "2021-04-05T11:47:18.858+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "এখন দেখো",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "828644899447898142",
+      "type": "Default",
+      "timestamp": "2021-04-05T14:58:59.506+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "হ্যাঁ, এখন হইছে \uD83E\uDD80",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "833458030921515008",
+      "type": "Default",
+      "timestamp": "2021-04-18T21:44:39.473+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps/",
+      "author": {
+        "id": "380738180292411392",
+        "name": "shoccho",
+        "discriminator": "0041",
+        "nickname": "shoccho",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/380738180292411392/adfe07bb1fe24f4e891aebdfc398e2ec.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Take your first steps with Rust - Learn",
+          "url": "https://docs.microsoft.com/en-gb/learn/paths/rust-first-steps/",
+          "timestamp": null,
+          "description": "Interested in learning a new programming language that's growing in use and popularity? Start here! Lay the foundation of knowledge you need to build fast and effective programs in Rust.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "851258184123285504",
+      "type": "Default",
+      "timestamp": "2021-06-07T00:36:06.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/82TxNejKsng",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Recreating Dennis Ritchie's PhD Thesis - Computerphile",
+          "url": "https://www.youtube.com/watch?v=82TxNejKsng",
+          "timestamp": null,
+          "description": "Professor Brailsford has been toiling away on a faithful recreation of Unix co-creator Dennis Ritchie's unsubmitted PhD thesis. \n\nThe Computer History Museum material on Dennis's lost thesis is at:\nhttps://computerhistory.org/blog/discovering-dennis-ritchies-lost-dissertation/\n\nThe Ritchie family's Web site about the devices (hardware and softwa...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Computerphile",
+            "url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/PliW-1ixvu78cPSIYJPwOI-wwg31oSJFl0PsPuZ5asM/https/i.ytimg.com/vi/82TxNejKsng/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "851512071568228404",
+      "type": "Default",
+      "timestamp": "2021-06-07T17:24:58.191+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "উমমম কোন চ্যানেলে দিবাম",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "851512127674908693",
+      "type": "Default",
+      "timestamp": "2021-06-07T17:25:11.568+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আপনার সবগুলার এক্সেসই আছেনা?",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "852539273932177429",
+      "type": "Default",
+      "timestamp": "2021-06-10T13:26:42.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://os.phil-opp.com/",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Writing an OS in Rust",
+          "url": "https://os.phil-opp.com/",
+          "timestamp": null,
+          "description": "This blog series creates a small operating system in the Rust programming language. Each post is a small tutorial and includes all needed code.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "853018509340311612",
+      "type": "Reply",
+      "timestamp": "2021-06-11T21:11:00.944+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আছে, আমি নিজেই চ্যানেল খুইজা পাই নাই। র‍্যান্ডম নামে একটা লাওয়ারিস চ্যানেল করতে হবে",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "851512127674908693",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "853668685138886677",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:14:34.934+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "\uD83D\uDE42",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853668729387614270",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:14:45.484+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "rust is safer btw",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853668864512491572",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:15:17.7+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "rust also have similiar syntax :V",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853668987304542248",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:15:46.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "then you can try make an emulator",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853669005620543528",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:15:51.343+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "not an operating system though",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853669017151471626",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:15:54.092+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's really hard",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853669043814006814",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:16:00.449+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "you need to know about assembly \uD83D\uDE42",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853669066417111122",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:16:05.838+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "and trust me, it's freaking hard",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853669092099751957",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:16:11.961+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "noooooooooo assembly",
+      "author": {
+        "id": "531056169398042635",
+        "name": "itsAdi",
+        "discriminator": "6837",
+        "nickname": "itsAdi",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/531056169398042635/2f691fcf8ffa57855478f1b964826eff.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853669177486868480",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:16:32.319+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "anything \uD83D\uDE42",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853669200735109161",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:16:37.862+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "except bootloaders \uD83D\uDE42",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853669220445061140",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:16:42.561+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "btw, you can make bios in rust",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "854407922732498985",
+      "type": "Default",
+      "timestamp": "2021-06-15T17:12:02.911+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Procedural Terrain Generation",
+          "url": "https://www.youtube.com/playlist?list=PLFt_AvWsXl0eBW2EiBtl_sxmDtSgZBxB3",
+          "timestamp": null,
+          "description": "Generating procedural terrain in the Unity game engine.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/REHt9qiYk3arHeZT_54hSLk9MJynDLp-7BxWyUuDR24/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLBZKUwOIMXKjV1Saj_uE_DI4Sgwyg%26days_since_epoch%3D18793/https/i.ytimg.com/vi/COmtTyLCd6I/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "855429606252740628",
+      "type": "Default",
+      "timestamp": "2021-06-18T12:51:51.244+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/bradtraversy/design-resources-for-developers",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "bradtraversy/design-resources-for-developers",
+          "url": "https://github.com/bradtraversy/design-resources-for-developers",
+          "timestamp": null,
+          "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more - bradtraversy/design-resources-for-developers",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/gB8g3P3XXk9bgDW_vyWkxMf81_CgZu-fmwoVTV09lm8/https/opengraph.githubassets.com/fed78bf513ed9303e363638aef2684c9a84373d302607093427cfb6865d901c5/bradtraversy/design-resources-for-developers",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "855458833807835156",
+      "type": "Default",
+      "timestamp": "2021-06-18T14:47:59.636+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ahh. the guru and creator of traversy media ❤️",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "798413753565708300",
+            "name": "FoxLove",
+            "code": "FoxLove",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/798413753565708300.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "874346387461001247",
+      "type": "Default",
+      "timestamp": "2021-08-09T17:40:23.341+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/W3CDMcWlPyM",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "21 Tips for My 18-Year-Old Self",
+          "url": "https://www.youtube.com/watch?v=W3CDMcWlPyM",
+          "timestamp": null,
+          "description": "\uD83D\uDE80 Join my live online course, the Part-Time YouTuber Academy, running 7th June to 14th July 2021. If you want to learn how to kickstart & grow your channel without quitting your job, check out https://academy.aliabdaal.com \uD83D\uDE03\nThe first 1000 people to use the link in my description will get a free trial of Skillshare Premium Membership: https://sk...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ali Abdaal",
+            "url": "https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/NPNydF8mX06032_dnmRZDnimIrUkxjjPdX_xCfwaUKc/https/i.ytimg.com/vi/W3CDMcWlPyM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "880761385850654740",
+      "type": "Default",
+      "timestamp": "2021-08-27T10:31:18.142+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "880761385397661716",
+          "url": "https://cdn.discordapp.com/attachments/759736626082873344/880761385397661716/Szyperski_C._Murer_S._-_Component_Software__Beyond_Object-Oriented_Programming-Addison-Wesley_Profes.pdf",
+          "fileName": "Szyperski_C._Murer_S._-_Component_Software__Beyond_Object-Oriented_Programming-Addison-Wesley_Profes.pdf",
+          "fileSizeBytes": 2693500
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "880761446785515571",
+      "type": "Reply",
+      "timestamp": "2021-08-27T10:31:32.67+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@audacioustux ভাই, এটা Files এ যাবে? :3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "880761385850654740",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "880761501667962911",
+      "type": "Default",
+      "timestamp": "2021-08-27T10:31:45.755+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "yes",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "880761529711067136",
+      "type": "Default",
+      "timestamp": "2021-08-27T10:31:52.441+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "lemme give access",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "880761535931240449",
+      "type": "Default",
+      "timestamp": "2021-08-27T10:31:53.924+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ache?",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "880761575152181348",
+      "type": "Reply",
+      "timestamp": "2021-08-27T10:32:03.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "নাই",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "880761535931240449",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "880761716986769438",
+      "type": "Default",
+      "timestamp": "2021-08-27T10:32:37.091+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "check",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "880761736448327710",
+      "type": "Reply",
+      "timestamp": "2021-08-27T10:32:41.731+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "হইছে",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "880761716986769438",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "880872444557140028",
+      "type": "Default",
+      "timestamp": "2021-08-27T17:52:36.601+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "elixir এর channel বানাইতে পারেন :3 @audacioustux ভাই",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "880872679157157938",
+      "type": "Default",
+      "timestamp": "2021-08-27T17:53:32.534+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "actors channel tai erlang, elixir, actor related stuffs এর জন্যে ছিল",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "880872968463458315",
+      "type": "Default",
+      "timestamp": "2021-08-27T17:54:41.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "butt channel এর নাম কি দিব ক্লিয়ার না",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "880874218001137714",
+      "type": "Default",
+      "timestamp": "2021-08-27T17:59:39.423+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "elixir করে দিলাম... যদিও ডাজেন্ট মেক মাচ সেন্স... কিছু করার নাই :(",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "880875377197711410",
+      "type": "Reply",
+      "timestamp": "2021-08-27T18:04:15.797+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ওহ স্যাড",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "880872679157157938",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "880875420638134303",
+      "type": "Reply",
+      "timestamp": "2021-08-27T18:04:26.154+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ভবিষ্যতে গুঁতাগুতি হবে :3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83C\uDF5E",
+            "code": "bread",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f35e.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "880874218001137714",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "881042403170082866",
+      "type": "Default",
+      "timestamp": "2021-08-28T05:07:57.892+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "881043085558173736",
+      "type": "Default",
+      "timestamp": "2021-08-28T05:10:40.586+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "উমমম কোন চ্যানেলে দিব :)",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "881043534365478922",
+      "type": "Reply",
+      "timestamp": "2021-08-28T05:12:27.59+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ": ) low-level channel বানান",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "881043085558173736",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "881043579554910208",
+      "type": "Default",
+      "timestamp": "2021-08-28T05:12:38.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "উমমম ওকা",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "881044052517224478",
+      "type": "Default",
+      "timestamp": "2021-08-28T05:14:31.127+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "done",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "882854733319123004",
+      "type": "Default",
+      "timestamp": "2021-09-02T05:09:31.071+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/bV_NdUZEmnE",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DOPAMINE DETOX | How To Take Back Control Over Your Life",
+          "url": "https://www.youtube.com/watch?v=bV_NdUZEmnE",
+          "timestamp": null,
+          "description": "How I Color Grade My Videos: https://shop.niklaschristl.com/products/signature-luts\nMy Presets, LUTs & Editing Assets: https://shop.niklaschristl.com/\nMonthly Newsletter: http://bit.ly/NiklasChristlNewsletter\nInstagram: https://instagram.com/niklas.christl\n\nWhat would our lives look like if we drowned out all the noise around us? In our modern w...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Niklas Christl",
+            "url": "https://www.youtube.com/channel/UCqYuzgSCEl0IqWKxC8T4Gmg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/kZaqwE68XDGCfW3sXgSyTAaIiutZXGhVrhcDozANUPU/https/i.ytimg.com/vi/bV_NdUZEmnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "882854913523195975",
+      "type": "Default",
+      "timestamp": "2021-09-02T05:10:14.035+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/M6r7gs_6WbA",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Don't Let Your Dreams Be Dreams.",
+          "url": "https://www.youtube.com/watch?v=M6r7gs_6WbA",
+          "timestamp": null,
+          "description": "Get My Signature LUTs here: https://shop.niklaschristl.com/products/signature-luts\nFollow for Before/Afters and Giveaways: https://www.instagram.com/niklas.christl.visuals\n\nMonthly Newsletter: http://bit.ly/NiklasChristlNewsletter\nInstagram: https://instagram.com/niklas.christl\n\nThis video is for the dreamers out there, the ones who choose to pa...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Niklas Christl",
+            "url": "https://www.youtube.com/channel/UCqYuzgSCEl0IqWKxC8T4Gmg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/sOFxcrt3JqnItBKRDWRWp4O8f1cIbCGqFKj3IDDLOec/https/i.ytimg.com/vi/M6r7gs_6WbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "885730291019317259",
+      "type": "Default",
+      "timestamp": "2021-09-10T03:35:57.452+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://doc.rust-lang.org/nomicon",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction - The Rustonomicon",
+          "url": "https://doc.rust-lang.org/nomicon",
+          "timestamp": null,
+          "description": "The Dark Arts of Advanced and Unsafe Rust Programming",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "891679706125053962",
+      "type": "Default",
+      "timestamp": "2021-09-26T13:36:48.548+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/1-TZqOsVCNM",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to Get Rich",
+          "url": "https://www.youtube.com/watch?v=1-TZqOsVCNM",
+          "timestamp": null,
+          "description": "Intro 0:00\n\nSeek Wealth, Not Money or Status 1:30\r\n\r\nMake Abundance for the World 6:40\r\n\r\nFree Markets Are Intrinsic to Humans 10:21\r\n\r\nMaking Money Isn’t About Luck 14:19\r\n\r\nMake Luck Your Destiny 19:25\r\n\r\nYou Won’t Get Rich Renting Out Your Time 24:00\r\n\r\nLive Below Your Means for Freedom 28:40\r\n\r\nGive Society What It Doesn’t Know How to Get 31...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Naval",
+            "url": "https://www.youtube.com/channel/UCh_dVD10YuSghle8g6yjePg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/bXLEmGv7g5n-VsU7Ol6e2zFHf1YhnzRO8la1zHk4YAU/https/i.ytimg.com/vi/1-TZqOsVCNM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894495372498583573",
+      "type": "Default",
+      "timestamp": "2021-10-04T08:05:15.724+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://os.phil-opp.com/paging-introduction/",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction to Paging | Writing an OS in Rust",
+          "url": "https://os.phil-opp.com/paging-introduction/",
+          "timestamp": null,
+          "description": "This post introduces paging, a very common memory management scheme that we will also use for our operating system. It explains why memory isolation i…",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894970043669032990",
+      "type": "Reply",
+      "timestamp": "2021-10-05T15:31:26.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "bruh, that's already added here ig",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384355764975960064",
+          "name": "mdgaziur001",
+          "discriminator": "8758",
+          "nickname": "mdgaziur001",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "894495372498583573",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "894970074438451291",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:31:33.486+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "894970072710414347",
+          "url": "https://cdn.discordapp.com/attachments/759736626082873344/894970072710414347/the_productive_cycle.png",
+          "fileName": "the_productive_cycle.png",
+          "fileSizeBytes": 34270
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894972035242029067",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:39:20.978+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894972443364565012",
+      "type": "Reply",
+      "timestamp": "2021-10-05T15:40:58.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "894972440625688576",
+          "url": "https://cdn.discordapp.com/attachments/759736626082873344/894972440625688576/gg.png",
+          "fileName": "gg.png",
+          "fileSizeBytes": 94260
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384355764975960064",
+          "name": "mdgaziur001",
+          "discriminator": "8758",
+          "nickname": "mdgaziur001",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "894972035242029067",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "894972478970015744",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:41:06.771+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's not paging",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894972498293194793",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:41:11.378+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "it's os",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894972538625593354",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:41:20.994+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "but this one actually has paging intro",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894972558447890572",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:41:25.72+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "without that os thing",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894972733039968347",
+      "type": "Reply",
+      "timestamp": "2021-10-05T15:42:07.346+00:00",
+      "timestampEdited": "2021-10-05T15:43:43.282+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "um...that's kinda weird right? Like, you shared Rust Doc website and then you want to share the doc page about the topic \"Traits\"?",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384355764975960064",
+          "name": "mdgaziur001",
+          "discriminator": "8758",
+          "nickname": "mdgaziur001",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "894972558447890572",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "894972832969281617",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:42:31.171+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "do what you think the best is",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894973049391173712",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:43:22.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "added in #low-programming",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC9D",
+            "code": "gift_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f49d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "902071824555331594",
+      "type": "Default",
+      "timestamp": "2021-10-25T05:51:22.658+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/Y6Ev8GIlbxc",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Distributed Systems in One Lesson by Tim Berglund",
+          "url": "https://www.youtube.com/watch?v=Y6Ev8GIlbxc",
+          "timestamp": null,
+          "description": "Normally simple tasks like running a program or storing and retrieving data become much more complicated when we start to do them on collections of computers, rather than single machines. Distributed systems has become a key architectural concern, and affects everything a program would normally do—giving us enormous power, but at the cost of inc...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Devoxx Poland",
+            "url": "https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/mpIV1N3TNK1aJKWPGy3uzuf1qXfsZzJEi1IT2AlmwTI/https/i.ytimg.com/vi/Y6Ev8GIlbxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "902077691879129159",
+      "type": "Reply",
+      "timestamp": "2021-10-25T06:14:41.537+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আছেতো এইটা",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "723940136420638860",
+          "name": "SHANTO",
+          "discriminator": "6483",
+          "nickname": "SHANTO",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "902071824555331594",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "902191266475962368",
+      "type": "Reply",
+      "timestamp": "2021-10-25T13:45:59.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ওহ, কোনটায়? :3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "902077691879129159",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "902215963641008159",
+      "type": "Default",
+      "timestamp": "2021-10-25T15:24:08.094+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "902215960583364668",
+          "url": "https://cdn.discordapp.com/attachments/759736626082873344/902215960583364668/Screenshot_2021-10-25-21-23-54.png",
+          "fileName": "Screenshot_2021-10-25-21-23-54.png",
+          "fileSizeBytes": 883194
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC96",
+            "code": "sparkling_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f496.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "904261278858625034",
+      "type": "Default",
+      "timestamp": "2021-10-31T06:51:29.242+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://os.phil-opp.com/allocator-designs/",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Allocator Designs | Writing an OS in Rust",
+          "url": "https://os.phil-opp.com/allocator-designs/",
+          "timestamp": null,
+          "description": "This post explains how to implement heap allocators from scratch. It presents and discusses different allocator designs, including bump allocation, li…",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "760055294759534613",
+            "name": "rust",
+            "code": "rust",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/760055294759534613.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "904305199408087060",
+      "type": "Default",
+      "timestamp": "2021-10-31T09:46:00.717+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "os.phil-app diyai to vore jabe",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD74",
+            "code": "woozy_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f974.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "904336469529862194",
+      "type": "Reply",
+      "timestamp": "2021-10-31T11:50:16.095+00:00",
+      "timestampEdited": "2021-10-31T11:50:19.594+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "phil opp is op",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "904305199408087060",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "904336554200272897",
+      "type": "Default",
+      "timestamp": "2021-10-31T11:50:36.282+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "explanations are great",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "904336607631523860",
+      "type": "Default",
+      "timestamp": "2021-10-31T11:50:49.021+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "easy to understand(unless the reader is lazy af and doesn't note down anything)",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "906852183188836382",
+      "type": "Default",
+      "timestamp": "2021-11-07T10:26:48.971+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI by @emonshr bhai",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TypeScript Tutorial",
+          "url": "https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI",
+          "timestamp": null,
+          "description": "In this tutorial series we'll learn all about TypeScript - a superset of the JavaScript language.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/tgP2c6ek60K9TXCsfnk3Tc76k-Kr3SzhAkGDOlwE1KA/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLCq0w0yoCGUgPXCwRJo_n7plzpp-Q%26days_since_epoch%3D18938/https/i.ytimg.com/vi/2pZmKW9-I_k/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "608315225137086474",
+          "name": "emonshr",
+          "discriminator": "1235",
+          "nickname": "emonshr",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+        }
+      ]
+    },
+    {
+      "id": "906852317867954186",
+      "type": "Reply",
+      "timestamp": "2021-11-07T10:27:21.081+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@audacioustux ভাই, অ্যাড কইরেন এটা :v ওই চ্যানেলে permission নাই।",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "906852183188836382",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "906852778767425536",
+      "type": "Default",
+      "timestamp": "2021-11-07T10:29:10.968+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "check #web-dev",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "906853156867174451",
+      "type": "Reply",
+      "timestamp": "2021-11-07T10:30:41.114+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#javascript_ts কী :v",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "906852778767425536",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "906865880162525204",
+      "type": "Default",
+      "timestamp": "2021-11-07T11:21:14.584+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ow",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "906865900521660436",
+      "type": "Default",
+      "timestamp": "2021-11-07T11:21:19.438+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "খেয়াল ছিলোনা",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "906865956293316648",
+      "type": "Default",
+      "timestamp": "2021-11-07T11:21:32.735+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "পিসিতে বসলে পার্মিশন সেট করবোনে",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920759646585765888",
+      "type": "Default",
+      "timestamp": "2021-12-15T19:30:06.633+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/9vJRopau0g0",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Super Mario Effect - Tricking Your Brain into Learning More | M...",
+          "url": "https://www.youtube.com/watch?v=9vJRopau0g0",
+          "timestamp": null,
+          "description": "When 50,000 of Mark Rober's 3 million YouTube subscribers participated in a basic coding challenge, the data all pointed to what Rober has dubbed the Super Mario Effect. The YouTube star and former NASA engineer describes how this data-backed mindset for life gamification has stuck with him along his journey, and how it impacts the ways he helps...",
+          "color": "#FF0000",
+          "author": {
+            "name": "TEDx Talks",
+            "url": "https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Y2yX64Ayi2hwOwrw_67OKVQHR3kr0YpWiF_24BujKuw/https/i.ytimg.com/vi/9vJRopau0g0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923461034717610015",
+      "type": "Default",
+      "timestamp": "2021-12-23T06:24:27.753+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/KxGRhd_iWuE",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Matsuoka Shuzo [松岡修造 ] - あきらめかけているあなた (NEVER GIVE UP!!) [English]",
+          "url": "https://www.youtube.com/watch?v=KxGRhd_iWuE",
+          "timestamp": null,
+          "description": "1/1/18 EDIT: Shuzo Matsuoka is a retired Japanese professional tennis player who does motivational speeches like this as a career and is a well known meme in the Japanese internets. HE IS NOT A JAPANESE FISHERMAN WHO ALWAYS FARMS ASIATIC CLAMS IN -10 DEGREE CELSIUS WEATHER AS SOCIAL MEDIA IS SUGGESTING. Sorry to burst some motivational bubbles b...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ryuujin131",
+            "url": "https://www.youtube.com/channel/UCBRxjpsVJu9p5fbVrLfHstw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/skthLpSeeDb8r9X7JStdg_Ojb2FQTqb8iYjO4xcj6BY/https/i.ytimg.com/vi/KxGRhd_iWuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923539548259102770",
+      "type": "Default",
+      "timestamp": "2021-12-23T11:36:26.84+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "self-dev? ami baire, net nai temon",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923539768430723073",
+      "type": "Default",
+      "timestamp": "2021-12-23T11:37:19.333+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#self-dev এ এক্সেস আছে বত্ব",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923539833102684191",
+      "type": "Default",
+      "timestamp": "2021-12-23T11:37:34.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "সবগুলাতেই দিবনে বাসায় গেলে",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "923579481346670633",
+      "type": "Reply",
+      "timestamp": "2021-12-23T14:15:07.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আমিই দিয়ে দিলাম :3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "923539833102684191",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "924317330002038834",
+      "type": "Default",
+      "timestamp": "2021-12-25T15:07:04.458+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "posted before maybe",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924317445685125140",
+      "type": "Default",
+      "timestamp": "2021-12-25T15:07:32.039+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "oh, yes. removing",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924317453272629348",
+      "type": "Default",
+      "timestamp": "2021-12-25T15:07:33.848+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "924317452471500820",
+          "url": "https://cdn.discordapp.com/attachments/759736626082873344/924317452471500820/Screenshot_2021-12-25-21-07-19.png",
+          "fileName": "Screenshot_2021-12-25-21-07-19.png",
+          "fileSizeBytes": 591897
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926028453050978384",
+      "type": "Default",
+      "timestamp": "2021-12-30T08:26:27.984+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/nnIimOTcsAs",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Parkinson’s Law: How to Manage Your Time More Effectively",
+          "url": "https://www.youtube.com/watch?v=nnIimOTcsAs",
+          "timestamp": null,
+          "description": "\uD83D\uDD13 Get all my illustrations HERE: https://gumroad.com/l/Full-Archive \n \nOnce you understand Parkinson’s Law, it’s easy to apply its principles to your own projects, essays, presentations, goals, and more. Play with reassigning deadlines, breaking up your projects and goals into smaller parts, and challenging yourself to get things done faster tha...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Art of Improvement",
+            "url": "https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/c5cPyM160bymBGIA1QKjhXw112dnBAmohe5riqaqB3k/https/i.ytimg.com/vi/nnIimOTcsAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "930704415583789076",
+      "type": "Default",
+      "timestamp": "2022-01-12T06:07:04.327+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/m902hm3fK7Q",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Messing With The Recipe",
+          "url": "https://www.youtube.com/watch?v=m902hm3fK7Q",
+          "timestamp": null,
+          "description": "What if we learned just enough to be a little dangerous?\n\nFollow me on twitter: https://twitter.com/fasterthanlime\nSupport me on Patreon: https://patreon.com/fasterthanlime\n\nContents\n00:00 Intro\n01:15 Computers programs crash course\n03:54 Time for some practice\n07:18 Danger zone\n10:44 Getting unstuck\n13:28 Playing on hard mode\n18:24 When the deb...",
+          "color": "#FF0000",
+          "author": {
+            "name": "fasterthanlime",
+            "url": "https://www.youtube.com/channel/UCs4fQRyl1TJvoeOdekW6lYA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/0DaZjHUr1i9chrVsTr0j2oT9lOiO_vXwNIOPzDOhgd4/https/i.ytimg.com/vi/m902hm3fK7Q/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "930709091066736670",
+      "type": "Default",
+      "timestamp": "2022-01-12T06:25:39.049+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#rust এ তোমার এক্সেস আছেতো",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "930712321586782208",
+      "type": "Reply",
+      "timestamp": "2022-01-12T06:38:29.265+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "কই দিবো আমি confused ছিলাম",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "930709091066736670",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "930712351462785034",
+      "type": "Default",
+      "timestamp": "2022-01-12T06:38:36.388+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": ":3",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "930716380825780284",
+      "type": "Default",
+      "timestamp": "2022-01-12T06:54:37.063+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আলাদা আলাদা চ্যানেল খোলাই ভুল ছিলো... যাস্ট tag দিয়া করা উচিৎ ছিলো... অনেক কিছু ডিজার্ভ টু বি অন মাল্টিপল প্লেস",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "932469744567713852",
+      "type": "Default",
+      "timestamp": "2022-01-17T03:01:51.555+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/playlist?list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Rust",
+          "url": "https://youtube.com/playlist?list=PLFjq8z-aGyQ6t_LGp7wqHsHTYO-pDDx84",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/WwUV_3si4y87VTAgwUDRnl1uIOb6G9bOJ7yvTmTTPzo/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLCfJP8HA9l9lqYMRhhOIQmBEnbREw%26days_since_epoch%3D19009/https/i.ytimg.com/vi/_jMSrMex6R0/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "939771472799494224",
+      "type": "Default",
+      "timestamp": "2022-02-06T06:36:19.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p",
+      "author": {
+        "id": "748190362333610014",
+        "name": "NAHID_GTC",
+        "discriminator": "0445",
+        "nickname": "NAHID_GTC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/748190362333610014/dc2b49a834500aa9a2bd09bafdeaeee3.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CS50's Understanding Technology 2017",
+          "url": "https://youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p",
+          "timestamp": null,
+          "description": "This course is for students who don't (yet) consider themselves computer persons. Designed for students who work with technology every day but don't necessar...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hDey1RUCjyW0TxcU8wqaTtyJXU922aRjQs-kElxumLw/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLAWz87omSLIOzjEQbbTOeEOQPtg6w%26days_since_epoch%3D19029/https/i.ytimg.com/vi/6mbFO0ZLMW8/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941318413148618792",
+      "type": "Default",
+      "timestamp": "2022-02-10T13:03:18.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://ohshitgit.com/",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941318956046749707",
+      "type": "Default",
+      "timestamp": "2022-02-10T13:05:27.982+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://ohshitgit.com/bn",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941319145876779019",
+      "type": "Default",
+      "timestamp": "2022-02-10T13:06:13.241+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "ইংরেজিটাই ভালা",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941319184846057502",
+      "type": "Default",
+      "timestamp": "2022-02-10T13:06:22.532+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "বাংলাটা ক্রিন্জ",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE22",
+            "code": "cry",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f622.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "941320856829829181",
+      "type": "Default",
+      "timestamp": "2022-02-10T13:13:01.164+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "google translator \uD83D\uDE42",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941321102070792202",
+      "type": "Default",
+      "timestamp": "2022-02-10T13:13:59.634+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "unswear version: https://dangitgit.com/en",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941643779209842719",
+      "type": "Default",
+      "timestamp": "2022-02-11T10:36:11.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "একটাই থাকুক",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "943913619584847952",
+      "type": "Default",
+      "timestamp": "2022-02-17T16:55:43.976+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/IAgJWzjwfw8",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Philosophy of Love   Lecture 1",
+          "url": "https://www.youtube.com/watch?v=IAgJWzjwfw8",
+          "timestamp": null,
+          "description": "Part one of a four-part series on the Philosophy of Love for the Osher Lifelong Learning Institute. The speaker is Dr. Andrew Fiala. \n\nThe Osher Lifelong Learning Institute (OLLI) at California State University, Fresno, is a program created for adults age 50+ who wish to continue learning and exploring for the sheer joy of it. Renew your enthusi...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Fresno State Continuing & Global Education",
+            "url": "https://www.youtube.com/channel/UC-C4MloE5mmtriZ1j6OyfPA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Jy9B85PBoCGJh7FX-3JwLdBEA8EucGcWALyzJuwm4hA/https/i.ytimg.com/vi/IAgJWzjwfw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952150738568638514",
+      "type": "Default",
+      "timestamp": "2022-03-12T10:27:06.18+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "952150737884958720",
+          "url": "https://cdn.discordapp.com/attachments/759736626082873344/952150737884958720/gg.PNG",
+          "fileName": "gg.PNG",
+          "fileSizeBytes": 54246
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "952174014544105506",
+      "type": "Default",
+      "timestamp": "2022-03-12T11:59:35.605+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "@SHANTO  তোমার সব চ্যানেলে এক্সেস আছে এখন",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "723940136420638860",
+          "name": "SHANTO",
+          "discriminator": "6483",
+          "nickname": "SHANTO",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "969992734389714954",
+      "type": "Default",
+      "timestamp": "2022-04-30T16:04:49.472+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/YuCRDlEFaw4",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Investing Advice for Teenagers (2022)",
+          "url": "https://www.youtube.com/watch?v=YuCRDlEFaw4",
+          "timestamp": null,
+          "description": "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/aliabdaal04229\n\nHey friends, this video is about how to invest as a teenager: basically the advice I’d give my 15-year-old self. You might be fairly broke, but that doesn’t mean you can’t build good money habits + make decisions that’ll pay off fu...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ali Abdaal",
+            "url": "https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/7YEEJT9is5eDuTnUc3AnFPieYxrymFyvMsc9hnnIeO8/https/i.ytimg.com/vi/YuCRDlEFaw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1005473776529571880",
+      "type": "Default",
+      "timestamp": "2022-08-06T13:53:49.124+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "In depth details of Paging: https://pages.cs.wisc.edu/~remzi/OSTEP/vm-paging.pdf",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017029280938590230",
+      "type": "Reply",
+      "timestamp": "2022-09-07T11:11:16.066+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "no access in Smalltalk \uD83D\uDE26",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "952174014544105506",
+        "channelId": "759736626082873344",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "1017029319727513620",
+      "type": "Default",
+      "timestamp": "2022-09-07T11:11:25.314+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/uknEhXyZgsg",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Alto System Project: Dan Ingalls demonstrates Smalltalk",
+          "url": "https://www.youtube.com/watch?v=uknEhXyZgsg",
+          "timestamp": null,
+          "description": "This interpretive production of the Computer History Museum's Software History Center was created from archival footage of Dan Ingalls demonstrating the Smalltalk integrated environment and object-oriented programming language on the Museum’s restored Xerox Alto computer at the Museum’s Shustek Research Archives on February 13, 2018 and June 20,...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Computer History Museum",
+            "url": "https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/TeyRwo5QoTj5hC9UQYOcfhiNmovhqIMQSF82g3UMVuw/https/i.ytimg.com/vi/uknEhXyZgsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017029692202680371",
+      "type": "Default",
+      "timestamp": "2022-09-07T11:12:54.119+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "fixed",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "758708568701534238",
+            "name": "nobinalo",
+            "code": "nobinalo",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/758708568701534238.png"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 159
+}

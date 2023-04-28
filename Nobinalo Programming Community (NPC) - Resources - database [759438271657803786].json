@@ -1,0 +1,107 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "759438271657803786",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "database",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "759438290558124042",
+      "type": "Default",
+      "timestamp": "2020-09-26T15:36:38.15+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://hakibenita.com/sql-tricks-application-dba",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Some SQL Tricks of an Application DBA",
+          "url": "https://hakibenita.com/sql-tricks-application-dba",
+          "timestamp": null,
+          "description": "Non-trivial tips for database development",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ay2ifzYZievV6iOSiKy4E2r5nNun4UIK7NWJcvtP3HE/https/hakibenita.com/images/00-sql-tricks-dba.jpg",
+            "width": 650,
+            "height": 888
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "768151419873132574",
+      "type": "Default",
+      "timestamp": "2020-10-20T16:39:30.061+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction to SQL (Computer Science)",
+          "url": "https://www.youtube.com/playlist?list=PLi01XoE8jYojRqM4qGBF1U90Ee1Ecb5tt",
+          "timestamp": null,
+          "description": "In this Introduction to SQL Course, you will learn the essential queries needed to work with a relational database: How to create data (INSERT), change exist...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/MpbZuXr61m6IxZMBinxaepnxUucvdIjaFyHqoQgpins/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLDmMVVo-O40qU2MOBRYcSnkjbEqtg/https/i.ytimg.com/vi/nWyyDHhTxYU/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0B",
+            "code": "yum",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60b.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    }
+  ],
+  "messageCount": 2
+}

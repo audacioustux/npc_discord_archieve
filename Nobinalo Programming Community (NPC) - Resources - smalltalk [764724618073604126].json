@@ -1,0 +1,291 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "764724618073604126",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "smalltalk",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "802474778391740426",
+      "type": "Default",
+      "timestamp": "2021-01-23T09:48:16.429+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://worrydream.com/EarlyHistoryOfSmalltalk/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "802494948694949908",
+      "type": "Default",
+      "timestamp": "2021-01-23T11:08:25.404+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://web.cecs.pdx.edu/~harry/musings/SmalltalkOverview.html",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "805168078807105537",
+      "type": "Default",
+      "timestamp": "2021-01-30T20:10:29.287+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/Ao9W93OxQ7U",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Object-Oriented Programming, lecture by Daniel Ingalls",
+          "url": "https://www.youtube.com/watch?v=Ao9W93OxQ7U",
+          "timestamp": null,
+          "description": "Object-Oriented Programming, a lecture by Daniel Ingalls. This video was recorded in July, 1989.\n\nFrom University Video Communications' catalog:\n\n\"Complex systems are hard to build with conventional programming languages. Object-oriented programming is an approach in which software organization corresponds closely to the system being simulated. ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Computer History Museum",
+            "url": "https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/kwOjYHQcAsY79WMu5RyNrqaIJywsuiRozYkNDObNvD8/https/i.ytimg.com/vi/Ao9W93OxQ7U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "811275923739246708",
+      "type": "Default",
+      "timestamp": "2021-02-16T16:40:52.997+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://bitsavers.informatik.uni-stuttgart.de/pdf/xerox/parc/techReports/Smalltalk-72_Instruction_Manual_Mar76.pdf",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "814846359869587498",
+      "type": "Default",
+      "timestamp": "2021-02-26T13:08:31.306+00:00",
+      "timestampEdited": "2021-02-26T13:09:15.614+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/playlist?list=PL6601A198DF14788D",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Squeak from the very start",
+          "url": "https://youtube.com/playlist?list=PL6601A198DF14788D",
+          "timestamp": null,
+          "description": "Starting with squeak programming with as few assumptions as possible",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/E_6i4GKLmbaNQGWTwVWwbazkhc5kt3pxrZoQPnIdjkA/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLBbnRs4hcJRvvYpmtiyl1lKQGHFcA%26days_since_epoch%3D18684/https/i.ytimg.com/vi/JwwjOO84Sn8/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "820306247739899905",
+      "type": "Default",
+      "timestamp": "2021-03-13T14:44:10.014+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://medium.com/smalltalk-talk/getting-the-message-667d77ff78d",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Getting The Message",
+          "url": "https://medium.com/smalltalk-talk/getting-the-message-667d77ff78d",
+          "timestamp": null,
+          "description": "In the pantheon of programming languages, one stands out from among the hundreds of languages extant as one of the most misunderstood and…",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/-bmszicOCxEQOU6fbfUU_EbeJAYQofBUGKoGWHL2-Bg/https/miro.medium.com/max/1200/1%2AhBDnzFdbq-aC2UG3PdEXPQ.jpeg",
+            "width": 1200,
+            "height": 702
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "823575327456493568",
+      "type": "Default",
+      "timestamp": "2021-03-22T15:14:19.355+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=9KuBmtEb8HI",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Early History of Smalltalk",
+          "url": "https://www.youtube.com/watch?v=9KuBmtEb8HI",
+          "timestamp": null,
+          "description": "We read one of the great articles by Alan Kay, inventor of Smalltalk.\n\n►► Audio, Video, and Transcript available: https://lispcast.com/the-early-history-of-smalltalk/",
+          "color": "#FF0000",
+          "author": {
+            "name": "Eric Normand",
+            "url": "https://www.youtube.com/channel/UC2riBMG3qf1Di20ouRc76BA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/szL0bR8YRoGOZvKxAjo403dd35qlDiwhbamzZJnA8VA/https/i.ytimg.com/vi/9KuBmtEb8HI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1017029793604186122",
+      "type": "Default",
+      "timestamp": "2022-09-07T11:13:18.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/uknEhXyZgsg",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Alto System Project: Dan Ingalls demonstrates Smalltalk",
+          "url": "https://www.youtube.com/watch?v=uknEhXyZgsg",
+          "timestamp": null,
+          "description": "This interpretive production of the Computer History Museum's Software History Center was created from archival footage of Dan Ingalls demonstrating the Smalltalk integrated environment and object-oriented programming language on the Museum’s restored Xerox Alto computer at the Museum’s Shustek Research Archives on February 13, 2018 and June 20,...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Computer History Museum",
+            "url": "https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/TeyRwo5QoTj5hC9UQYOcfhiNmovhqIMQSF82g3UMVuw/https/i.ytimg.com/vi/uknEhXyZgsg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 8
+}

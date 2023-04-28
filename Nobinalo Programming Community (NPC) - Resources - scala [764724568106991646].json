@@ -1,0 +1,185 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "764724568106991646",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "scala",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "778380435976617995",
+      "type": "Default",
+      "timestamp": "2020-11-17T22:05:57.546+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://scala-lang.org/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Scala Programming Language",
+          "url": "https://scala-lang.org/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/lNk5ifwlN9SzY2-nw93N40uuSwld0gXecG8DVbWioDA/https/www.scala-lang.org/resources/img/scala-spiral-3d-2-toned-down.png",
+            "width": 399,
+            "height": 648
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "791296962002550815",
+      "type": "Default",
+      "timestamp": "2020-12-23T13:31:37.328+00:00",
+      "timestampEdited": "2021-01-06T14:53:35.152+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "akka:\nhttps://akka.io/docs/\n https://youtube.com/playlist?list=PLajEH1jD0zp8MuGOVLWOCgijaZIXJoGha",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Documentation",
+          "url": "https://akka.io/docs/",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ICNStipWFlS5HrklvLxtOctyqYj5v9w53Ihr__5FdUg/https/akka.io/resources/images/social.png",
+            "width": 1024,
+            "height": 576
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "SD - Akka",
+          "url": "https://youtube.com/playlist?list=PLajEH1jD0zp8MuGOVLWOCgijaZIXJoGha",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/O82br-Upr1_3zY_l-D3IjNBJ74NopMkjQR7W0TycNiE/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLAs1FIpGdkjNKNe-7ujSQ9j6FBSOw%26days_since_epoch%3D18633/https/i.ytimg.com/vi/xddHqIcnvHw/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795314307155361822",
+      "type": "Default",
+      "timestamp": "2021-01-03T15:35:07.051+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.scala-exercises.org",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Scala Exercises",
+          "url": "https://www.scala-exercises.org/",
+          "timestamp": null,
+          "description": "Scala Exercises Is An Open Source Project For Learning Different Technologies Based In The Scala Programming Language.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ViI8wENpy6BHGdldtqQ3poJqiX0sDO_HxXziCcj2lN0/https/www.scala-exercises.org/assets/images/poster.png",
+            "width": 1628,
+            "height": 650
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846329828889985044",
+      "type": "Default",
+      "timestamp": "2021-05-24T10:12:35.255+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.coursera.org/learn/effective-scala?aid=true",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Effective Programming in Scala",
+          "url": "https://www.coursera.org/learn/effective-scala?aid=true",
+          "timestamp": null,
+          "description": "Offered by École Polytechnique Fédérale de Lausanne. Scala is an expressive, versatile, and safe programming language.  In this course, you ... Enroll for free.",
+          "color": "#4689C6",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/BkY_Qa76ulP9tIXcn1y3GtMBJo0wamxbcOzAbUXtLcM/https/s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE%21~effective-scala/XDP~COURSE%21~effective-scala.jpeg",
+            "width": 1772,
+            "height": 928
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

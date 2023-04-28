@@ -1,0 +1,549 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "758688977355407391",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "javascript_ts",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "760073858593325057",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:42:09.378+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://javascript.info/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Modern JavaScript Tutorial",
+          "url": "https://javascript.info/",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/uy4xxf1JZi3AH4aAIc2JTpOsyGvux8kM_wVbnMri3zk/https/javascript.info/img/site_preview_en_1200x630.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760073917326426152",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:42:23.381+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://exploringjs.com/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760074274899361822",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:43:48.633+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://flaviocopes.com/tags/js/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "js",
+          "url": "https://flaviocopes.com/tags/js/",
+          "timestamp": null,
+          "description": "JavaScript and Web Development Tutorials",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/hX-vbkwhGfjIXkNPXCWpdVkzWgc5sqad1pl8cu-zWDU/https/flaviocopes.com/img/avatar.png",
+            "width": 621,
+            "height": 695
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776842883982032916",
+      "type": "Default",
+      "timestamp": "2020-11-13T16:16:16.584+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "functional programming with ramdaJs https://www.youtube.com/watch?v=Cltoo-NJ2JM&list=PLrhzvIcii6GMeyUfpn-o5xVCH3_UykrzI",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Ramda JS Tutorial – Part 1 (__, curry, add)",
+          "url": "https://www.youtube.com/watch?v=Cltoo-NJ2JM",
+          "timestamp": null,
+          "description": "Let's understand all the functions of the JavaScript library Ramda JS and learn a lot about functional programming as we go along.\n\n\uD83D\uDC7E In this video:\nR.__\nR.curry\nR.add\n\n\uD83C\uDFC6 Introduction video:\nhttps://www.youtube.com/watch?v=AINnOyUVEyI\n\n\uD83D\uDC9A Support the channel on Patreon:\nhttps:/...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Christopher Okhravi",
+            "url": "https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/E09qiyyF9IVS14qDv21nGW8Eoio9NEFZdwCR948cvAo/https/i.ytimg.com/vi/Cltoo-NJ2JM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776843157232943104",
+      "type": "Default",
+      "timestamp": "2020-11-13T16:17:21.732+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "reactive programming with RxJs https://www.youtube.com/watch?v=2LCo926NFLI",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "RxJS Quick Start with Practical Examples",
+          "url": "https://www.youtube.com/watch?v=2LCo926NFLI",
+          "timestamp": null,
+          "description": "Learn everything you wanted to know about RxJS - Reactive Extensions for JavaScript in 15 minutes. In this lesson, I cover about 25 different examples related to RxJS. \n\nFull Code and Lesson: https://angularfirebase.com/lessons/rxjs-quickstart-with-20-examples/\n\nUseful Resourc...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Fireship",
+            "url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/8a8XIzcLKnw4UU1RmLDm4oSmHxjBdU5cqgsUT5d7kyU/https/i.ytimg.com/vi/2LCo926NFLI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776848477497065512",
+      "type": "Default",
+      "timestamp": "2020-11-13T16:38:30.182+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "typescript: https://www.youtube.com/watch?v=BwuLxPH8IDs",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TypeScript Course for Beginners 2020 - Learn TypeScript from Scratch!",
+          "url": "https://www.youtube.com/watch?v=BwuLxPH8IDs",
+          "timestamp": null,
+          "description": "Free TypeScript Introduction for Beginners: Get Started with TypeScript, learn the Basics, its Features, Workflows and how to use it!\n\nJoin the full TypeScript Course: https://acad.link/typescript \nJoin our Academind Community on Discord: https://discord.gg/gxvEWGU\n\nCheck out ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Academind",
+            "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/b_4IVIDx08ZEhYRW0K3E_oMUXzlK6r_MKXqIHK4Y1dI/https/i.ytimg.com/vi/BwuLxPH8IDs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE1A",
+            "code": "kissing_closed_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f61a.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "793454157071253525",
+      "type": "Default",
+      "timestamp": "2020-12-29T12:23:32.711+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=cxaall-4621-cxall \nsubmitted by @MAC",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Beginner's Series to: JavaScript | Channel 9",
+          "url": "https://channel9.msdn.com/Series/Beginners-Series-to-JavaScript?WT.mc_id=cxaall-4621-cxall",
+          "timestamp": null,
+          "description": "Beginner's guide to JavaScript on Node.js Learning a new framework or development environment is made even more difficult when you don't know the programming language. Fortunately, we're here to help!",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "575934996863516672",
+          "name": "MAC",
+          "discriminator": "4333",
+          "nickname": "MAC",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "795576681405480970",
+      "type": "Default",
+      "timestamp": "2021-01-04T08:57:41.947+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/ submitted by @MAC",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learning JavaScript Design Patterns",
+          "url": "https://addyosmani.com/resources/essentialjsdesignpatterns/book/",
+          "timestamp": null,
+          "description": "An open-source book on JavaScript Design Patterns",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "575934996863516672",
+          "name": "MAC",
+          "discriminator": "4333",
+          "nickname": "MAC",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "796393179133247498",
+      "type": "Default",
+      "timestamp": "2021-01-06T15:02:10.175+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/leonardomso/33-js-concepts",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "leonardomso/33-js-concepts",
+          "url": "https://github.com/leonardomso/33-js-concepts",
+          "timestamp": null,
+          "description": "\uD83D\uDCDC 33 concepts every JavaScript developer should know. - leonardomso/33-js-concepts",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/NasHq7_WrpwZnivQU-oQAKERs4KG8_lYzc2aDDFeGhI/%3Fs%3D400%26v%3D4/https/avatars1.githubusercontent.com/u/8030067",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801128132810637332",
+      "type": "Default",
+      "timestamp": "2021-01-19T16:37:11.103+00:00",
+      "timestampEdited": "2021-01-19T16:38:15.893+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/TlB_eWDSMt4",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Node.js Tutorial for Beginners: Learn Node in 1 Hour | Mosh",
+          "url": "https://www.youtube.com/watch?v=TlB_eWDSMt4",
+          "timestamp": null,
+          "description": "Node.js Tutorial for Beginners: Learn Node in 1 Hour\n\uD83D\uDD25 Get the complete Node course: http://bit.ly/2NfkpOC\n\uD83D\uDC41 Subscribe for more tutorials like this: https://goo.gl/6PYaGF\n\n⭐️ Want to learn more from me? Check out these links: \n\nCourses: https://codewithmosh.com\nTwitter: https://twitter.com/moshhamedani\nFacebook: https://www.facebook.com/programm...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Programming with Mosh",
+            "url": "https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/udbBTaeu7f4M6T4mListktTBtqD6cIyae3Ioc5bVOqg/https/i.ytimg.com/vi/TlB_eWDSMt4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0A",
+            "code": "blush",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60a.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "813411937026441228",
+      "type": "Default",
+      "timestamp": "2021-02-22T14:08:38.25+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.facebook.com/groups/talkjs.net/permalink/1645324048994658/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "813411936976502844",
+          "url": "https://cdn.discordapp.com/attachments/758688977355407391/813411936976502844/Screenshot_2021-02-22-20-08-22.png",
+          "fileName": "Screenshot_2021-02-22-20-08-22.png",
+          "fileSizeBytes": 427596
+        }
+      ],
+      "embeds": [
+        {
+          "title": "Fatin Sirat",
+          "url": "https://www.facebook.com/groups/talkjs.net/permalink/1645324048994658/",
+          "timestamp": null,
+          "description": "People are asking about where should I start learning JS and what should I follow.  Abu Ashraf Masnun vai wrote a nice post to give a deeper insight on basic as well as some advanced concepts.\nThanks...",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916883806915559444",
+      "type": "Default",
+      "timestamp": "2021-12-05T02:48:54.446+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://dev.to/vangware/you-dont-need-if-37f1\n* it just shows alternative keywords/syntax/approaches of \"if\"",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "You don't need \"if\"",
+          "url": "https://dev.to/vangware/you-dont-need-if-37f1",
+          "timestamp": null,
+          "description": "It was the first day in my last year of tech high school. The new programming teacher arrived and...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Vn16jVnQNoc97_UZ63gR0aHbSFx-yM3Kjo8c7hcvbZw/https/res.cloudinary.com/practicaldev/image/fetch/s--DbyI5rTv--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_500%2Cq_auto%2Cw_1000/https%3A//dev-to-uploads.s3.amazonaws.com/uploads/articles/htob22ctk7q3s0seb2kf.png",
+            "width": 1000,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1063542388183801966",
+      "type": "Default",
+      "timestamp": "2023-01-13T19:37:45.005+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=dLPgQRbVquo",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "10 Tips for Mastering TypeScript Generics",
+          "url": "https://www.youtube.com/watch?v=dLPgQRbVquo",
+          "timestamp": null,
+          "description": "Generics are a huge reason why TypeScript is SO DARN POWERFUL. Letting you create types from other types, pass types to functions, and even INFER those types without you needing to specify them.\n\nThey're pretty advanced, though - so if you want to learn more advanced TypeScript, time to strap in.\n\nBecome a TypeScript Wizard with Matt's TypeScrip...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Matt Pocock",
+            "url": "https://www.youtube.com/channel/UCswG6FSbgZjbWtdf_hMLaow"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0KefW0IUnFnKOIVskMGFKZ5g13vipZRl8SgruLdUMlQ/https/i.ytimg.com/vi/dLPgQRbVquo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 13
+}

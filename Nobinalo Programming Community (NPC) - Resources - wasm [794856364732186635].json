@@ -1,0 +1,144 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "794856364732186635",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "wasm",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "794856388379279370",
+      "type": "Default",
+      "timestamp": "2021-01-02T09:15:30.707+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/TF-tXDRAEmg",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "WebAssembly nanoprocesses: making WebAssembly outside-the-browser s...",
+          "url": "https://www.youtube.com/watch?v=TF-tXDRAEmg",
+          "timestamp": null,
+          "description": "In early November, we announced the formation of the Bytecode Alliance, a new industry partnership working on WebAssembly outside the browser. We have a vision of a WebAssembly ecosystem that is secure by default, fixing cracks in today’s software foundations. And based on advances rapidly emerging in the WebAssembly community, we believe we can...",
+          "color": "#FF0000",
+          "author": {
+            "name": "WebAssembly SF",
+            "url": "https://www.youtube.com/channel/UCZOk9BwN4JcGvpn5Asfj07Q"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nDYoWF0pBLQ_jeZPdYFb4GQf4ADcjZMgWHooe5PhECY/https/i.ytimg.com/vi/TF-tXDRAEmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801787876579737610",
+      "type": "Default",
+      "timestamp": "2021-01-21T12:18:46.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://wasmer.io/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Wasmer - The Universal WebAssembly Runtime",
+          "url": "https://wasmer.io/",
+          "timestamp": null,
+          "description": "Wasmer - The Universal WebAssembly Runtime",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/OHjbDbwYyS7Bu5O-u4FBfXfczYLl9Fn3lLvUESH3QTU/https/wasmer.io/images/og-image.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "833839132941877358",
+      "type": "Default",
+      "timestamp": "2021-04-19T22:59:01.275+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://developer.mozilla.org/en-US/docs/WebAssembly\nhttps://rustwasm.github.io/docs/book/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "WebAssembly | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/WebAssembly",
+          "timestamp": null,
+          "description": "WebAssembly is a new type of code that can be run in modern web browsers — it is a low-level assembly-like language with a compact binary format that runs with near-native performance and provides languages such as C/C++, C# and Rust with a compilation target so that they can run on the web. It is also designed to run alongside JavaScript, allow...",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Introduction - Rust and WebAssembly",
+          "url": "https://rustwasm.github.io/docs/book/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}

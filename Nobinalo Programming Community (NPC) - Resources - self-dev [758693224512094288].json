@@ -1,0 +1,2567 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "758693224512094288",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "self-dev",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "759035926449618964",
+      "type": "Default",
+      "timestamp": "2020-09-25T12:57:47.071+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=zUdaT19aSxA",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "LOOK AFTER YOURSELF | Hazel Engine Dev Log",
+          "url": "https://www.youtube.com/watch?v=zUdaT19aSxA",
+          "timestamp": null,
+          "description": "The first 1000 people who click the link will get 2 free months of Skillshare Premium: https://skl.sh/thecherno09201\n\nThank you all for your support during this week! ❤️\nPatreon ► https://patreon.com/thecherno\nLive Stream ► https://twitch.tv/thecherno\nInstagram ► https://insta...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Cherno",
+            "url": "https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Gy3iDgmmd8f_oPfLpDu2X2f7KyszmRfZ6y4rTMT62jg/https/i.ytimg.com/vi/zUdaT19aSxA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759074470253559870",
+      "type": "Default",
+      "timestamp": "2020-09-25T15:30:56.63+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://elatedpenning.com/what-to-do-after-a-nofap-relapse-get-yourself-back-on-the-track/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759677707503271986",
+      "type": "Default",
+      "timestamp": "2020-09-27T07:27:59.598+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/vPtzpjC7TF4",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Is life meaningless? And other absurd questions -  Nina Medvinskaya",
+          "url": "https://www.youtube.com/watch?v=vPtzpjC7TF4",
+          "timestamp": null,
+          "description": "Dive into Albert Camus’ philosophy of the absurd, and explore the question: if the world is meaningless, could our lives still hold value? \n\n--\n\nAlbert Camus grew up surrounded by violence. His homeland of Algeria was mired in conflict. He lost his father in World War I. Seein...",
+          "color": "#FF0000",
+          "author": {
+            "name": "TED-Ed",
+            "url": "https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Mc-ADyFrA7LR-gcSYVlJFwH27DUe0mERuO-KgQNVEVg/https/i.ytimg.com/vi/vPtzpjC7TF4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "759770359582031912",
+      "type": "Default",
+      "timestamp": "2020-09-27T13:36:09.575+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/arj7oStGLkU",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Inside the mind of a master procrastinator | Tim Urban",
+          "url": "https://www.youtube.com/watch?v=arj7oStGLkU",
+          "timestamp": null,
+          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nTim Urban knows that procrastination doesn't make sense, but he's never been able to shake his habit of waiting until the last minute to get thi...",
+          "color": "#FF0000",
+          "author": {
+            "name": "TED",
+            "url": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7LOYqgMmEsjGHFWyisrThIgaaiKH4dOJBy0JqWQZm-g/https/i.ytimg.com/vi/arj7oStGLkU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760040608407486516",
+      "type": "Default",
+      "timestamp": "2020-09-28T07:30:01.916+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "well no.. it's not only about money.. watch his other videos too :) https://youtu.be/AbUU-D2Hil0",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Why I'm a Millionaire (as a millionaire)",
+          "url": "https://www.youtube.com/watch?v=AbUU-D2Hil0",
+          "timestamp": null,
+          "description": "Ex-Google TechLead on why he is a millionaire (as a millionaire) and the meaning of Life.  Check out Ting for a cheaper pay-per-use cellphone plan and get your $25 credit: http://techlead.ting.com\n\n*Pro-tip* Learn how I built a $1,000,000+ business on YouTube: http://youtubeba...",
+          "color": "#FF0000",
+          "author": {
+            "name": "TechLead",
+            "url": "https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/72RFjtGizN4GgLx5j-52ccXuHWSF1pIkftm50okGFLc/https/i.ytimg.com/vi/AbUU-D2Hil0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "768849634957066260",
+      "type": "Default",
+      "timestamp": "2020-10-22T14:53:57.509+00:00",
+      "timestampEdited": "2020-10-22T14:55:05.437+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "must read / listen for everyone...",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "768849631550373928",
+          "url": "https://cdn.discordapp.com/attachments/758693224512094288/768849631550373928/Screenshot_2020-10-13-16-43-21.png",
+          "fileName": "Screenshot_2020-10-13-16-43-21.png",
+          "fileSizeBytes": 1499909
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "772422822299041803",
+      "type": "Default",
+      "timestamp": "2020-11-01T11:32:31.758+00:00",
+      "timestampEdited": "2020-11-01T11:32:49.82+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#book \n\"pragmatic programmer\"\nmust read for every dev\nhttp://library.lol/main/1C801C55271D37131A8C5E1B4191D15D",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "772422819564879892",
+          "url": "https://cdn.discordapp.com/attachments/758693224512094288/772422819564879892/1c801c55271d37131a8c5e1b4191d15d-g.jpg",
+          "fileName": "1c801c55271d37131a8c5e1b4191d15d-g.jpg",
+          "fileSizeBytes": 68476
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 3
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "776062080205586452",
+      "type": "Default",
+      "timestamp": "2020-11-11T12:33:38.457+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance?utm_source=facebook.com&utm_medium=social&utm_campaign=social&utm_content=2020-11-12-cutdown",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Grit: The power of passion and perseverance",
+          "url": "https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance?utm_source=facebook.com&utm_medium=social&utm_campaign=social&utm_content=2020-11-12-cutdown",
+          "timestamp": null,
+          "description": "Leaving a high-flying job in consulting, Angela Lee Duckworth took a job teaching math to seventh graders in a New York public school. She quickly realized that IQ wasn't the only thing separating the successful students from those who struggled. Here, she explains her theory ...",
+          "color": "#E62B1E",
+          "author": {
+            "name": "Angela Lee Duckworth",
+            "url": "https://www.ted.com/speakers/angela_lee_duckworth"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IyG6qsTxVKV-Xm2KMpKCJoFUA_G9ECAKDytJQmqRAt4/%3Fw%3D1200/https/pi.tedcdn.com/r/talkstar-photos.s3.amazonaws.com/uploads/49490c34-ef8e-45b1-8037-a4958efc2609/AngelaDuckworth_2013S-embed.jpg",
+            "width": 1200,
+            "height": 675
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778238473244639242",
+      "type": "Default",
+      "timestamp": "2020-11-17T12:41:50.993+00:00",
+      "timestampEdited": "2020-11-17T12:43:37.526+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#book #audiobook \n\"sapiens - a brief history of humankind\"  https://torrents-csv.ml/#/search/torrent/Sapiens%20-%20Yuval%20Noah%20Harari%20-%20Audiobook%20-%20Unabridged%20mp3/1",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "778238469612634112",
+          "url": "https://cdn.discordapp.com/attachments/758693224512094288/778238469612634112/Screenshot_2020-11-17-18-41-27.png",
+          "fileName": "Screenshot_2020-11-17-18-41-27.png",
+          "fileSizeBytes": 1357971
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778239630209187851",
+      "type": "Default",
+      "timestamp": "2020-11-17T12:46:26.835+00:00",
+      "timestampEdited": "2020-11-17T12:50:20.965+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#book #audiobook\n\"the subtle art of not giving a fuck\" https://torrents-csv.ml/#/search/torrent/the%20subtle%20art%20of%20not%20giving%20a%20fuck/1",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "778239630080213002",
+          "url": "https://cdn.discordapp.com/attachments/758693224512094288/778239630080213002/o_1ebip5mn018eg1umr7iv18ci10u1r.jpg",
+          "fileName": "o_1ebip5mn018eg1umr7iv18ci10u1r.jpg",
+          "fileSizeBytes": 124762
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "778240404322779157",
+      "type": "Default",
+      "timestamp": "2020-11-17T12:49:31.398+00:00",
+      "timestampEdited": "2020-11-17T12:50:54.659+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "#book #audiobook\n\"12 rules for life - an antidote to chaos\" https://torrents-csv.ml/#/search/torrent/12%20rules%20for%20life/1",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "778240404452671508",
+          "url": "https://cdn.discordapp.com/attachments/758693224512094288/778240404452671508/jordon-peterson-book.gif",
+          "fileName": "jordon-peterson-book.gif",
+          "fileSizeBytes": 22694
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "786183848253194290",
+      "type": "Default",
+      "timestamp": "2020-12-09T10:53:56.013+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bbc.com/reel/video/p090s793/advice-from-a-104-year-old-phd-student",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Advice from a 104-year-old PhD student - BBC Reel",
+          "url": "https://www.bbc.com/reel/video/p090s793/advice-from-a-104-year-old-phd-student",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/nXSwhivZbbb9At5Q7Esa4pmeptZgo3DRUb9oPHahJlE/https/ychef.files.bbci.co.uk/1376x774/p090tmd9.jpg",
+            "width": 1376,
+            "height": 774
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "788684378406125568",
+      "type": "Default",
+      "timestamp": "2020-12-16T08:30:08.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=1vESQXx_cMY",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "theTechTalk #12: Software Engineering Architectures (Mohammad Nurul...",
+          "url": "https://www.youtube.com/watch?v=1vESQXx_cMY",
+          "timestamp": null,
+          "description": "Klassroom presents theTechTalk #12: Software Engineering Architectures\n\nLive discussion and QA session on different software engineering architectures.\n\nGuest:\nMohammad Nurul Islam Shihan\nSoftware Architect\nInnovation Search LLC\n\nHost:\nMuhammad Sumon Molla Selim\nSoftware Engineer\nSeven Senders GmbH\n\n#klassroom #theTechTalk #theTechTalk12",
+          "color": "#FF0000",
+          "author": {
+            "name": "Klassroom",
+            "url": "https://www.youtube.com/channel/UC9MtZdBfF437x9eoKYfRcMg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/1BN6RKwYWi2EGuv2wQbmDPgRAeHRq0EWvZvVDXRJqg0/https/i.ytimg.com/vi/1vESQXx_cMY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792317923456712704",
+      "type": "Default",
+      "timestamp": "2020-12-26T09:08:33.507+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://amp-bodyandsoul-com-au.cdn.ampproject.org/c/s/amp.bodyandsoul.com.au/mind-body/wellbeing/are-your-insecurities-screwing-up-your-life-7-mistakes-you-could-be-making/news-story/61ca2c031a946daff4bbf03490f84670",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Are your insecurities screwing up your life? 7 mistakes you could b...",
+          "url": "https://amp-bodyandsoul-com-au.cdn.ampproject.org/c/s/amp.bodyandsoul.com.au/mind-body/wellbeing/are-your-insecurities-screwing-up-your-life-7-mistakes-you-could-be-making/news-story/61ca2c031a946daff4bbf03490f84670",
+          "timestamp": null,
+          "description": "Self-doubt can strike at any time for a myriad of reasons. Do you know how to tackle it or are you making these seven mistakes? Life coach Jaemin Frazer believes knowing what those mistakes are is the best way to avoid making them.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Xm0wuQJL7UD2Ef9h9sKOSb1DjBsAAQyqZ5YIe9TOPsM/https/cdn.newsapi.com.au/image/v1/f3ff1386ffdf7947245442c1b7be8783",
+            "width": 650,
+            "height": 366
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "796784086310977536",
+      "type": "Default",
+      "timestamp": "2021-01-07T16:55:29.709+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/ZmG71_G6v48 submitted by @SHANTO",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EAT THAT FROG  FULL AUDIOBOOK - NARRATED BY BRIAN TRACY",
+          "url": "https://www.youtube.com/watch?v=ZmG71_G6v48",
+          "timestamp": null,
+          "description": "EAT THAT FROG full audiobook - EAT THAT FROG audiobook - EAT THAT FROG by BRIAN TRACY audiobook - Eat That Frog!: 21 Great Ways to Stop Procrastinating and Get More Done in Less Time - audiobook\n\n-------------------------------------------------------------------------------------------------------------------------------------------------------...",
+          "color": "#FF0000",
+          "author": {
+            "name": "AudioBook Channel",
+            "url": "https://www.youtube.com/channel/UC1zEeNJu0l06NU_vbTgSCXQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6edfhOsekqtVjPHv2a2tEGZETYz9-23BZwFyXjA1_pE/https/i.ytimg.com/vi/ZmG71_G6v48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "723940136420638860",
+          "name": "SHANTO",
+          "discriminator": "6483",
+          "nickname": "SHANTO",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "799537858724495400",
+      "type": "Default",
+      "timestamp": "2021-01-15T07:18:00.215+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/ZOgvWIulxho",
+      "author": {
+        "id": "759712505576161301",
+        "name": "ek second",
+        "discriminator": "5380",
+        "nickname": "ek second",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How I Became An Adult",
+          "url": "https://www.youtube.com/watch?v=ZOgvWIulxho",
+          "timestamp": null,
+          "description": "Check out our Patreon page & help us continue to make original films! https://www.patreon.com/wongfuproductions\n\nBehind the Scenes! https://youtu.be/NUFw7ZGgT70\nWhat does it really mean to be an \"adult\"? And how do you get there? \"Adulting\" is a phase everyone goes through at some point life. You'll make it through. \nHuge thanks to simplehuman f...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Wong Fu Productions",
+            "url": "https://www.youtube.com/channel/UCutXfzLC5wrV3SInT_tdY0w"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/4x-TrI33Vo_IFd8QYTWjWvwvcC5TwXz3fgYIkWOXFnY/https/i.ytimg.com/vi/ZOgvWIulxho/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799538702644150303",
+      "type": "Default",
+      "timestamp": "2021-01-15T07:21:21.421+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/KJ2Lvi9kG2Q How to be a better reader - Mark Manson",
+      "author": {
+        "id": "759712505576161301",
+        "name": "ek second",
+        "discriminator": "5380",
+        "nickname": "ek second",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC40",
+            "code": "eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f440.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "802109007632400395",
+      "type": "Default",
+      "timestamp": "2021-01-22T09:34:49.884+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/Z2N5a7XZWg8\nHow to Learn: Pretty Much Anything",
+      "author": {
+        "id": "759712505576161301",
+        "name": "ek second",
+        "discriminator": "5380",
+        "nickname": "ek second",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/0.png"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to Learn: Pretty Much Anything",
+          "url": "https://www.youtube.com/watch?v=Z2N5a7XZWg8",
+          "timestamp": null,
+          "description": "0:21 Chapter 1 - Procrastination\n2:17 Chapter 2 - How to remember what you have learned\n4:27 Chapter 3 - Even with everyone's help, you need to do everything on your own.\n6:06 Chapter 4 - It gets tough, and that's how it gets easier\n7:38 Chapter 5 - You still have to do a lot of studying\n9:28 Chapter 6 - Everything is about the process\n\nEverythi...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Mattias Pilhede",
+            "url": "https://www.youtube.com/channel/UCIGRhqYssT6IGPYOnZBFYKw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YyIPiL9cvC2QyefCveWjItxH0sVvY0gJBB4UdavUQ04/https/i.ytimg.com/vi/Z2N5a7XZWg8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806801337818939422",
+      "type": "Default",
+      "timestamp": "2021-02-04T08:20:28.58+00:00",
+      "timestampEdited": "2021-02-04T08:20:59.154+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Anthropocene Reviewed https://player.fm/series/the-anthropocene-reviewed",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Anthropocene Reviewed",
+          "url": "https://player.fm/series/the-anthropocene-reviewed",
+          "timestamp": null,
+          "description": "The Anthropocene is the current geological age, in which human activity has profoundly shaped the planet and its biodiversity. On The Anthropocene Reviewed, #1 New York Times bestselling author John Green (The Fault in Our Stars, Turtles All the Way Down) reviews different facets of the human-centered planet on a five-star scale. WNYC Studios is...",
+          "color": "#C3272F",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/euaobpPU_PiwgIeI3Vg9LcLEKafSXG98gKgQ0bJzKUU/https/cdn.player.fm/images/19768331/series/H5OUMqwm9AMCQB5b/512.jpg",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "810905864797159434",
+      "type": "Default",
+      "timestamp": "2021-02-15T16:10:24.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/iDbdXTMnOmE",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to manage your time more effectively (according to machines) - ...",
+          "url": "https://www.youtube.com/watch?v=iDbdXTMnOmE",
+          "timestamp": null,
+          "description": "Download a free audiobook and support TED-Ed's nonprofit mission: http://adbl.co/2lFSkUw\n\nCheck out Brian Christian and Tom Griffiths' \"Algorithms to Live By\": http://bit.ly/2CadQrt\n\nView full lesson: https://ed.ted.com/lessons/how-to-manage-your-time-more-effectively-according-to-machines-brian-christian\n\nHuman beings and computers alike share ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "TED-Ed",
+            "url": "https://www.youtube.com/channel/UCsooa4yRKGN_zEE8iknghZA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/TduPoi_Jrd6ztycEkRiKrlykqNsghsclAXarIw4hmYg/https/i.ytimg.com/vi/iDbdXTMnOmE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD29",
+            "code": "star_struck",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f929.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "820995670575022121",
+      "type": "Default",
+      "timestamp": "2021-03-15T12:23:41.227+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=fxbCHn6gE3U",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The surprising habits of original thinkers | Adam Grant",
+          "url": "https://www.youtube.com/watch?v=fxbCHn6gE3U",
+          "timestamp": null,
+          "description": "Visit http://TED.com to get our entire library of TED Talks, transcripts, translations, personalized talk recommendations and more.\n\nHow do creative people come up with great ideas? Organizational psychologist Adam Grant studies \"originals\": thinkers who dream up new ideas and take action to put them into the world. In this talk, learn three une...",
+          "color": "#FF0000",
+          "author": {
+            "name": "TED",
+            "url": "https://www.youtube.com/channel/UCAuUUnT6oDeKwE6v1NGQxug"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/4LzhRYxsuyTWQ2Kov9hQdSFtEreDdhbmMeX1hHPQ67g/https/i.ytimg.com/vi/fxbCHn6gE3U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "841731613644554291",
+      "type": "Default",
+      "timestamp": "2021-05-11T17:40:55.31+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://www.catb.org/~esr/faqs/smart-questions.html#answers",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "843671494131187732",
+      "type": "Default",
+      "timestamp": "2021-05-17T02:09:18.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/sXXh16455LA",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Lonestar Elixir 2020 Speaker Talks: Dave Thomas - How I'm Becoming ...",
+          "url": "https://www.youtube.com/watch?v=sXXh16455LA",
+          "timestamp": null,
+          "description": "Lonestar Elixir 2020 Speaker Talks: Dave Thomas - How I'm Becoming a Programmer\n\nLonestar Elixir was held in Austin, Texas in February 2020 at the Alamo Drafthouse. With a tremendous lineup of 22 speakers and two live recordings of podcasts, the event was packed full of learning opportunities for the novice to the expert.  \n\nFor more information...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Groxio",
+            "url": "https://www.youtube.com/channel/UCE5KlC4hhy_QlXEYPgRKvVA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ZzQ6Nlz6wVX1I1e0Cd28gRPpW26bNaIxN2_ZkWipdZk/https/i.ytimg.com/vi/sXXh16455LA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "853678384927866880",
+      "type": "Default",
+      "timestamp": "2021-06-13T16:53:07.544+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/gF9XIsavloI",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Song, \"Today Is Yesterday's Tomorrow\"",
+          "url": "https://www.youtube.com/watch?v=gF9XIsavloI",
+          "timestamp": null,
+          "description": "Tune and lyrics ca 2015 by Ted Nelson.\n\nPermission granted for re-use with attribution.",
+          "color": "#FF0000",
+          "author": {
+            "name": "TheTedNelson",
+            "url": "https://www.youtube.com/channel/UCr_DXJ7ZUAJO_d8CnHYTDMQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tFu1DUiHdWSgzFllCka6NXzF0Vl9DkYjpXHnU4K3t3A/https/i.ytimg.com/vi/gF9XIsavloI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "854028893300326400",
+      "type": "Default",
+      "timestamp": "2021-06-14T16:05:55.252+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=75Ju0eM5T2c",
+      "author": {
+        "id": "607175933182345226",
+        "name": "A_0vi",
+        "discriminator": "7559",
+        "nickname": "A_0vi",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/607175933182345226/15a8331468d9248ebd1f8cdb0d1e7d4d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Donald Knuth - My advice to young people (93/97)",
+          "url": "https://www.youtube.com/watch?v=75Ju0eM5T2c",
+          "timestamp": null,
+          "description": "To listen to more of Donald Knuth’s stories, go to the playlist: https://www.youtube.com/playlist?list=PLVV0r6CmEsFzeNLngr1JqyQki3wdoGrCn\n\nDonald Knuth (b. 1938), American computing pioneer, is known for his greatly influential multi-volume work, 'The Art of Computer Programming', his novel 'Surreal Numbers', his invention of TeX and METAFONT el...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Web of Stories - Life Stories of Remarkable People",
+            "url": "https://www.youtube.com/channel/UCrN1lcGgsCB9axGjZjpOqiQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/kJncxRbIgNjM9f38fThT9PKJFJneTwB1yQcNMy-P3xY/https/i.ytimg.com/vi/75Ju0eM5T2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "858027860346142722",
+      "type": "Default",
+      "timestamp": "2021-06-25T16:56:23.293+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/EFkyxzJtiv4\nhttps://youtu.be/ZOvyn72x6kQ\nhttps://youtu.be/b9eqxqF1gkw",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Stoicism: Become Undefeatable",
+          "url": "https://www.youtube.com/watch?v=EFkyxzJtiv4",
+          "timestamp": null,
+          "description": "Stoicism: Become Undefeatable - https://aperture.gg/stoicism\nFollow me on Instagram: https://www.instagram.com/mcewen/\nTwitter: https://twitter.com/TheApertureYT\n\nStoicism helps us steer through past and present storms into calmer and more peaceful waters. And if our ship sinks and we all drown, we can take peace in the fact that we lived a good...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Aperture",
+            "url": "https://www.youtube.com/channel/UCO5QSoES5yn2Dw7YixDYT5Q"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/mbPa-Y6YAuaQYVLuGkt-FiQCPa0tGFt-xvVnKmvUJkc/https/i.ytimg.com/vi/EFkyxzJtiv4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Nihilism: The Belief in Nothing",
+          "url": "https://www.youtube.com/watch?v=ZOvyn72x6kQ",
+          "timestamp": null,
+          "description": "Nihilism: The Belief In Nothing - https://aperture.gg/nihilism\nBecome smarter in 5 minutes by signing up for free today: http://cen.yt/mbaperture2\nFollow me on Instagram: https://www.instagram.com/mcewen/\n\nFor some, the meaning of life is the love we share with friends, family, and our loved ones. Some others believe the existence of life in its...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Aperture",
+            "url": "https://www.youtube.com/channel/UCO5QSoES5yn2Dw7YixDYT5Q"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/xyaBnGo6npfHdMWdGy_MduF_9HagFJ9b8Qd0FABwwRY/https/i.ytimg.com/vi/ZOvyn72x6kQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Consciousness: The Fundamental Reality",
+          "url": "https://www.youtube.com/watch?v=b9eqxqF1gkw",
+          "timestamp": null,
+          "description": "Consciousness: The Fundamental Reality\nSign up and start learning for FREE: https://brilliant.org/aperture\nFollow me!: https://www.instagram.com/mcewen/\n\nConsciousness. It's our awareness, our understanding, our ignorance. It's a concept that has puzzled humanity for thousands of years, but it's something we all experience every single second. W...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Aperture",
+            "url": "https://www.youtube.com/channel/UCO5QSoES5yn2Dw7YixDYT5Q"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/xRQ9LKj7va2FOB-I6eFfAlRxb-9mi9V6dYuYx6TlD30/https/i.ytimg.com/vi/b9eqxqF1gkw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "859331604479213598",
+      "type": "Default",
+      "timestamp": "2021-06-29T07:17:00.117+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://hbr.org/amp/2020/09/how-to-manage-your-anxiety",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to Manage Your Anxiety",
+          "url": "https://hbr.org/amp/2020/09/how-to-manage-your-anxiety",
+          "timestamp": null,
+          "description": "We can all be more compassionate with ourselves.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/BS8vNie4j-Oy-qTDyUA8WjjgUxeoCRHJ7DNJZ1joHIU/https/hbr.org/resources/images/article_assets/2020/09/A_Sep20_18_1190354364.jpg",
+            "width": 1200,
+            "height": 675
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "863127492910514186",
+      "type": "Default",
+      "timestamp": "2021-07-09T18:40:30.443+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/rhgwIhB58PA",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Biggest Myth In Education",
+          "url": "https://www.youtube.com/watch?v=rhgwIhB58PA",
+          "timestamp": null,
+          "description": "You are not a visual learner — learning styles are a stubborn myth. Part of this video is sponsored by Google Search.\n\nSpecial thanks to Prof. Daniel Willingham for the interview and being part of this video.\nSpecial thanks to Dr Helen Georigou for reviewing the script and helping with the scientific literature.\nSpecial thanks to Jennifer Borgio...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Veritasium",
+            "url": "https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/jgj23M4vINqZ1vPlxBAKWPcy7F0d3zpdd3QMEn_bIpE/https/i.ytimg.com/vi/rhgwIhB58PA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "863133763876421643",
+      "type": "Default",
+      "timestamp": "2021-07-09T19:05:25.558+00:00",
+      "timestampEdited": "2021-07-09T19:06:46.238+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/VorKk_WC6FU",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Is it better to be a Jack-of-All-Trades or a Master-of-One?",
+          "url": "https://www.youtube.com/watch?v=VorKk_WC6FU",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Woke Salaryman",
+            "url": "https://www.youtube.com/channel/UCO6g_6YC8oAJYtM9yyotH-g"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/OP3laQQw2XJ9fuJ21p0EMa6I-YmpVoQWkP68tiEcS2k/https/i.ytimg.com/vi/VorKk_WC6FU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "803197458955763752",
+            "name": "ghostheart",
+            "code": "ghostheart",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/803197458955763752.gif"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "864522345133244446",
+      "type": "Default",
+      "timestamp": "2021-07-13T15:03:09.128+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.codewithjason.com/productive-programming-day/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to have a productive programming day - Code with Jason",
+          "url": "https://www.codewithjason.com/productive-programming-day/",
+          "timestamp": null,
+          "description": "Why productivity is desirable The way I look at productivity is this: if I have to be at work all day, I might as well get as much done in that chunk of time as I can. It’s not about running myself ragged. It’s not about “hustling”. It’s simply about not being wasteful with my …",
+          "author": {
+            "name": "Jason Swett",
+            "url": "https://www.codewithjason.com/author/sfcoding/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/-_C5GizpohhYXA4PGveDS1AVhameUjuHM6jWeNapNBI/https/www.codewithjason.com/wp-content/uploads/2018/06/jason-swett.jpg",
+            "width": 754,
+            "height": 809
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "865465686452994048",
+      "type": "Default",
+      "timestamp": "2021-07-16T05:31:39.225+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=uSDHIWHjxws",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "IKIGAI- Self-Help Book | Amazon Audible Free Audio Books | Best Aud...",
+          "url": "https://www.youtube.com/watch?v=uSDHIWHjxws",
+          "timestamp": null,
+          "description": "Ikigai: The Japanese secret to a long and happy life\nAuthor-  Héctor García,  Francesc Miralles\n[Support the Channel by Buying the Books here]\nGet your Ikigai Book/Audiobook- Amazon.in- https://amzn.to/3xX2IdW\nGet your Ikigai Book/Audiobook- Amazon.com- https://amzn.to/3dgiqt0\n\nIkigai (ee-key-guy) is a Japanese concept that combines the terms ik...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Sunday Suspect",
+            "url": "https://www.youtube.com/channel/UCvM3aDNNGgzeETqX1IN6cyA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/f8405SawoO8Je4OKoAMa1Rvb6krHzglubkJVf36zAxE/https/i.ytimg.com/vi/uSDHIWHjxws/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "869946480130134077",
+      "type": "Default",
+      "timestamp": "2021-07-28T14:16:43.687+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://m.youtube.com/watch?v=TLM94DnKkQo",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "These Are The Signs You're Dating A Narcissist",
+          "url": "https://www.youtube.com/watch?v=TLM94DnKkQo",
+          "timestamp": null,
+          "description": "Claim one week of free access to the MedCircle library to access hundreds of exclusive videos featuring Dr. Ramani: https://bit.ly/2TTusS2\n\nThese are the signs you're dating a narcissist, according to narcissism expert Dr. Ramani.\n\n\"It's like looking into a mirror, and nothing's looking back at you.\" \n\nLeading psychologist and author Dr. Ramani ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "MedCircle",
+            "url": "https://www.youtube.com/channel/UCyGOloOIJWt8NlE4tnejQeA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/r_JAFYVIqn3I2s7JLj4GTFsEkM-V6AcjmBgfl8bNlJg/https/i.ytimg.com/vi/TLM94DnKkQo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "874346939762761788",
+      "type": "Default",
+      "timestamp": "2021-08-09T17:42:35.02+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/W3CDMcWlPyM by @uthsob_cb",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "21 Tips for My 18-Year-Old Self",
+          "url": "https://www.youtube.com/watch?v=W3CDMcWlPyM",
+          "timestamp": null,
+          "description": "\uD83D\uDE80 Join my live online course, the Part-Time YouTuber Academy, running 7th June to 14th July 2021. If you want to learn how to kickstart & grow your channel without quitting your job, check out https://academy.aliabdaal.com \uD83D\uDE03\nThe first 1000 people to use the link in my description will get a free trial of Skillshare Premium Membership: https://sk...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ali Abdaal",
+            "url": "https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/NPNydF8mX06032_dnmRZDnimIrUkxjjPdX_xCfwaUKc/https/i.ytimg.com/vi/W3CDMcWlPyM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "844071555340304414",
+            "name": "vibepigeon",
+            "code": "vibepigeon",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/844071555340304414.gif"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "735485879946182758",
+          "name": "uthsob_cb",
+          "discriminator": "9713",
+          "nickname": "uthsob_cb",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "882863234862940250",
+      "type": "Default",
+      "timestamp": "2021-09-02T05:43:17.997+00:00",
+      "timestampEdited": "2021-09-02T05:43:32.221+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/bV_NdUZEmnE \nhttps://youtu.be/M6r7gs_6WbA by\n @uthsob_cb",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DOPAMINE DETOX | How To Take Back Control Over Your Life",
+          "url": "https://www.youtube.com/watch?v=bV_NdUZEmnE",
+          "timestamp": null,
+          "description": "How I Color Grade My Videos: https://shop.niklaschristl.com/products/signature-luts\nMy Presets, LUTs & Editing Assets: https://shop.niklaschristl.com/\nMonthly Newsletter: http://bit.ly/NiklasChristlNewsletter\nInstagram: https://instagram.com/niklas.christl\n\nWhat would our lives look like if we drowned out all the noise around us? In our modern w...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Niklas Christl",
+            "url": "https://www.youtube.com/channel/UCqYuzgSCEl0IqWKxC8T4Gmg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/kZaqwE68XDGCfW3sXgSyTAaIiutZXGhVrhcDozANUPU/https/i.ytimg.com/vi/bV_NdUZEmnE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Don't Let Your Dreams Be Dreams.",
+          "url": "https://www.youtube.com/watch?v=M6r7gs_6WbA",
+          "timestamp": null,
+          "description": "Get My Signature LUTs here: https://shop.niklaschristl.com/products/signature-luts\nFollow for Before/Afters and Giveaways: https://www.instagram.com/niklas.christl.visuals\n\nMonthly Newsletter: http://bit.ly/NiklasChristlNewsletter\nInstagram: https://instagram.com/niklas.christl\n\nThis video is for the dreamers out there, the ones who choose to pa...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Niklas Christl",
+            "url": "https://www.youtube.com/channel/UCqYuzgSCEl0IqWKxC8T4Gmg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/sOFxcrt3JqnItBKRDWRWp4O8f1cIbCGqFKj3IDDLOec/https/i.ytimg.com/vi/M6r7gs_6WbA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": [
+        {
+          "id": "735485879946182758",
+          "name": "uthsob_cb",
+          "discriminator": "9713",
+          "nickname": "uthsob_cb",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "901499450437009438",
+      "type": "Default",
+      "timestamp": "2021-10-23T15:56:58.034+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/E7W4OQfJWdw",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Nutrients For Brain Health & Performance | Huberman Lab Podcast #42",
+          "url": "https://www.youtube.com/watch?v=E7W4OQfJWdw",
+          "timestamp": null,
+          "description": "This episode I describe science-supported nutrients for brain and performance (cognition) and for nervous system health generally.\n\nI describe 10 tools for this purpose, including specific amounts and sources for Omega-3 fatty acids which make up the \"structural fat\" of neurons (nerve cells) and allow them to function across our lifespan. I also...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Andrew Huberman",
+            "url": "https://www.youtube.com/channel/UC2D2CMWXMOVWx7giW1n3LIg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/jWNb582fUmWQWYYithq-caK06wugBuRRyt9i9HxmlF4/https/i.ytimg.com/vi/E7W4OQfJWdw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "904795824230371398",
+      "type": "Default",
+      "timestamp": "2021-11-01T18:15:34.79+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=_Qd3erAPI9w",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Survivor Bias",
+          "url": "https://www.youtube.com/watch?v=_Qd3erAPI9w",
+          "timestamp": null,
+          "description": "Consider that the sample you observe is incomplete, and biased in a particular way.",
+          "color": "#FF0000",
+          "author": {
+            "name": "2veritasium",
+            "url": "https://www.youtube.com/channel/UC2LZO6swZ9SLUEOks3WnsfA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/_fS_JrXVIZCt1ZVDovJqmpqg8w_3gh85hdKDCtrTSX0/https/i.ytimg.com/vi/_Qd3erAPI9w/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "905792930457985054",
+      "type": "Default",
+      "timestamp": "2021-11-04T12:17:43.44+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/mVbrgBjZm60",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Why Self-Discipline is so Hard",
+          "url": "https://www.youtube.com/watch?v=mVbrgBjZm60",
+          "timestamp": null,
+          "description": "Signup for your FREE trial to The Great Courses Plus here: http://ow.ly/ffLP30l0I5A\n\nSupport Freedom in Thought: http://patreon.com/freedominthought\n\nIn this video, we get to the bottom of why self-discipline (self-control) is so hard. \n\nInstagram: http://instagram.com/freedomintht\nTwitter: http://twitter.com/freedomintht\nFacebook: http://facebo...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Freedom in Thought",
+            "url": "https://www.youtube.com/channel/UCd6Za0CXVldhY8fK8eYoIuw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/IyNgvamkdBc6Xd9uwtdNH47xnRD40EF6ftxrkvuAmVU/https/i.ytimg.com/vi/mVbrgBjZm60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "905792960556302427",
+      "type": "Default",
+      "timestamp": "2021-11-04T12:17:50.616+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/PZ7lDrwYdZc",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to become 37.78 times better at anything | Atomic Habits summar...",
+          "url": "https://www.youtube.com/watch?v=PZ7lDrwYdZc",
+          "timestamp": null,
+          "description": "Atomic Habits can help you improve every day, no matter what your goals are. As one of the world's leading experts on habit formation, James Clear reveals practical strategies that will help you form good habits, break bad ones, and master tiny behaviors that lead to big changes.\n\nIf you're having trouble changing your habits, the problem isn't ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Escaping Ordinary (B.C Marx)",
+            "url": "https://www.youtube.com/channel/UCcf1t1tH-Pp5bmu4hbAytwA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/qI6gBG_ERljWagKpgyzdQOQUo_dv23896KawicJRjAs/https/i.ytimg.com/vi/PZ7lDrwYdZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "906165338603946024",
+      "type": "Default",
+      "timestamp": "2021-11-05T12:57:32.461+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/-f3dNkkFBvM",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Personal Productivity",
+          "url": "https://www.youtube.com/watch?v=-f3dNkkFBvM",
+          "timestamp": null,
+          "description": "Scott Hanselman gives advice on how to use your time both efficiently and effectively and maintain high level of productivity.\n\nPUBLICATION PERMISSIONS:\nOriginal video was published with the Creative Commons Attribution license (reuse allowed). Link: https://www.youtube.com/watch?v=RpH6IPhyh7I",
+          "color": "#FF0000",
+          "author": {
+            "name": "Coding Tech",
+            "url": "https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/h9LbaJVxxjKV46VgSt76KDwPhcRpSqSMZpx6F0uuhRE/https/i.ytimg.com/vi/-f3dNkkFBvM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "907871819963465738",
+      "type": "Default",
+      "timestamp": "2021-11-10T05:58:29.322+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=MvVBC8CG-xo",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to 10x Your Intelligence",
+          "url": "https://www.youtube.com/watch?v=MvVBC8CG-xo",
+          "timestamp": null,
+          "description": "Signup for your FREE trial to The Great Courses Plus here: http://ow.ly/zbAo30rypRv\n\nIn this video, I talk about how to 10x your intelligence by reading difficult books.\n\nGreat books reading list: https://thegreatestbooks.org/\n\nCheck out my other video essays on practical philosophy: https://www.youtube.com/playlist?list=PL5faAYlGYYoGwdnSOCC2uOe...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Freedom in Thought",
+            "url": "https://www.youtube.com/channel/UCd6Za0CXVldhY8fK8eYoIuw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/folvTId7cmHfhrd-zVjlbDIzrqWt_eD9vtI8NRGfFLs/https/i.ytimg.com/vi/MvVBC8CG-xo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "915099596483612703",
+      "type": "Default",
+      "timestamp": "2021-11-30T04:39:05.53+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/poLILKW-EW4",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The two secrets for happiness - #shorts",
+          "url": "https://www.youtube.com/shorts/poLILKW-EW4",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "stampylonghead",
+            "url": "https://www.youtube.com/channel/UCj5i58mCkAREDqFWlhaQbOw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/1597kjR_yf-th3aHPx7FVCfDX-eJmOGHmCnr54ORAWo/https/i.ytimg.com/vi/poLILKW-EW4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "920781986375815168",
+      "type": "Default",
+      "timestamp": "2021-12-15T20:58:52.854+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/9vJRopau0g0 by @uthsob_cb",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Super Mario Effect - Tricking Your Brain into Learning More | M...",
+          "url": "https://www.youtube.com/watch?v=9vJRopau0g0",
+          "timestamp": null,
+          "description": "When 50,000 of Mark Rober's 3 million YouTube subscribers participated in a basic coding challenge, the data all pointed to what Rober has dubbed the Super Mario Effect. The YouTube star and former NASA engineer describes how this data-backed mindset for life gamification has stuck with him along his journey, and how it impacts the ways he helps...",
+          "color": "#FF0000",
+          "author": {
+            "name": "TEDx Talks",
+            "url": "https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/Y2yX64Ayi2hwOwrw_67OKVQHR3kr0YpWiF_24BujKuw/https/i.ytimg.com/vi/9vJRopau0g0/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "735485879946182758",
+          "name": "uthsob_cb",
+          "discriminator": "9713",
+          "nickname": "uthsob_cb",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "923579493057200148",
+      "type": "Default",
+      "timestamp": "2021-12-23T14:15:10.422+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/KxGRhd_iWuE",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Matsuoka Shuzo [松岡修造 ] - あきらめかけているあなた (NEVER GIVE UP!!) [English]",
+          "url": "https://www.youtube.com/watch?v=KxGRhd_iWuE",
+          "timestamp": null,
+          "description": "1/1/18 EDIT: Shuzo Matsuoka is a retired Japanese professional tennis player who does motivational speeches like this as a career and is a well known meme in the Japanese internets. HE IS NOT A JAPANESE FISHERMAN WHO ALWAYS FARMS ASIATIC CLAMS IN -10 DEGREE CELSIUS WEATHER AS SOCIAL MEDIA IS SUGGESTING. Sorry to burst some motivational bubbles b...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ryuujin131",
+            "url": "https://www.youtube.com/channel/UCBRxjpsVJu9p5fbVrLfHstw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/skthLpSeeDb8r9X7JStdg_Ojb2FQTqb8iYjO4xcj6BY/https/i.ytimg.com/vi/KxGRhd_iWuE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "925741572639842325",
+      "type": "Default",
+      "timestamp": "2021-12-29T13:26:30.364+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://m.youtube.com/watch?v=sweychxDFlQ",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Neuroscience of NoFap | Why Pornography Changes the Brain",
+          "url": "https://www.youtube.com/watch?v=sweychxDFlQ",
+          "timestamp": null,
+          "description": "In his book, Your Brain on Porn, Gary Wilson explains the neuroscience of pornography addiction both anecdotally and by citing several studies on the scary effects of pornography addiction. While the movement around NoFap and the videos I've made on it thus far certainly has an esoteric nature to it, especially with regards to the discipline of ...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Captain Sinbad",
+            "url": "https://www.youtube.com/channel/UC8XKyvQ5Ne_bvYbgv8LaIeg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TmNBrtI20jX2ZbDazan5a69m8l0dDKI4rL7mRSfb1OI/https/i.ytimg.com/vi/sweychxDFlQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "926036447507660871",
+      "type": "Default",
+      "timestamp": "2021-12-30T08:58:14.011+00:00",
+      "timestampEdited": "2021-12-31T14:34:40.593+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/nnIimOTcsAs by @uthsob_cb",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Parkinson’s Law: How to Manage Your Time More Effectively",
+          "url": "https://www.youtube.com/watch?v=nnIimOTcsAs",
+          "timestamp": null,
+          "description": "\uD83D\uDD13 Get all my illustrations HERE: https://gumroad.com/l/Full-Archive \n \nOnce you understand Parkinson’s Law, it’s easy to apply its principles to your own projects, essays, presentations, goals, and more. Play with reassigning deadlines, breaking up your projects and goals into smaller parts, and challenging yourself to get things done faster tha...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Art of Improvement",
+            "url": "https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/c5cPyM160bymBGIA1QKjhXw112dnBAmohe5riqaqB3k/https/i.ytimg.com/vi/nnIimOTcsAs/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "735485879946182758",
+          "name": "uthsob_cb",
+          "discriminator": "9713",
+          "nickname": "uthsob_cb",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "926485480848117811",
+      "type": "Default",
+      "timestamp": "2021-12-31T14:42:31.902+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=aehoGGCHkyw",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "You're Not Lazy, Bored, or Unmotivated",
+          "url": "https://www.youtube.com/watch?v=aehoGGCHkyw",
+          "timestamp": null,
+          "description": "The cure for what really ails you can be found in an advertising slogan you’ve heard before...\n\nBECOME A MEMBER\nAccess special community perks including the complete illustration archive and exclusive early access to new videos a week early. Support the channel by clicking that Join button! Or, click here: https://www.youtube.com/channel/UCtYzVC...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Art of Improvement",
+            "url": "https://www.youtube.com/channel/UCtYzVCmNxrshH4_bPO_-Y-A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/J6IqSpL2XQO4dHV0AE7PEI17aKGp8Ht6_BpM3SYgQY4/https/i.ytimg.com/vi/aehoGGCHkyw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "927243480886030406",
+      "type": "Default",
+      "timestamp": "2022-01-02T16:54:33.194+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/LnJwH_PZXnM",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How not to take things personally? | Frederik Imbo | TEDxMechelen",
+          "url": "https://www.youtube.com/watch?v=LnJwH_PZXnM",
+          "timestamp": null,
+          "description": "Frederik Imbo studied theatre at the Royal Conservatory of Ghent and has acted in lots of television series. He founded Imboorling and now has over 15 years' experience in stimulating and supporting people. With the aim of improving their communication skills Frederik gives presentations, workshops, training courses and personal coaching session...",
+          "color": "#FF0000",
+          "author": {
+            "name": "TEDx Talks",
+            "url": "https://www.youtube.com/channel/UCsT0YIqwnpJCM-mx7-gSA4Q"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/7oMpLBhM6BNybBwzN-M0sqph1QFtugRE11Zb85YQ-HE/https/i.ytimg.com/vi/LnJwH_PZXnM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "946727748544651304",
+      "type": "Default",
+      "timestamp": "2022-02-25T11:18:04.604+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bbc.com/reel/video/p0bqvs1f/the-philosophy-that-can-change-how-you-look-at-life",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The philosophy that can change how you look at life - BBC Reel",
+          "url": "https://www.bbc.com/reel/video/p0bqvs1f/the-philosophy-that-can-change-how-you-look-at-life",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/N7_QKqvS2_XJWFQzp2r5Xo_rVTVpYXUjvC73sCfue48/https/ychef.files.bbci.co.uk/1376x774/p0bqzgtc.jpg",
+            "width": 1376,
+            "height": 774
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951516867938381925",
+      "type": "Default",
+      "timestamp": "2022-03-10T16:28:19.645+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.mindtools.com/pages/article/newTED_07.htm\nhttps://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252/ref=sr_1_2?keywords=edward+de+bono&qid=1646816633&sr=8-2",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Six Thinking Hats®: Looking at a Decision in Different Ways",
+          "url": "https://www.mindtools.com/pages/article/newTED_07.htm",
+          "timestamp": null,
+          "description": "Use Edward de Bono's Six Thinking Hats technique to improve your decision making, by looking at decisions from a range of different perspectives.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/sDBZvU6wItPsDdLorSeP8gR98Hv5gnusdapIR2935m8/https/www.mindtools.com/media/Responsive-Images/Articles/Decision_Making/GI_522777699_kirill4mula_2x1.jpg",
+            "width": 1400,
+            "height": 700
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Lateral Thinking: Creativity Step by Step",
+          "url": "https://www.amazon.com/Lateral-Thinking-Creativity-Step/dp/0060903252/ref=sr_1_2?keywords=edward+de+bono&qid=1646816633&sr=8-2",
+          "timestamp": null,
+          "description": "Lateral Thinking: Creativity Step by Step",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/DLv1lS2e4vrHuoJo5x7vL3L2ZFn0KBR7LwJmdT9RIa0/https/images-na.ssl-images-amazon.com/images/I/5174JtKAAmL._SR600%252c315_PIWhiteStrip%252cBottomLeft%252c0%252c35_PIStarRatingFOURANDHALF%252cBottomLeft%252c360%252c-6_SR600%252c315_ZA530%252c445%252c290%252c400%252c400%252cAmazonEmberBold%252c12%252c4%252c0%252c0%252c5_SCLZZZZZZZ_FMpng_BG255%252c255%252c255.jpg",
+            "width": 600,
+            "height": 315
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "951516897747296316",
+      "type": "Default",
+      "timestamp": "2022-03-10T16:28:26.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=6KhHNWFhwPc",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How Dopamine Detoxing Changed My Brain",
+          "url": "https://www.youtube.com/watch?v=6KhHNWFhwPc",
+          "timestamp": null,
+          "description": "Does Dopamine Detoxing work - or is it just another fad? I did a 7-day dopamine detox and scanned my brain before & after the experience to see how it affected my brain. And the results were... surprising. Even for me. \n\nCall it whatever you may - dopamine detoxing, dopamine fasting, dopamine resetting. It has become a really popular trend in th...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Leon Hendrix",
+            "url": "https://www.youtube.com/channel/UCTvRcHO5jJ_JKcekLacLMuQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/0SOF2uz6tTZPnEPDOtB79LNGLbsLs-QN9fXSQ4F6y74/https/i.ytimg.com/vi/6KhHNWFhwPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "954029602882322463",
+      "type": "Default",
+      "timestamp": "2022-03-17T14:53:02.34+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/g46YpEcdVqU",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A Psalm of Life - Henry Wadsworth Longfellow",
+          "url": "https://www.youtube.com/watch?v=g46YpEcdVqU",
+          "timestamp": null,
+          "description": "This is a film about life created by Krafty Productions.\n\nVoice:\nA Psalm of Life by Audio Productions\nhttps://youtu.be/Y7qdH592PW8\n\nMusic:\nSeeing The Future-128 by Dexter Britain\nhttps://youtu.be/mwALsF9WpAc\n\nFootage:\nAerial Shot Of Mountain And Ocean - Pixabay\nBeautiful Sunset - Ella Eleya\nCouple Walking At The Beach - Pixabay\nCouple Walking on...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Krafty Productions",
+            "url": "https://www.youtube.com/channel/UCBfgCVgtL4AufkGgpGxm5ww"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/h7odxoQEJcsqZmAeJJumOtOUIDeBMdlmd3tu4yIItbU/https/i.ytimg.com/vi/g46YpEcdVqU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "961609353650130994",
+      "type": "Default",
+      "timestamp": "2022-04-07T12:52:15.748+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=4U7mv1Hhxdw",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn Anything With This Powerful Technique",
+          "url": "https://www.youtube.com/watch?v=4U7mv1Hhxdw",
+          "timestamp": null,
+          "description": "In this video I talk about a very interesting method you can use to learn anything. In particular, you can apply this to mathematics. There is a very nice acronym for this method that can help you remember it, it is \"ACE\". I hope this video is helpful. Do you have any other tips for people who want to learn math? Please leave any comments below....",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Math Sorcerer",
+            "url": "https://www.youtube.com/channel/UCr7lmzIk63PZnBw3bezl-Mg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/nMcFklQZBKLAJlD65XLMSSFks9VHTj7sbj11kNB-UDg/https/i.ytimg.com/vi/4U7mv1Hhxdw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "963380842191810622",
+      "type": "Default",
+      "timestamp": "2022-04-12T10:11:31.529+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=BsvYEkTzmGQ",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Resisting Temptation...",
+          "url": "https://www.youtube.com/watch?v=BsvYEkTzmGQ",
+          "timestamp": null,
+          "description": "I can't stand it when people pretend to be victim of their on behavior, as if they aren't the ones in control. Don't \"resist\" temptation, just don't do it, or flee if you have to.\n\nA lot of people pretend to be battling \"temptations\" that they still privately enjoy falling for. Then they pretend to be devoid of agency and claim they \"couldn't he...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Luke Smith",
+            "url": "https://www.youtube.com/channel/UC2eYFnH61tmytImy1mTYvhA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Yx_KcFmhExoN6JuJRHZ9WVB0eWPLtSXvcEs9m9pyewA/https/i.ytimg.com/vi/BsvYEkTzmGQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "970023994411610145",
+      "type": "Default",
+      "timestamp": "2022-04-30T18:09:02.442+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/YuCRDlEFaw4 by @uthsob_cb",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Investing Advice for Teenagers (2022)",
+          "url": "https://www.youtube.com/watch?v=YuCRDlEFaw4",
+          "timestamp": null,
+          "description": "The first 1,000 people to use this link will get a 1 month free trial of Skillshare: https://skl.sh/aliabdaal04229\n\nHey friends, this video is about how to invest as a teenager: basically the advice I’d give my 15-year-old self. You might be fairly broke, but that doesn’t mean you can’t build good money habits + make decisions that’ll pay off fu...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ali Abdaal",
+            "url": "https://www.youtube.com/channel/UCoOae5nYA7VqaXzerajD0lg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/7YEEJT9is5eDuTnUc3AnFPieYxrymFyvMsc9hnnIeO8/https/i.ytimg.com/vi/YuCRDlEFaw4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "735485879946182758",
+          "name": "uthsob_cb",
+          "discriminator": "9713",
+          "nickname": "uthsob_cb",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "1038823794749480990",
+      "type": "Default",
+      "timestamp": "2022-11-06T14:34:53.081+00:00",
+      "timestampEdited": "2022-11-06T14:42:01.028+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=JcAegIUzKuo ignore the thumbnail... baaal... it points out a in-general pattern applicable for both men & women... addictions",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "NEUROSCIENTIST: This HABIT Destroys MAN Brain",
+          "url": "https://www.youtube.com/watch?v=JcAegIUzKuo",
+          "timestamp": null,
+          "description": "Neuroscientist Andrew Huberman explains how certain habits, like watching p**nography, can destroy men's minds and create imbalances in dopamine levels. \n\nAs we know, dopamine is one of the hormones/neurotransmitter closely related to DESIRE and MOTIVATION. Negatively impacting dopamine will lead to less motivation in the day to day and possible...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Powerful Pill",
+            "url": "https://www.youtube.com/channel/UCHZmxKlEkrRNvSm-MVpmPmg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/WA-faMXyS7pEHmY9cF60Y3FBeVr8tKlAorDfC0H18F8/https/i.ytimg.com/vi/JcAegIUzKuo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1038828089091821621",
+      "type": "Default",
+      "timestamp": "2022-11-06T14:51:56.932+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://paulgraham.com/lesson.html",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1038828089335087155",
+          "url": "https://cdn.discordapp.com/attachments/758693224512094288/1038828089335087155/Screenshot_2022-11-06_at_8.51.29_PM.png",
+          "fileName": "Screenshot_2022-11-06_at_8.51.29_PM.png",
+          "fileSizeBytes": 1196242
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1038832398441390190",
+      "type": "Reply",
+      "timestamp": "2022-11-06T15:09:04.361+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "This was roaming around my yt for a while, now ig i will peek a look",
+      "author": {
+        "id": "575967420137865216",
+        "name": "Kemono_koda",
+        "discriminator": "5917",
+        "nickname": "Kemono_koda",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "795231323550908456",
+            "name": "turacode",
+            "code": "turacode",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/795231323550908456.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "562876894593155073",
+          "name": "audacioustux",
+          "discriminator": "4756",
+          "nickname": "Audacious Tux \uD83D\uDC27",
+          "color": "#E91E63",
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+        }
+      ],
+      "reference": {
+        "messageId": "1038823794749480990",
+        "channelId": "758693224512094288",
+        "guildId": "728241686123249675"
+      }
+    }
+  ],
+  "messageCount": 57
+}

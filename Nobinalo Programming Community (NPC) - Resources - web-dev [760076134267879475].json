@@ -1,0 +1,783 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "760076134267879475",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "web-dev",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "760076206221033483",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:51:29.096+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://roadmap.sh/frontend",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn to become a modern frontend developer",
+          "url": "https://roadmap.sh/frontend",
+          "timestamp": null,
+          "description": "Community driven, articles, resources, guides, interview questions, quizzes for modern frontend development. Learn to become a modern frontend developer by following the steps, skills, resources and guides listed in this roadmap.",
+          "color": "#848A9A",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/H3uR0MxK4m3S3ATOKr1DtPEc1iouKSJUYuD1zbd3aIc/https/roadmap.sh/brand-square.png",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "760076220183740506",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:51:32.425+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://roadmap.sh/backend",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn to become a modern backend developer",
+          "url": "https://roadmap.sh/backend",
+          "timestamp": null,
+          "description": "Community driven, articles, resources, guides, interview questions, quizzes for modern backend development. Learn to become a modern backend developer by following the steps, skills, resources and guides listed in this roadmap.",
+          "color": "#848A9A",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/H3uR0MxK4m3S3ATOKr1DtPEc1iouKSJUYuD1zbd3aIc/https/roadmap.sh/brand-square.png",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760076289436155915",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:51:48.936+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://roadmap.sh/devops",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "DevOps Roadmap: Learn to become a DevOps Engineer or SRE",
+          "url": "https://roadmap.sh/devops",
+          "timestamp": null,
+          "description": "Community driven, articles, resources, guides, interview questions, quizzes for DevOps. Learn to become a modern DevOps engineer by following the steps, skills, resources and guides listed in this roadmap.",
+          "color": "#848A9A",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/H3uR0MxK4m3S3ATOKr1DtPEc1iouKSJUYuD1zbd3aIc/https/roadmap.sh/brand-square.png",
+            "width": 512,
+            "height": 512
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "760076653920911410",
+      "type": "Default",
+      "timestamp": "2020-09-28T09:53:15.836+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://lawsofux.com/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Home | Laws of UX",
+          "url": "http://lawsofux.com/",
+          "timestamp": null,
+          "description": "Laws of UX is a collection of the maxims and principles that designers can consider when building user interfaces. It was created by Jon Yablonski.",
+          "color": "#333333",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/nFM1J4yn_Wm1vDVRk7rdxSWLQLPj_SkvexPQw9frF0o/https/lawsofux.com/images/social_1024.jpg",
+            "width": 1024,
+            "height": 512
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "776453170507415603",
+      "type": "Default",
+      "timestamp": "2020-11-12T14:27:41.651+00:00",
+      "timestampEdited": "2020-11-12T14:27:51.192+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "refactoring ui\nhttp://library.lol/main/C0008A5B7285DD078C6AFC3F5881B06D",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "776453167936045056",
+          "url": "https://cdn.discordapp.com/attachments/760076134267879475/776453167936045056/c0008a5b7285dd078c6afc3f5881b06d-g.jpg",
+          "fileName": "c0008a5b7285dd078c6afc3f5881b06d-g.jpg",
+          "fileSizeBytes": 23471
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 2
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "787400940935315487",
+      "type": "Default",
+      "timestamp": "2020-12-12T19:30:13.521+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://tailwindcss.com/course/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Designing with Tailwind CSS: Setting up Tailwind and PostCSS",
+          "url": "https://tailwindcss.com/course/",
+          "timestamp": null,
+          "description": "",
+          "author": {
+            "name": "Adam Wathan",
+            "url": "https://www.youtube.com/c/AdamWathan"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/T2jP51iOKBFoLwLF06rTAMr4JqCQZHxZvlToHENAt1M/https/i.ytimg.com/vi/21HuwjmuS7A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "790236876904726528",
+      "type": "Default",
+      "timestamp": "2020-12-20T15:19:13.345+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/fpereiro/backendlore",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "fpereiro/backendlore",
+          "url": "https://github.com/fpereiro/backendlore",
+          "timestamp": null,
+          "description": "How I write backends. Contribute to fpereiro/backendlore development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/pqug2lipvl0nq1YOXuAdEYaSS6mIONuWQ_p9Wa9gReg/%3Fs%3D400%26v%3D4/https/avatars3.githubusercontent.com/u/1160018",
+            "width": 149,
+            "height": 149
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "800641455727050773",
+      "type": "Default",
+      "timestamp": "2021-01-18T08:23:18.244+00:00",
+      "timestampEdited": "2021-01-18T08:23:58.68+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.owasp.org",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "",
+          "url": "https://www.owasp.org/",
+          "timestamp": null,
+          "description": "OWASP Foundation, the Open Source Foundation for Application Security on the main website for The OWASP Foundation. OWASP is a nonprofit foundation that works to improve the security of software.",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/mSN5uItHJihvKkI_9irxnfIN4FdXML-xSqcxjkcq2Eo/https/owasp.org/www--site-theme/favicon.ico",
+            "width": 64,
+            "height": 64
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "815967312506126376",
+      "type": "Default",
+      "timestamp": "2021-03-01T15:22:47.241+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.algolia.com/blog/engineering/performant-web-animations/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "817467961013960775",
+      "type": "Default",
+      "timestamp": "2021-03-05T18:45:49.726+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cssbattle.dev/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CSSBattle",
+          "url": "https://cssbattle.dev/",
+          "timestamp": null,
+          "description": "CSS Code Golfing Game is here!",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/hwoNvX038Ja3QZyOBuYVaTlgHEJb6FzV1uL2cLe4kQk/https/cssbattle.dev/images/banner.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822851111832518666",
+      "type": "Default",
+      "timestamp": "2021-03-20T15:16:32.895+00:00",
+      "timestampEdited": "2021-03-20T15:16:37.739+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A Complete Guide to Grid | CSS-Tricks",
+          "url": "https://css-tricks.com/snippets/css/complete-guide-grid/",
+          "timestamp": null,
+          "description": "Our comprehensive guide to CSS grid, focusing on all the settings both for the grid parent container and the grid child elements.",
+          "author": {
+            "name": "Chris House",
+            "url": "https://css-tricks.com/author/caiman/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/6158H8bxoniiyzN-gUT_1u6bJFMZsGGqGXjru_vI5nI/%3Ffit%3D1200%252C600%26ssl%3D1/https/i1.wp.com/css-tricks.com/wp-content/uploads/2018/12/grid-guide.png",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822864400184508427",
+      "type": "Default",
+      "timestamp": "2021-03-20T16:09:21.085+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "A Complete Guide to Flexbox | CSS-Tricks",
+          "url": "https://css-tricks.com/snippets/css/a-guide-to-flexbox/",
+          "timestamp": null,
+          "description": "Our comprehensive guide to CSS flexbox layout. This complete guide explains everything about flexbox, focusing on all the different possible properties for the parent element (the flex container) and the child elements (the flex items). It also includes history, demos, patterns, and a browser support chart.",
+          "author": {
+            "name": "Chris Coyier",
+            "url": "https://css-tricks.com/author/chriscoyier/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/-vFXbWmVnwC0pNuX_fWclPmpFHROjZv26eJ_WsoWyOM/%3Ffit%3D1200%252C600%26ssl%3D1/https/i2.wp.com/css-tricks.com/wp-content/uploads/2018/12/guide-flexbox.png",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "825389878237331466",
+      "type": "Default",
+      "timestamp": "2021-03-27T15:24:41.974+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "HTML elements reference - HTML: HyperText Markup Language | MDN",
+          "url": "https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
+          "timestamp": null,
+          "description": "This page\u00A0lists all the HTML elements, which are created using tags.",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "855488888183980063",
+      "type": "Default",
+      "timestamp": "2021-06-18T16:47:25.158+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/bradtraversy/design-resources-for-developers by @uthsob_cb",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "bradtraversy/design-resources-for-developers",
+          "url": "https://github.com/bradtraversy/design-resources-for-developers",
+          "timestamp": null,
+          "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more - bradtraversy/design-resources-for-developers",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/hN2KtFqh1GbBSbVApLrcouTzKhcEaH63xWcbq8Vyeyg/https/opengraph.githubassets.com/fd61b2dc2f5c8c0274cdafbd4c85e9ab3daf1cd622cf39f153dfda6f891217ae/bradtraversy/design-resources-for-developers",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "799606043197702167",
+            "name": "lovv",
+            "code": "lovv",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.discordapp.com/emojis/799606043197702167.png"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": [
+        {
+          "id": "735485879946182758",
+          "name": "uthsob_cb",
+          "discriminator": "9713",
+          "nickname": "uthsob_cb",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "898137338142679061",
+      "type": "Default",
+      "timestamp": "2021-10-14T09:17:07.998+00:00",
+      "timestampEdited": "2021-10-14T09:17:28.395+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://cwe.mitre.org/data/definitions/1337.html #security",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CWE - \n\n\t\tCWE-1337: Weaknesses in the 2021 CWE Top 25 Most Dangerou...",
+          "url": "https://cwe.mitre.org/data/definitions/1337.html",
+          "timestamp": null,
+          "description": "Common Weakness Enumeration (CWE) is a list of software and hardware weaknesses.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "901909975192977468",
+      "type": "Default",
+      "timestamp": "2021-10-24T19:08:14.763+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://mystery.knightlab.com/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "SQL Murder Mystery",
+          "url": "http://mystery.knightlab.com/",
+          "timestamp": null,
+          "description": "Use SQL queries to solve the murder mystery. Suitable for beginners or experienced SQL sleuths.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/_VI3z8LRtvEiHpYSrASz3L1DXHbDoPJBxuAjHxBXtTg/http/mystery.knightlab.com/174092-clue-illustration.png",
+            "width": 1200,
+            "height": 800
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "962598874315390976",
+      "type": "Default",
+      "timestamp": "2022-04-10T06:24:15.859+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/bk3icU8iIto",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Phoenix a Web Framework for the New Web • José Valim • GOTO 2016",
+          "url": "https://www.youtube.com/watch?v=bk3icU8iIto",
+          "timestamp": null,
+          "description": "This presentation was recorded at GOTO Copenhagen 2016\nhttp://gotocph.com\n\nJosé Valim - Creator of the Elixir programming language and co-founder of Plataformatecis\n\nABSTRACT\nWeb developers have typically been presented with a choice between performance or a productive development environment. With Phoenix, developers can have both while enjoyin...",
+          "color": "#FF0000",
+          "author": {
+            "name": "GOTO Conferences",
+            "url": "https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/k9_6FMxVGBZeZgK51vn_3X5nzbkFYQULV6uC4Oo_KqE/https/i.ytimg.com/vi/bk3icU8iIto/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1010603907908636892",
+      "type": "Default",
+      "timestamp": "2022-08-20T17:39:07.758+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://dev.to/lydiahallie/cs-visualized-cors-5b8h",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "✋\uD83C\uDFFC\uD83D\uDD25 CS Visualized: CORS",
+          "url": "https://dev.to/lydiahallie/cs-visualized-cors-5b8h",
+          "timestamp": null,
+          "description": "It’s every developer’s frustration once in a while to see that big red Access to fetched has been blo...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/QkZjdoFoaZdGrkKVNsnsOOZkUXHAZI8Dr9DLsUB9d0k/https/res.cloudinary.com/practicaldev/image/fetch/s--AC6VzBrx--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_500%2Cq_auto%2Cw_1000/https%3A//dev-to-uploads.s3.amazonaws.com/i/pokn6wy4nwkx7s5bkd9w.png",
+            "width": 1000,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1021847187065405471",
+      "type": "Default",
+      "timestamp": "2022-09-20T18:15:54.399+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://web.dev/learn/css/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn CSS",
+          "url": "https://web.dev/learn/css/",
+          "timestamp": null,
+          "description": "An evergreen CSS course and reference to level up your web styling expertise.",
+          "color": "#000FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/5bPBb_uzIRWUUK5zErEyUYs5nXKXuubMUh31Cn1C9zA/%3Fauto%3Dformat%26fit%3Dmax%26w%3D1200%26fm%3Dauto/https/web-dev.imgix.net/image/foR0vJZKULb5AGJExlazy1xYDgI2/N5mplhgLlq9qzABgyYKQ.png",
+            "width": 1200,
+            "height": 675
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 19
+}

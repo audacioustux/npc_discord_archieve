@@ -1,0 +1,754 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "799738906950107156",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "architecture",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "799738924662521877",
+      "type": "Default",
+      "timestamp": "2021-01-15T20:36:58.07+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/RtRpL3Ndi0c",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GOTO 2020 • “Good Enough” Architecture Part 1 • Stefan Tilkov",
+          "url": "https://www.youtube.com/watch?v=RtRpL3Ndi0c",
+          "timestamp": null,
+          "description": "This presentation was recorded at GOTOpia November 2020. #GOTOcon #GOTOpia\nhttp://gotopia.eu\n\nStefan Tilkov - Co-founder & Principal Consultant at INNOQ\n\nABSTRACT\nIn this session, we’ll take a look at some of the ways we can determine whether the development efforts we’re undertaking suffer from too much or too little focus on architecture. We’l...",
+          "color": "#FF0000",
+          "author": {
+            "name": "GOTO Conferences",
+            "url": "https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Ppx_ZxJTn65_6Y7CfGKbw6zGsMl6OZgtPTLDMx2IVFU/https/i.ytimg.com/vi/RtRpL3Ndi0c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "799739027832963092",
+      "type": "Default",
+      "timestamp": "2021-01-15T20:37:22.668+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=ZU1r7uEAO7o&list=PLaDktj9CFcS9YAaJ4bKWMWpjptudLr782&index=1",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Streaming Concepts & Introduction to Flink Series - What is Stream ...",
+          "url": "https://www.youtube.com/watch?v=ZU1r7uEAO7o",
+          "timestamp": null,
+          "description": "Series: Streaming Concepts & Introduction to Flink\n\nPart 1: What is Stream Processing & Apache Flink\n\nThis series of videos introduces the Apache Flink stream processing framework and covers core concepts of the technology. This is the first video of the series discussing what is stateful stream processing, how it relates to batch processing and...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Ververica",
+            "url": "https://www.youtube.com/channel/UCxt7B_fmLplq0OMRVxLiE8w"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/pBoaYFptyk4icoraIBKOBtBpyBOhFt9OYT1V-oZhG1c/https/i.ytimg.com/vi/ZU1r7uEAO7o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "801190794295640064",
+      "type": "Default",
+      "timestamp": "2021-01-19T20:46:10.765+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/r3I143F9mJo",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Reactive Summit 2020 Keynote: Francesco Cesarini & Verónica López, ...",
+          "url": "https://www.youtube.com/watch?v=r3I143F9mJo",
+          "timestamp": null,
+          "description": "How we believe orchestration, scalability and reliability will be built into our programming models, abstracted away from the developers.",
+          "color": "#FF0000",
+          "author": {
+            "name": "Reactive Summit",
+            "url": "https://www.youtube.com/channel/UChUrUs_xAW2YiSV7iBWkzhw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/ZxVpsbCIlr2uFj8XHrgwrHSOEgLq5Mosg3uCrKFO-qI/https/i.ytimg.com/vi/r3I143F9mJo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "806094923623170058",
+      "type": "Default",
+      "timestamp": "2021-02-02T09:33:26.311+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=Y6Ev8GIlbxc",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Distributed Systems in One Lesson by Tim Berglund",
+          "url": "https://www.youtube.com/watch?v=Y6Ev8GIlbxc",
+          "timestamp": null,
+          "description": "Normally simple tasks like running a program or storing and retrieving data become much more complicated when we start to do them on collections of computers, rather than single machines. Distributed systems has become a key architectural concern, and affects everything a program would normally do—giving us enormous power, but at the cost of inc...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Devoxx Poland",
+            "url": "https://www.youtube.com/channel/UCAu3kLPVR1KScr5BReBJTvg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/mpIV1N3TNK1aJKWPGy3uzuf1qXfsZzJEi1IT2AlmwTI/https/i.ytimg.com/vi/Y6Ev8GIlbxc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "827906089054896128",
+      "type": "Default",
+      "timestamp": "2021-04-03T14:03:13.382+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://renaissancegirlsguide.wordpress.com/introduction-to-systems-theory/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction to Systems Theory",
+          "url": "https://renaissancegirlsguide.wordpress.com/introduction-to-systems-theory/",
+          "timestamp": null,
+          "description": "What is Systems Theory? “Systems theory was introduced by biologist Ludwig von Bertalanffy in the 1930s as a modeling devise that accommodates the interrelationships and overlap between separ…",
+          "author": {
+            "name": "profparke",
+            "url": "https://renaissancegirlsguide.wordpress.com/author/profparke/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/TR3eJrQluhULcTH1pCPisXWW9mQv_uS-VUgN8FZFn-A/https/renaissancegirlsguide.files.wordpress.com/2015/05/bertalanffy.jpg",
+            "width": 280,
+            "height": 222
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "840862547568623656",
+      "type": "Default",
+      "timestamp": "2021-05-09T08:07:33.811+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=KdnGPQaICjk&list=PLTI2Kz0V2OFlgbkROVmzkfQRW2FrX2KfR",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Computers for Cynics 0 - The Myth of Technology",
+          "url": "https://www.youtube.com/watch?v=KdnGPQaICjk",
+          "timestamp": null,
+          "description": "(Help me reach 100--\n consider donating to\n http://www.Patreon.com/thetednelson)\n\nTed Nelson casts doubt on Computer Basics.",
+          "color": "#FF0000",
+          "author": {
+            "name": "TheTedNelson",
+            "url": "https://www.youtube.com/channel/UCr_DXJ7ZUAJO_d8CnHYTDMQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/iZMVh3-YlCEH2e7L31oupCL6WMzslAI8tL3JXY9k0M8/https/i.ytimg.com/vi/KdnGPQaICjk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "840889479022510112",
+      "type": "Default",
+      "timestamp": "2021-05-09T09:54:34.77+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/p7nGcY73epw",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Art of Abstraction - Computerphile",
+          "url": "https://www.youtube.com/watch?v=p7nGcY73epw",
+          "timestamp": null,
+          "description": "Abstraction is at the heart of everything to do with computing. James Clewett takes us through the layers abstracting the pixels forming this text on screen from the electrons in the computer.\n\nhttp://www.facebook.com/computerphile\nhttps://twitter.com/computer_phile\n\nThis video was filmed and edited by Sean Riley.\n\nComputerphile is a sister proj...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Computerphile",
+            "url": "https://www.youtube.com/channel/UC9-y-6csu5WGm29I7JiwpnA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/SuoDQ50sKBDGDIf_3HnbWc3yx72h71TyY2Ehwrpjk-o/https/i.ytimg.com/vi/p7nGcY73epw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "840893586438225951",
+      "type": "Default",
+      "timestamp": "2021-05-09T10:10:54.054+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=B3O-qYM-Kkw",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Why Microservices Fail",
+          "url": "https://www.youtube.com/watch?v=B3O-qYM-Kkw",
+          "timestamp": null,
+          "description": "This presentation shows some of the reasons and scenarios why microservices fail. It is a recording from my talk at the Microservices Meetup London - thanks for having me!\n\n\n***\n\nINTERESTED IN THE STOCK MARKET?\nI developed a profitable stock market trend following model. Information can be found here: https://bit.ly/3esse3R\n\n***\n\nPUBLICATION PER...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Coding Tech",
+            "url": "https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/qf5wuFPy0LvjRdx1VCzD0RXIihVgQKLjQfm910R1qug/https/i.ytimg.com/vi/B3O-qYM-Kkw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "840996750289272843",
+      "type": "Default",
+      "timestamp": "2021-05-09T17:00:50.233+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=cNICGEwmXLU",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "\"Systems that run forever self-heal and scale\" by Joe Armstrong (2013)",
+          "url": "https://www.youtube.com/watch?v=cNICGEwmXLU",
+          "timestamp": null,
+          "description": "How can we build large self-healing scalable systems?\n\nIn this talk I will outline the architectural principles needed for building scalable fault-tolerant systems. I'll talk about building systems from small isolated parallel components which communicate though well-defined protocols.\n\nPrograms will have errors in them and will fail so I'll tal...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Strange Loop Conference",
+            "url": "https://www.youtube.com/channel/UC_QIfHvN9auy2CoOdSfMWDw"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/HMe-bhLK2IwOC5Z5TtsU4GsWAvvGKgajlrt5YTIYeAA/https/i.ytimg.com/vi/cNICGEwmXLU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "846788366719778867",
+      "type": "Default",
+      "timestamp": "2021-05-25T16:34:39.193+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=o2HJCGcYwoU",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "What is Event Driven Architecture (EDA)?",
+          "url": "https://www.youtube.com/watch?v=o2HJCGcYwoU",
+          "timestamp": null,
+          "description": "Learn more about EDA → http://ibm.biz/eda-guide\nLearn more about FaaS → http://ibm.biz/guide-to-faas\nWatch \"What is FaaS\" lighboard video → https://youtu.be/EOIja7yFScs\nLearn more about Serverless → http://ibm.biz/learn-about-serverless-guide\nWatch \"What is Serverless\" lighboard video → https://youtu.be/vxJobGtqKVM\n\n►  Check out IBM Cloud Pak fo...",
+          "color": "#FF0000",
+          "author": {
+            "name": "IBM Cloud",
+            "url": "https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/107SltrmBzLNEV6E8TYp0rvcTxM3-zoxOV8sF0rEOis/https/i.ytimg.com/vi/o2HJCGcYwoU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "863340059302297601",
+      "type": "Default",
+      "timestamp": "2021-07-10T08:45:10.22+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=blGJ_p4plbc",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "ElixirConf 2017 - Phoenix after 100000 lines  - Renan Ranelli",
+          "url": "https://www.youtube.com/watch?v=blGJ_p4plbc",
+          "timestamp": null,
+          "description": "",
+          "color": "#FF0000",
+          "author": {
+            "name": "ElixirConf",
+            "url": "https://www.youtube.com/channel/UC0l2QTnO1P2iph-86HHilMQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/2EIOFcYxLX72sBcX3QvsTM-z_Ap6COoUwOy4ZZcOIA0/https/i.ytimg.com/vi/blGJ_p4plbc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "863354781106962442",
+      "type": "Default",
+      "timestamp": "2021-07-10T09:43:40.172+00:00",
+      "timestampEdited": "2021-07-10T09:43:58.514+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "granular computing: https://dl.acm.org/doi/pdf/10.1145/3317550.3321447",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "878564259817218058",
+      "type": "Default",
+      "timestamp": "2021-08-21T09:00:42.475+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=Q76mO3eI4qE",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Modularity",
+          "url": "https://www.youtube.com/watch?v=Q76mO3eI4qE",
+          "timestamp": null,
+          "description": "What does it mean for code to be modular? When designing a system, what is good modularity?\n\nIn this video, we explore what it means for something to have modularity, and the ground principles to get there. We discuss information hiding, cohesion, and coupling.",
+          "color": "#FF0000",
+          "author": {
+            "name": "UVA CS 3240",
+            "url": "https://www.youtube.com/channel/UCIteggj2yJbb91XpSLyV_9A"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/f35LntBRzfm9OWtADNsvL-W7gmEbVSZB_7P4k4Hz_i4/https/i.ytimg.com/vi/Q76mO3eI4qE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "881141881646497792",
+      "type": "Default",
+      "timestamp": "2021-08-28T11:43:15.409+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.sebokwiki.org/wiki/Concepts_of_Systems_Thinking",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Concepts of Systems Thinking",
+          "url": "https://www.sebokwiki.org/wiki/Concepts_of_Systems_Thinking",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "883994918605975592",
+      "type": "Default",
+      "timestamp": "2021-09-05T08:40:12.427+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/STKCRSUsyP0",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Many Meanings of Event-Driven Architecture • Martin Fowler • GO...",
+          "url": "https://www.youtube.com/watch?v=STKCRSUsyP0",
+          "timestamp": null,
+          "description": "This presentation was recorded at GOTO Chicago 2017. #GOTOcon #GOTOchgo\nhttp://gotochgo.com\n\nMartin Fowler - Author, Speaker, Consultant and General Loud-mouth on Software Development\n\nABSTRACT\nDuring my career, I've often people heard people describe their systems as \"event-driven\". But when looking deeper that phrase seems to lead to some very...",
+          "color": "#FF0000",
+          "author": {
+            "name": "GOTO Conferences",
+            "url": "https://www.youtube.com/channel/UCs_tLP3AiwYKwdUHpltJPuA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/7lXH51_jU3xfmu4jJDlB946tCjELHR9WjWqACxIcBv4/https/i.ytimg.com/vi/STKCRSUsyP0/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "906937159200686091",
+      "type": "Default",
+      "timestamp": "2021-11-07T16:04:28.831+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://developer.ibm.com/series/reactive-in-practice/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Reactive in practice: A complete guide to event-driven systems deve...",
+          "url": "https://developer.ibm.com/series/reactive-in-practice/",
+          "timestamp": null,
+          "description": "Design, develop, and deploy reactive systems in Java using event storming and domain-driven design.",
+          "author": {
+            "name": "devadvin",
+            "url": "https://developer.ibm.com/blogs/author/devadvin/"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Y3AYNMYhGLdVrhQQdawMe1NVHQVdoMOYEdwJshBCSmo/https/s3.us.cloud-object-storage.appdomain.cloud/ibmdevwp/icons/social/series.jpg",
+            "width": 500,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "945231572716638278",
+      "type": "Reply",
+      "timestamp": "2022-02-21T08:12:48.489+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "CAP Twelve Years Later: How the \"Rules\" Have Changed",
+          "url": "https://www.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/",
+          "timestamp": null,
+          "description": "The CAP theorem asserts that any networked shared-data system can have only two of three desirable properties (Consistency, Availability and Partition Tolerance). In this IEEE article, author Eric Brewer discusses how designers can optimize consistency and availability by explicitly handling partitions, thereby achieving some trade-off of all th...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/ovD7MLCzopDBbEfVxP5mHf3WRl7YHAh0iB3k3Gt4L4A/https/res.infoq.com/articles/cap-twelve-years-later-how-the-rules-have-changed/en/smallimage/logo.jpg",
+            "width": 100,
+            "height": 100
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [],
+      "reference": {
+        "messageId": "806094923623170058",
+        "channelId": "799738906950107156",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "1047520102519677040",
+      "type": "Default",
+      "timestamp": "2022-11-30T14:30:54.423+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.infoq.com/articles/no-reliable-messaging/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Nobody Needs Reliable Messaging",
+          "url": "https://www.infoq.com/articles/no-reliable-messaging/",
+          "timestamp": null,
+          "description": "Marc de Graauw challenges the notion that transport-level reliability mechanisms like WS-ReliableMessaging are needed, showing how business-specific logic for in-order and exactly-once processing do the job much better with examples from Dutch Healthcare's SOA.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/lb6woANkmmxvIiR-TEboqDwtdB3zpPQ-z-FeJcvaKlw/https/res.infoq.com/articles/no-reliable-messaging/en/smallimage/Logo.png",
+            "width": 100,
+            "height": 77
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 18
+}

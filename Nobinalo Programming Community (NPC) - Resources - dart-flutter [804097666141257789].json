@@ -1,0 +1,175 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "804097666141257789",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "dart-flutter",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "804162885038768158",
+      "type": "Default",
+      "timestamp": "2021-01-28T01:36:12.417+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.freecodecamp.org/news/how-to-learn-flutter-in-2020/",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "How to Learn Flutter in 2020",
+          "url": "https://www.freecodecamp.org/news/how-to-learn-flutter-in-2020/",
+          "timestamp": null,
+          "description": "Flutter is a trending technology this year. This article will suggest some free and paid ways to learn how to develop iOS and Android applications with Flutter. Are you interested in mobile application development?If your answer is yes, you are reading the right article! Maybe you don't know about",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/h1dMQmVNCUkW3qAsCvvKi0WhMzkDfmcBahoxJAAMhhw/https/www.freecodecamp.org/news/content/images/2020/01/how-to-learn-flutter-in-2020.png",
+            "width": 1120,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804163096586616862",
+      "type": "Default",
+      "timestamp": "2021-01-28T01:37:02.854+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=1ukSR1GRtMU&list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flutter Tutorial for Beginners #1 - Intro & Setup",
+          "url": "https://www.youtube.com/watch?v=1ukSR1GRtMU",
+          "timestamp": null,
+          "description": "Hey gang, in this Flutter tutorial for beginners, I'll give you a quick introduction to the course and Flutter itself, a preview of what we'll be building & finally show you how to install Flutter on your computer.\n\nLearn JS - https://www.youtube.com/playlist?list=PL4cUxeGkcC9haFPT7J25Q9GRB_ZkFrQAc\n----------------------------------------\n\n\uD83D\uDC31‍\uD83D\uDCBB \uD83D\uDC31...",
+          "color": "#FF0000",
+          "author": {
+            "name": "The Net Ninja",
+            "url": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/vp1LJ8Y84d5XZyHVt1YrCc9EFeIHYpx_tdOmhGPdzGA/https/i.ytimg.com/vi/1ukSR1GRtMU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804163225322127370",
+      "type": "Default",
+      "timestamp": "2021-01-28T01:37:33.547+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/playlist?list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Flutter in Focus",
+          "url": "https://youtube.com/playlist?list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2",
+          "timestamp": null,
+          "description": "Let's learn Flutter features in 10 minutes or less with our new series, Flutter in Focus! We’ll not only show you the right code for a situation, but also ex...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/OCoOX37caZ0L9SiLcE0si7xB5w2yRGZF1LkRToh9zFs/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLAwSauAnUEFzgZQQVtzgOfaTcj_bg%26days_since_epoch%3D18655/https/i.ytimg.com/vi/wgTBLj7rMPM/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804163279281979412",
+      "type": "Default",
+      "timestamp": "2021-01-28T01:37:46.412+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl",
+      "author": {
+        "id": "575934996863516672",
+        "name": "MAC",
+        "discriminator": "4333",
+        "nickname": "MAC",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The Boring Flutter Development Show",
+          "url": "https://youtube.com/playlist?list=PLjxrf2q8roU3ahJVrSgAnPjzkpGmL9Czl",
+          "timestamp": null,
+          "description": "It's not the flashiest show on YouTube, but it's got plenty of code! The Boring Show is a biweekly, long-format show in which a few engineers from the Flutte...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tDlRsnvLErPLNbEk3XsHCMlI0gY4YLWXQP7sGdQwxLU/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLBRbUgJe3L-YWXlWI-9G3F4v-t5AA%26days_since_epoch%3D18655/https/i.ytimg.com/vi/yr8F2S3Amas/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 4
+}

@@ -1,0 +1,185 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "789112334551482378",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "lisp-clojure",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "789512672344277034",
+      "type": "Default",
+      "timestamp": "2020-12-18T15:21:29.523+00:00",
+      "timestampEdited": "2020-12-18T15:21:52.539+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.amazon.com/Clojure-Brave-True-Ultimate-Programmer/dp/1593275919 (available on http://libgen.rs/)",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "789512672403914762",
+          "url": "https://cdn.discordapp.com/attachments/789112334551482378/789512672403914762/618QiC2CLcL.png",
+          "fileName": "618QiC2CLcL.png",
+          "fileSizeBytes": 397554
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821760932447387658",
+      "type": "Default",
+      "timestamp": "2021-03-17T15:04:33.875+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://www.softwarepreservation.org/projects/LISP/book/LISP%201.5%20Programmers%20Manual.pdf",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "821995695644475432",
+      "type": "Default",
+      "timestamp": "2021-03-18T06:37:25.783+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "821995695074181130",
+          "url": "https://cdn.discordapp.com/attachments/789112334551482378/821995695074181130/Zack_Tellman_-_Elements_of_Clojure-LeanPub_2016.pdf",
+          "fileName": "Zack_Tellman_-_Elements_of_Clojure-LeanPub_2016.pdf",
+          "fileSizeBytes": 2309432
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "881226669426356336",
+      "type": "Default",
+      "timestamp": "2021-08-28T17:20:10.391+00:00",
+      "timestampEdited": "2021-08-28T17:20:15.388+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=OyfBQmvr2Hc",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "William Byrd on \"The Most Beautiful Program Ever Written\" [PWL NYC]",
+          "url": "https://www.youtube.com/watch?v=OyfBQmvr2Hc",
+          "timestamp": null,
+          "description": "Meetup: http://bit.ly/2okyAH3\nAudio: http://bit.ly/2qkAczZ\n\n\nSponsored and hosted by Two Sigma (@twosigma) and Chartbeat (@Chartbeat)\n\n\nDescription\n------------------\nWilliam E. Byrd \"explores what he considers to be the most beautiful program ever written---a Lisp interpreter written in Lisp---and a few of the many amazing ideas related to this...",
+          "color": "#FF0000",
+          "author": {
+            "name": "PapersWeLove",
+            "url": "https://www.youtube.com/channel/UCoj4eQh_dZR37lL78ymC6XA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/-39pReQq5p9wHHsgGQjPkJEM2d1VvVcTEGFmsPfDYWE/https/i.ytimg.com/vi/OyfBQmvr2Hc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "881226774795657307",
+      "type": "Default",
+      "timestamp": "2021-08-28T17:20:35.513+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/kanaka/mal",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "GitHub - kanaka/mal: mal - Make a Lisp",
+          "url": "https://github.com/kanaka/mal",
+          "timestamp": null,
+          "description": "mal - Make a Lisp. Contribute to kanaka/mal development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/9lfvxeVeYs0TsI0Mld0WvMMMo0JpgHDDDq_u8uAaAqw/https/opengraph.githubassets.com/8767a32cd90b4f8b4ae02d090b34cd17dcbb0b5f5d51930f6d788abc60fe5382/kanaka/mal",
+            "width": 1200,
+            "height": 600
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 5
+}

@@ -1,0 +1,315 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "881043735448780812",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "low-programming",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "881043854315360257",
+      "type": "Default",
+      "timestamp": "2021-08-28T05:13:43.872+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://llvm.org/docs/tutorial/MyFirstLanguageFrontend/index.html by @mdgaziur001",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384355764975960064",
+          "name": "mdgaziur001",
+          "discriminator": "8758",
+          "nickname": "mdgaziur001",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "884996806830882826",
+      "type": "Default",
+      "timestamp": "2021-09-08T03:01:21.194+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.nasm.us/doc/",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "884996833338863635",
+      "type": "Default",
+      "timestamp": "2021-09-08T03:01:27.514+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://stackoverflow.com/tags/x86/info",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "'x86' tag wiki",
+          "url": "https://stackoverflow.com/tags/x86/info",
+          "timestamp": null,
+          "description": "Stack Overflow | The World’s Largest Online Community for Developers",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/VbfwnzN2MM794XNccNxDzrB1YeuPrxR53y11bwRfflY/%3Fv%3D73d79a89bded/https/cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon%402.png",
+            "width": 316,
+            "height": 316
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "894972961403043901",
+      "type": "Default",
+      "timestamp": "2021-10-05T15:43:01.792+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://os.phil-opp.com/paging-introduction/ @mdgaziur001",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Introduction to Paging | Writing an OS in Rust",
+          "url": "https://os.phil-opp.com/paging-introduction/",
+          "timestamp": null,
+          "description": "This post introduces paging, a very common memory management scheme that we will also use for our operating system. It explains why memory isolation i…",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384355764975960064",
+          "name": "mdgaziur001",
+          "discriminator": "8758",
+          "nickname": "mdgaziur001",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "901469857118302299",
+      "type": "Default",
+      "timestamp": "2021-10-23T13:59:22.437+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "আচ্ছা যারা যারা অনেক ভালো প্রোগ্রামার তারা কি ফ্লোচার্ট আর এলগোরিদম ব্যবহার করে? আমার তো তেমন প্রয়োজন মনে হয় না এর কারণ হলো তা আমার কাছে একটু কঠিনও লাগে তারপরও আপনারা কেউ ইউজ করেন?",
+      "author": {
+        "id": "863128998002032659",
+        "name": "fahim",
+        "discriminator": "5827",
+        "nickname": "fahim",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "901484932189270056",
+      "type": "Reply",
+      "timestamp": "2021-10-23T14:59:16.614+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "move the message to #chit-chat channel",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "863128998002032659",
+          "name": "fahim",
+          "discriminator": "5827",
+          "nickname": "fahim",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/embed/avatars/2.png"
+        }
+      ],
+      "reference": {
+        "messageId": "901469857118302299",
+        "channelId": "881043735448780812",
+        "guildId": "728241686123249675"
+      }
+    },
+    {
+      "id": "904287686016249896",
+      "type": "Default",
+      "timestamp": "2021-10-31T08:36:25.199+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://os.phil-opp.com/allocator-designs/ by @mdgaziur001",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Allocator Designs | Writing an OS in Rust",
+          "url": "https://os.phil-opp.com/allocator-designs/",
+          "timestamp": null,
+          "description": "This post explains how to implement heap allocators from scratch. It presents and discusses different allocator designs, including bump allocation, li…",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "384355764975960064",
+          "name": "mdgaziur001",
+          "discriminator": "8758",
+          "nickname": "mdgaziur001",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "931566101345742888",
+      "type": "Default",
+      "timestamp": "2022-01-14T15:11:06.222+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Writing Your Own Toy Compiler Using Flex, Bison and LLVM",
+          "url": "https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/",
+          "timestamp": null,
+          "description": "Update (March 19 2010): this article was updated for LLVM 2.6 thanks to a great patch by John Harrison. He rocks! I’ve always been interested in compilers and languages, but interest only gets you so far. A lot of the concepts of compiler design can easily go way over most programmers’ heads, even the intelligent ones. Needless to say, I’ve trie...",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060532471176892436",
+      "type": "Default",
+      "timestamp": "2023-01-05T12:17:24.869+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Interesting stuff and low level details of TTYs\nhttp://www.linusakesson.net/programming/tty/index.php",
+      "author": {
+        "id": "384355764975960064",
+        "name": "mdgaziur001",
+        "discriminator": "8758",
+        "nickname": "mdgaziur001",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/384355764975960064/4903c8aac497e7c0a698d75f15da3d15.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 9
+}

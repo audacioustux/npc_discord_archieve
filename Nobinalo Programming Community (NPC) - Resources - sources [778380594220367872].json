@@ -1,0 +1,481 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "778380594220367872",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "sources",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "778381320182693929",
+      "type": "Default",
+      "timestamp": "2020-11-17T22:09:28.357+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.infoq.com/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "InfoQ: Software Development News, Videos & Books",
+          "url": "https://www.infoq.com/",
+          "timestamp": null,
+          "description": "Curated and peer-reviewed content covering innovation in professional software development, read by over 1 million developers worldwide",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/pbjeoXtkaHHpCuhJl_uAKD3QWTOdO9fRRyqxsCNFkoc/https/cdn.infoq.com/statics_s1_20201020-0324/styles/static/images/logo/logo-big.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "789511636930265128",
+      "type": "Default",
+      "timestamp": "2020-12-18T15:17:22.661+00:00",
+      "timestampEdited": "2020-12-18T15:18:37.728+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for text books (free + pirated): http://libgen.rs/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Library Genesis",
+          "url": "http://libgen.rs/",
+          "timestamp": null,
+          "description": "Library Genesis is a scientific community targeting collection of books on natural science disciplines and engineering.",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "789512139940560896",
+      "type": "Default",
+      "timestamp": "2020-12-18T15:19:22.588+00:00",
+      "timestampEdited": "2020-12-18T15:19:28.408+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for audio books (free + pirated): http://www.audiobookbayabb.com",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Audio Books Online Download, Free Unabridged Audiobook Torrent on A...",
+          "url": "http://www.audiobookbayabb.com/",
+          "timestamp": null,
+          "description": "Download unabridged audiobook for free or share your audio books, safe, fast and high quality! Safe to get and share audio book here and downloading speed is great on AudioBook Bay (ABB)!",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "792928031907774487",
+      "type": "Default",
+      "timestamp": "2020-12-28T01:32:54.697+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.martinfowler.com",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "martinfowler.com",
+          "url": "https://www.martinfowler.com/",
+          "timestamp": null,
+          "description": "A website on building software effectively",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/tLlqMwSfB6PAU8s3GzasnuHLzLIQJ9cCxi2DQpj5Gf0/https/martinfowler.com/logo-sq.png",
+            "width": 144,
+            "height": 144
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "795574154384244746",
+      "type": "Default",
+      "timestamp": "2021-01-04T08:47:39.458+00:00",
+      "timestampEdited": "2021-01-04T08:58:14.498+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://laracasts.com/browse/all submitted by @MAC",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Laracasts Category: All",
+          "url": "https://laracasts.com/browse/all",
+          "timestamp": null,
+          "description": "Browse a wide list of Laracasts topics ranging from frameworks to tools.",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "575934996863516672",
+          "name": "MAC",
+          "discriminator": "4333",
+          "nickname": "MAC",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "801211229346988076",
+      "type": "Default",
+      "timestamp": "2021-01-19T22:07:22.861+00:00",
+      "timestampEdited": "2021-01-19T22:10:52.993+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "knowledgebase as gitbook (digital garden) by founder of https://learn-anything.xyz/ https://wiki.nikitavoloboev.xyz/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Learn Anything",
+          "url": "https://learn-anything.xyz/",
+          "timestamp": null,
+          "description": "Search Interactive Mind Maps to learn anything",
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Introduction",
+          "url": "https://wiki.nikitavoloboev.xyz/",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/YRUCDPXMpxCpIyWQtifHrVMKdlkvq-O6XzB6s8wXthI/https/app.gitbook.com/share/space/thumbnail/-LP0U0ZiMJ4gYWIek-BI.png",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "804596568220500039",
+      "type": "Default",
+      "timestamp": "2021-01-29T06:19:30.545+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/EbookFoundation/free-programming-books submitted by @MAC",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "EbookFoundation/free-programming-books",
+          "url": "https://github.com/EbookFoundation/free-programming-books",
+          "timestamp": null,
+          "description": ":books: Freely available programming books. Contribute to EbookFoundation/free-programming-books development by creating an account on GitHub.",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/eUAT3SO7fhmqhf5TNlvU7FwNs9Dvg-I2fU1b7L56E4Y/%3Fs%3D400%26v%3D4/https/avatars.githubusercontent.com/u/14127308",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "575934996863516672",
+          "name": "MAC",
+          "discriminator": "4333",
+          "nickname": "MAC",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/575934996863516672/f5f692fa4f7e4270b27db32227de4f1d.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "846791196743696424",
+      "type": "Default",
+      "timestamp": "2021-05-25T16:45:53.923+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "IBM Cloud",
+          "url": "https://www.youtube.com/channel/UCKWaEZ-_VweaEx1j62do_vQ",
+          "timestamp": null,
+          "description": "The path to cloud is faster than you think. Join the cloud built for your business that has the tools, data and APIs to make AI real today. It’s your cloud. We protect it. You control it.\n\nFor more information on IBM Cloud, please visit http://www.ibm.com/cloud.  Follow us on Twitter at http://www.twitter.com/ibmcloud and on our blog at https://...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/WGlNrqrpaUdaoTjKoLDW_2TWUnaB3mC96W5guLI3QO4/https/yt3.ggpht.com/ytc/AAUvwnjJxjM2eZs5x8bfWRzgPdv_j9K7HiMCvKa6GD2iCQ%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "878678716178387034",
+      "type": "Default",
+      "timestamp": "2021-08-21T16:35:30.998+00:00",
+      "timestampEdited": "2021-08-24T13:56:06.652+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "for books (free) https://www.dbooks.org/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Free eBooks Library",
+          "url": "https://www.dbooks.org/",
+          "timestamp": null,
+          "description": "Free download open source books",
+          "color": "#000FFF",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/KC71b-DXcq69_bsXN1VCW_9C38hLdXn8G1Wq43s33BQ/https/www.dbooks.org/img/dbooks.png",
+            "width": 1600,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924673622520528937",
+      "type": "Default",
+      "timestamp": "2021-12-26T14:42:51.214+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/channel/UC2riBMG3qf1Di20ouRc76BA",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Eric Normand",
+          "url": "https://www.youtube.com/channel/UC2riBMG3qf1Di20ouRc76BA",
+          "timestamp": null,
+          "description": "My name is Eric Normand and welcome to my YouTube channel. I help people learn Clojure and Functional Programming. I have been programming functionally since 2000. Since then, I’ve watched the software industry slowly take notice of Functional Programming. Now it is entering the mainstream through technologies like React, Scala, Clojure, and Eli...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/QTptuiZHrH7pPpQM_iCf35bz9E3tCqmAK304YIEvJ6I/https/yt3.ggpht.com/ytc/AKedOLQJQOX_w9VzKwnhbjIhpx0us4DRPglD8pO8lDIN%3Ds900-c-k-c0x00ffffff-no-rj",
+            "width": 900,
+            "height": 900
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "924673823670960140",
+      "type": "Default",
+      "timestamp": "2021-12-26T14:43:39.172+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://z-lib.org/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Z-Library. The world's largest ebook library.",
+          "url": "https://z-lib.org/",
+          "timestamp": null,
+          "description": "Contains 9,481,000+ books and 84,837,000+ articles for free.",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/pNIlkTFYHCUGWSaMDylYAeRETq5eHsrhi6edsnBkogc/https/1.z-lib.org/img/promo1200.png",
+            "width": 1200,
+            "height": 1200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "941314712472260618",
+      "type": "Default",
+      "timestamp": "2022-02-10T12:48:36.235+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "http://wiki.c2.com/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

@@ -1,0 +1,483 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "760555933805314048",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "problem-solving-oj",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "760556701404495922",
+      "type": "Default",
+      "timestamp": "2020-09-29T17:40:48.075+00:00",
+      "timestampEdited": "2020-10-11T05:45:52.05+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?fbclid=IwAR0Z_3SXQC3A6ONS1ougC81FtpmBENb9h9glYLZ64xFeirQm3qeQ83T4394#gid=84654839\n\nhttps://www.codechef.com/certification/data-structures-and-algorithms/prepare#\n\nhttps://cp-algorithms.com/\n\nhttps://www.topcoder.com/community/competitive-programming/tutorials/\n\nhttps://discuss.codechef.com/t/programming-contest-detailed-syllabus-along-with-example-problems/17791 by @WolfEye19",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Community - Competitive Programming - Tutorials",
+          "url": "https://www.topcoder.com/community/competitive-programming/tutorials/",
+          "timestamp": null,
+          "description": "Community - Competitive Programming - Tutorials",
+          "color": "#FFFFFF",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/IyKX-0iKz6GRY6sr5a0AnAqdjJKB0NpLppZxqbK49K8/http/www.topcoder.com/community-app-assets/images/ea451049daea868f371518a730c27b8e.jpg",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Programming Contest Detailed Syllabus Along with Example Problems",
+          "url": "https://discuss.codechef.com/t/programming-contest-detailed-syllabus-along-with-example-problems/17791",
+          "timestamp": null,
+          "description": "Competitive Programming Syllabus Note that in general, the syllabus for Competitive Programming is open-ended. For ACM ICPC, the syllabus is not mentioned anywhere, whereas IOI syllabus is specified before the start of the contest each year. The below syllabus is kind of detai...",
+          "color": "#FFFFFF",
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Junior Training Sheet V7.0 - <<>>",
+          "url": "https://docs.google.com/spreadsheets/d/1iJZWP2nS_OB3kCTjq8L6TrJJ4o-5lhxDOyTaocSYc-k/edit?fbclid=IwAR0Z_3SXQC3A6ONS1ougC81FtpmBENb9h9glYLZ64xFeirQm3qeQ83T4394",
+          "timestamp": null,
+          "description": "Info\n\nProblem Solving Sheet,This google sheet is created by Dr Mostafa Saad Ibrahim. Overall ~950 problems for newcomers to problem solving.\nCurrenet Version V7.0,Latest Version\nThis is read-access only file. Read line 19 to create your OWN COPY.\nmostafa.saad.f...",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/wPF1fyyXaRErhFZzlmsmNkAbXlgSqZ0iRnfhm8yKKzM/https/lh4.googleusercontent.com/3FA28fQ6qX-Kl48cxWU7aS7O-uyF7bVn3YAEDFbr0hmoakcIsf-WgVYKYN9fT2yJ6tXw7XtJfA%3Dw1200-h630-p",
+            "width": 1200,
+            "height": 630
+          },
+          "images": [],
+          "fields": []
+        },
+        {
+          "title": "Learn Data Structures and Algorithms | CodeChef",
+          "url": "https://www.codechef.com/certification/data-structures-and-algorithms/prepare",
+          "timestamp": null,
+          "description": "Learn Data Structures and Algorithms | CodeChef",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/QNxl_sdyh5JJUeV7ppvEjYMkmuGyWxDnxV6y8YxgZ0M/https/www.codechef.com/sites/all/themes/abessive/logo.png",
+            "width": 576,
+            "height": 234
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "270922801425154049",
+          "name": "WolfEye19",
+          "discriminator": "4033",
+          "nickname": "Fahim Haider",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "776861996212944967",
+      "type": "Default",
+      "timestamp": "2020-11-13T17:32:13.295+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Algorithms: https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Algorithms",
+          "url": "https://www.youtube.com/playlist?list=PLDN4rrl48XKpZkf03iYFl-O29szjTrs_O",
+          "timestamp": null,
+          "description": "",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/NZ9-DviDLg39q77EtSYO8pf9ZQAohgzwkFVN0mhMnZs/%3Fsqp%3D-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ%3D%3D%26rs%3DAOn4CLBaKvqhu0r1zhpzSto871vg7lcuhg%26days_since_epoch%3D18579/https/i.ytimg.com/vi/0IAPZzGSbME/hqdefault.jpg",
+            "width": 168,
+            "height": 94
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD29",
+            "code": "star_struck",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f929.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "795573760710148118",
+      "type": "Default",
+      "timestamp": "2021-01-04T08:46:05.599+00:00",
+      "timestampEdited": "2021-01-04T08:46:34.405+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/ submitted by @SHANTO",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Practice for cracking any coding interview - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/practice-for-cracking-any-coding-interview/",
+          "timestamp": null,
+          "description": "A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and practice/competitive programming/company interview Questions.",
+          "color": "#308D46",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Ey7TWjsy3khTF-qkRJxSultwljj6djnGHCDWEc-5bwg/https/media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png",
+            "width": 200,
+            "height": 200
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "❤️",
+            "code": "heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/2764.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": [
+        {
+          "id": "723940136420638860",
+          "name": "SHANTO",
+          "discriminator": "6483",
+          "nickname": "SHANTO",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "804035466785062994",
+      "type": "Default",
+      "timestamp": "2021-01-27T17:09:53.538+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.youtube.com/watch?v=B31LgI4Y4DQ&feature=share",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Data Structures - Full Course Using C and C++",
+          "url": "https://www.youtube.com/watch?v=B31LgI4Y4DQ",
+          "timestamp": null,
+          "description": "Learn about data structures in this comprehensive course. We will be implementing these data structures in C or C++.  \n\nYou should have a good understanding of pointers in C. If you need to learn about pointers, watch this course: https://www.youtube.com/watch?v=zuegQmMdy8M\n\n✏️ Course developed by Harsha and Animesh from MyCodeSchool.\n\uD83D\uDD17 Read all...",
+          "color": "#FF0000",
+          "author": {
+            "name": "freeCodeCamp.org",
+            "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/QFiQdtHxSakxHCtW9Y4HoNfnWPfmxjxeifLVoQelj4U/https/i.ytimg.com/vi/B31LgI4Y4DQ/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "757512377611583628",
+            "name": "5937_heart",
+            "code": "5937_heart",
+            "isAnimated": true,
+            "imageUrl": "https://cdn.discordapp.com/emojis/757512377611583628.gif"
+          },
+          "count": 6
+        },
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC4D",
+            "code": "thumbsup",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f44d.svg"
+          },
+          "count": 2
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "808015467565940796",
+      "type": "Default",
+      "timestamp": "2021-02-07T16:44:59.669+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://exercism.io/ - submitted by @shoccho",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Exercism",
+          "url": "https://exercism.io/",
+          "timestamp": null,
+          "description": "Code Practice and Mentorship for Everyone. Level up your programming skills with 1,879 exercises across 38 languages, and insightful discussion with our dedicated team of welcoming mentors. Exercism is 100% free forever.",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/PAJz4pWkWQVtbUcYjw5frWKilm8OacZ94MuIvqs1Yb4/https/assets.exercism.io/social/general.png",
+            "width": 1000,
+            "height": 1000
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": [
+        {
+          "id": "380738180292411392",
+          "name": "shoccho",
+          "discriminator": "0041",
+          "nickname": "shoccho",
+          "color": null,
+          "isBot": false,
+          "avatarUrl": "https://cdn.discordapp.com/avatars/380738180292411392/adfe07bb1fe24f4e891aebdfc398e2ec.png?size=512"
+        }
+      ]
+    },
+    {
+      "id": "810241206373318676",
+      "type": "Default",
+      "timestamp": "2021-02-13T20:09:17.153+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://www.bigocheatsheet.com/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "810241206151413795",
+          "url": "https://cdn.discordapp.com/attachments/760555933805314048/810241206151413795/big-o-cheat-sheet-poster.png",
+          "fileName": "big-o-cheat-sheet-poster.png",
+          "fileSizeBytes": 329050
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "818091271658012693",
+      "type": "Default",
+      "timestamp": "2021-03-07T12:02:38.564+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://dev.to/rahhularora/the-ultimate-guide-for-data-structures-algorithm-interviews-npo",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "The ultimate guide for data structures & algorithm interviews",
+          "url": "https://dev.to/rahhularora/the-ultimate-guide-for-data-structures-algorithm-interviews-npo",
+          "timestamp": null,
+          "description": "By Rahul Arora, Founder Intervue  --           Why you should read this?   There are N number of dire...",
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/-2fisijo1AeqtSIJdfKhs1asri99gqbwQCTZpWbiphQ/https/res.cloudinary.com/practicaldev/image/fetch/s--DGBEOKpN--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_500%2Cq_auto%2Cw_1000/https%3A//dev-to-uploads.s3.amazonaws.com/uploads/articles/w4qxi1gsnhuey77654qj.png",
+            "width": 1000,
+            "height": 500
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "822811747928375296",
+      "type": "Default",
+      "timestamp": "2021-03-20T12:40:07.809+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/TheAlgorithms/C",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "TheAlgorithms/C",
+          "url": "https://github.com/TheAlgorithms/C",
+          "timestamp": null,
+          "description": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes. - TheAlgorithms/C",
+          "color": "#1E2327",
+          "thumbnail": {
+            "url": "https://images-ext-1.discordapp.net/external/te99zydoq9P1u2xToPOvr8pI-2WwKuGf8Q1ZWKkImbo/%3Fs%3D400%26v%3D4/https/avatars.githubusercontent.com/u/20487725",
+            "width": 400,
+            "height": 400
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "845249922860187668",
+      "type": "Default",
+      "timestamp": "2021-05-21T10:41:25.594+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://github.com/me-shaon/bangla-programming-resources",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "me-shaon/bangla-programming-resources",
+          "url": "https://github.com/me-shaon/bangla-programming-resources",
+          "timestamp": null,
+          "description": "Bangla tutorial, reference and resource list on programming topics - me-shaon/bangla-programming-resources",
+          "color": "#1E2327",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1056448443322728498",
+      "type": "Default",
+      "timestamp": "2022-12-25T05:48:56.751+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "GOAT problem list\nhttps://cses.fi/problemset/",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 10
+}

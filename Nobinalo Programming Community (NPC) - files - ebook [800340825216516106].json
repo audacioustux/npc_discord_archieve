@@ -1,0 +1,411 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "800340825216516106",
+    "type": "GuildTextChat",
+    "categoryId": "800340784079175703",
+    "category": "files",
+    "name": "ebook",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "800342355411861575",
+      "type": "Default",
+      "timestamp": "2021-01-17T12:34:47.172+00:00",
+      "timestampEdited": "2021-01-17T12:36:32.39+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Pragmatic Programmer",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "800342354962677790",
+          "url": "https://cdn.discordapp.com/attachments/800340825216516106/800342354962677790/David_Thomas_Andrew_Hunt_-_The_Pragmatic_Programmer__Your_Journey_to_Mastery-Addison-Wesley_Professi.pdf",
+          "fileName": "David_Thomas_Andrew_Hunt_-_The_Pragmatic_Programmer__Your_Journey_to_Mastery-Addison-Wesley_Professi.pdf",
+          "fileSizeBytes": 8446565
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD70",
+            "code": "smiling_face_with_3_hearts",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f970.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "800342374868844584",
+      "type": "Default",
+      "timestamp": "2021-01-17T12:34:51.811+00:00",
+      "timestampEdited": "2021-01-17T12:38:30.651+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Computer Systems : A Programmer’s Perspective",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "800342374038634546",
+          "url": "https://cdn.discordapp.com/attachments/800340825216516106/800342374038634546/Randal_E._Bryant__David_R._OHallaron_-_Computer_Systems__A_Programmers_Perspective-Pearson_2015.pdf",
+          "fileName": "Randal_E._Bryant__David_R._OHallaron_-_Computer_Systems__A_Programmers_Perspective-Pearson_2015.pdf",
+          "fileSizeBytes": 5484360
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDE0D",
+            "code": "heart_eyes",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f60d.svg"
+          },
+          "count": 4
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "800342554859405344",
+      "type": "Default",
+      "timestamp": "2021-01-17T12:35:34.724+00:00",
+      "timestampEdited": "2021-01-17T12:37:26.374+00:00",
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Sapiens : A Brief History Of Humankind",
+      "author": {
+        "id": "270922801425154049",
+        "name": "WolfEye19",
+        "discriminator": "4033",
+        "nickname": "Fahim Haider",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/270922801425154049/8822e8e7e012e88f997f24ceed7b795f.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "800342553416171520",
+          "url": "https://cdn.discordapp.com/attachments/800340825216516106/800342553416171520/Yuval_Noah_Harari_-_Sapiens__A_Brief_History_of_Humankind-Vintage_Books_2011_2014.pdf",
+          "fileName": "Yuval_Noah_Harari_-_Sapiens__A_Brief_History_of_Humankind-Vintage_Books_2011_2014.pdf",
+          "fileSizeBytes": 45514865
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD73",
+            "code": "partying_face",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f973.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "880761905629773915",
+      "type": "Default",
+      "timestamp": "2021-08-27T10:33:22.067+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Component Software Beyond Object-Oriented Programming",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "880761905503936572",
+          "url": "https://cdn.discordapp.com/attachments/800340825216516106/880761905503936572/Szyperski_C._Murer_S._-_Component_Software__Beyond_Object-Oriented_Programming-Addison-Wesley_Profes.pdf",
+          "fileName": "Szyperski_C._Murer_S._-_Component_Software__Beyond_Object-Oriented_Programming-Addison-Wesley_Profes.pdf",
+          "fileSizeBytes": 2693500
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83E\uDD70",
+            "code": "smiling_face_with_3_hearts",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f970.svg"
+          },
+          "count": 1
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "881879577100697610",
+      "type": "Default",
+      "timestamp": "2021-08-30T12:34:35.711+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Programming in Scala, Fifth Edition by Martin Odersky, Lex Spoon, Bill Venners  Frank Sommers (z-lib.org).pdf : https://ipfs.io/ipfs/Qmew2psRgf6o89uPE8izw22rd8kgDBxZcamng52isNdVD6?filename=Programming%20in%20Scala%2C%20Fifth%20Edition%20by%20Martin%20Odersky%2C%20Lex%20Spoon%2C%20Bill%20Venners%20%20Frank%20Sommers%20(z-lib.org).pdf",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "909473458684055584",
+      "type": "Default",
+      "timestamp": "2021-11-14T16:02:49.75+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://craftinginterpreters.com/contents.html",
+      "author": {
+        "id": "594240192731152388",
+        "name": "m4hi2",
+        "discriminator": "9610",
+        "nickname": "m4hi2",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/594240192731152388/70e572ba14dbcd1086557e6bdc2f4e80.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "909901739073888256",
+      "type": "Default",
+      "timestamp": "2021-11-15T20:24:39.752+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "",
+      "author": {
+        "id": "735485879946182758",
+        "name": "uthsob_cb",
+        "discriminator": "9713",
+        "nickname": "uthsob_cb",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/735485879946182758/b2e3afa5f0c96d8da42316b225ebd21d.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "909901738511831050",
+          "url": "https://cdn.discordapp.com/attachments/800340825216516106/909901738511831050/Steal_Like_an_Artist__PDFDrive_.pdf",
+          "fileName": "Steal_Like_an_Artist__PDFDrive_.pdf",
+          "fileSizeBytes": 6829798
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "914447365182738463",
+      "type": "Default",
+      "timestamp": "2021-11-28T09:27:21.47+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "The Art and Craft of Problem Solving",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "914447364742344754",
+          "url": "https://cdn.discordapp.com/attachments/800340825216516106/914447364742344754/Paul_Zeitz_-_The_Art_and_Craft_of_Problem_Solving-John_Wileye_2007.pdf",
+          "fileName": "Paul_Zeitz_-_The_Art_and_Craft_of_Problem_Solving-John_Wileye_2007.pdf",
+          "fileSizeBytes": 3608568
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "916649949570170880",
+      "type": "Default",
+      "timestamp": "2021-12-04T11:19:38.51+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Discrete Mathematics and Its Applications - Kenneth Rosen https://notendur.hi.is/mbh6/html/_downloads/Discrete%20Mathematics%20and%20Its%20Applications%20-%20Kenneth%20Rosen%20(2012).pdf",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "989093749051240499",
+      "type": "Default",
+      "timestamp": "2022-06-22T09:05:26.247+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://effective-shell.com/",
+      "author": {
+        "id": "472085343466815488",
+        "name": "ihasidul",
+        "discriminator": "9342",
+        "nickname": "ihasidul",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/472085343466815488/1ce3f24930c10ee0a15f82cf53ffbc44.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Effective Shell | Effective Shell",
+          "url": "https://effective-shell.com/",
+          "timestamp": null,
+          "description": "This book is for anyone who is interested in computing, and wants to learn more about the exciting, but sometimes daunting world of The Shell. The shell is simple interface for working with computers and programs and learning some of its features can enormously increase your productivity as any computer user - whether a home user or hobbyist, pr...",
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [
+        {
+          "emoji": {
+            "id": "",
+            "name": "\uD83D\uDC96",
+            "code": "sparkling_heart",
+            "isAnimated": false,
+            "imageUrl": "https://cdn.jsdelivr.net/gh/twitter/twemoji@latest/assets/svg/1f496.svg"
+          },
+          "count": 3
+        }
+      ],
+      "mentions": []
+    },
+    {
+      "id": "989093854034669568",
+      "type": "Default",
+      "timestamp": "2022-06-22T09:05:51.277+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "Good one for beginners.",
+      "author": {
+        "id": "472085343466815488",
+        "name": "ihasidul",
+        "discriminator": "9342",
+        "nickname": "ihasidul",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/472085343466815488/1ce3f24930c10ee0a15f82cf53ffbc44.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1060594511069315134",
+      "type": "Default",
+      "timestamp": "2023-01-05T16:23:56.332+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "```\nmagnet:?xt=urn:btih:79605e6c7f7b4293f6e9460a221af67937124a76&dn=Meditations%20-%20Marcus%20Aurelius%20[AhLaN]&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.open-internet.nl:6969/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://tracker.internetwarriors.net:1337/announce&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://9.rarbg.to:2710/announce&tr=udp://9.rarbg.me:2710/announce&tr=http://tracker3.itzmx.com:6961/announce&tr=http://tracker1.itzmx.com:8080/announce&tr=udp://exodus.desync.com:6969/announce&tr=udp://explodie.org:6969/announce&tr=udp://ipv4.tracker.harry.lu:80/announce&tr=udp://denis.stalker.upeer.me:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=udp://tracker.tiny-vps.com:6969/announce&tr=udp://thetracker.org:80/announce&tr=udp://open.demonii.si:1337/announce&tr=udp://tracker4.itzmx.com:2710/announce&tr=udp://tracker.cyberia.is:6969/announce&tr=udp://retracker.netbynet.ru:2710/announce\n```",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [
+        {
+          "id": "1060594510830248027",
+          "url": "https://cdn.discordapp.com/attachments/800340825216516106/1060594510830248027/Marcus_Aurelius_-_Meditations.jpg",
+          "fileName": "Marcus_Aurelius_-_Meditations.jpg",
+          "fileSizeBytes": 39576
+        }
+      ],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 12
+}

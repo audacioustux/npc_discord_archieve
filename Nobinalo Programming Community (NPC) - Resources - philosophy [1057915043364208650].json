@@ -1,0 +1,124 @@
+{
+  "guild": {
+    "id": "728241686123249675",
+    "name": "Nobinalo Programming Community (NPC)",
+    "iconUrl": "https://cdn.discordapp.com/icons/728241686123249675/ed30deb98d4eae3a46d549145b941660.png?size=512"
+  },
+  "channel": {
+    "id": "1057915043364208650",
+    "type": "GuildTextChat",
+    "categoryId": "739179719315947531",
+    "category": "Resources",
+    "name": "philosophy",
+    "topic": null
+  },
+  "dateRange": {
+    "after": null,
+    "before": null
+  },
+  "messages": [
+    {
+      "id": "1057915160607604827",
+      "type": "Default",
+      "timestamp": "2022-12-29T06:57:09.402+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://iep.utm.edu/love/",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Philosophy of Love",
+          "url": "https://iep.utm.edu/love/",
+          "timestamp": null,
+          "description": "",
+          "color": "#FFFFFF",
+          "author": {
+            "name": "James Fieser",
+            "url": null
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1057992901067554867",
+      "type": "Default",
+      "timestamp": "2022-12-29T12:06:04.172+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://youtu.be/IAgJWzjwfw8",
+      "author": {
+        "id": "723940136420638860",
+        "name": "SHANTO",
+        "discriminator": "6483",
+        "nickname": "SHANTO",
+        "color": null,
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/723940136420638860/1ed1d7f1a0702d527a63637b18b9204c.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [
+        {
+          "title": "Philosophy of Love   Lecture 1",
+          "url": "https://www.youtube.com/watch?v=IAgJWzjwfw8",
+          "timestamp": null,
+          "description": "Part one of a four-part series on the Philosophy of Love for the Osher Lifelong Learning Institute. The speaker is Dr. Andrew Fiala. \n\nThe Osher Lifelong Learning Institute (OLLI) at California State University, Fresno, is a program created for adults age 50+ who wish to continue learning and exploring for the sheer joy of it. Renew your enthusi...",
+          "color": "#FF0000",
+          "author": {
+            "name": "Fresno State Continuing & Global Education",
+            "url": "https://www.youtube.com/channel/UC-C4MloE5mmtriZ1j6OyfPA"
+          },
+          "thumbnail": {
+            "url": "https://images-ext-2.discordapp.net/external/Jy9B85PBoCGJh7FX-3JwLdBEA8EucGcWALyzJuwm4hA/https/i.ytimg.com/vi/IAgJWzjwfw8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          },
+          "images": [],
+          "fields": []
+        }
+      ],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    },
+    {
+      "id": "1059854330842325123",
+      "type": "Default",
+      "timestamp": "2023-01-03T15:22:43.614+00:00",
+      "timestampEdited": null,
+      "callEndedTimestamp": null,
+      "isPinned": false,
+      "content": "https://plato.stanford.edu/entries/pascal-wager",
+      "author": {
+        "id": "562876894593155073",
+        "name": "audacioustux",
+        "discriminator": "4756",
+        "nickname": "Audacious Tux \uD83D\uDC27",
+        "color": "#E91E63",
+        "isBot": false,
+        "avatarUrl": "https://cdn.discordapp.com/avatars/562876894593155073/c9320137ea6dafc96198e17dc7827207.png?size=512"
+      },
+      "attachments": [],
+      "embeds": [],
+      "stickers": [],
+      "reactions": [],
+      "mentions": []
+    }
+  ],
+  "messageCount": 3
+}
